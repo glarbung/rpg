@@ -3,13 +3,12 @@
 - kaksi "neroa" pelaa peliä kaupungilla, jossa eivät huomioi muita koska kukaan muu ei ole heidän tasollaan
 - siirtyminen keskelle sarjamurhaajan killing spreetä
 - uskonsa menettänyt pappi, joka on fisher king
-- wendigo
+(- wendigo)
 - lighthouse setting
 - perintöriita ala cluedo
 - mongoolit ja deathworm
 - redcap-keiju
 - demoni alkaa hallita luostaria
-- tarttuva vitsi (R&C ritarien meemimielenhallinta)
 - pako vankilasta
 - suurmyrsky Jaragualla
 - Mr. Toot (Iskanderin muusikko)
