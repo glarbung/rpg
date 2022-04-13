@@ -72,4 +72,4 @@ Hahmot voivat kuolla pelissä. Fyysinen kuolema vain siirtää hahmon seuraavaan
 *Varmistettuja kohtaamisia:*<br>
 - *1945 japanilaisten miehittämä \[REDAKTOITU\]. Vain kaksi amerikkalaista sotilasta selviytyi kohtaamisesta.*
 - *1978 \[REDAKTOITU\], Itä-Saksa. Temppeliritarien iskuryhmä kutsuttiin poikkeuksellisesti avuksi.*
-- *2028 \[REDAKTOITU\], Kashmir. Temppeliritarien iskuryhmä osallistui iskuun nihilterroristisolua vastaan. Näyte kohteesta saatiin kerättyä. \[REDAKTOITU\] MacKenna vahvisti kohteen tienneen yksityiskohtia kohtaamisesta vuonna 1978.*
+- *2028 \[REDAKTOITU\], Kashmir. Temppeliritarien iskuryhmä osallistui iskuun nihilterroristisolua vastaan. Näyte kohteesta saatiin kerättyä. \[REDAKTOITU\] MacKenna vahvisti kohteen tienneen vuonna 1978 yksityiskohtia tästä kohtaamisesta.*
