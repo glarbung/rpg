@@ -1,11 +1,9 @@
 # Operaatio Aion
 ## Yliluonnollinen mysteeri ajan halki Antumbran maailmassa
 
-*XX.5.2030*
-
-*Turvaluokitus: S*
-
-*Lukeminen sallittu vain valtuutetun agentin läsnäollessa*
+*XX.5.2030<br>
+Turvaluokitus: S<br>
+Lukeminen sallittu vain valtuutetun agentin läsnäollessa*
 
 *Arvon toimija,*
 
