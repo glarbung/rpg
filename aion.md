@@ -1,7 +1,6 @@
 # Operaatio Aion
 ## Yliluonnollinen mysteeri ajan halki Antumbran maailmassa
 
-<<<<<<< HEAD
 *XX.5.2030*
 
 *Turvaluokitus: S*
@@ -11,14 +10,6 @@
 *Arvon toimija,*
 
 *Luet tätä, koska Illuminati on valinnut sinut järjestöjen kaikista jäsenistä osallistumaan tärkeään operaatioon.*
-=======
-*XX.5.2030
-Turvaluokitus: S
-Lukeminen sallittu vain valtuutetun agentin läsnäollessa*
-
-*Arvon toimija,
-Luet tätä, koska Illuminati on valinnut sinut järjestöjen kaikista jäsenistä osallistumaan tärkeään operaatioon.*
->>>>>>> 136f46ec8568af596c06f68d6a5f2f02ba8523ab
 
 *Temppeliritarien johdolla toteutettava operaatio Aion on koko Illuminatin yhteisoperaatio, jonka tarkoituksena on kerätä tietoa omega-luokan uhasta. Operaatio on sekä hengenvaarallinen että osaamistasoltaan vaativa. Osallistumista tarjotaan vain kaikkien järjestöjen parhaimmille asiantuntijoille. Jos pystyit murtamaan tämän asiakirjeen parakognitiivisen salauksen, olet yksi heistä.*
 
