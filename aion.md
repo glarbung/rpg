@@ -35,6 +35,7 @@ Kampanja on tarkoitus pelata touko-heinäkuussa. Ja se pelataan (luultavasti) k�
 
 - https://www.dropbox.com/s/ejlh7btzcrzaks8/Codicem%20Protectores_pictures_ver3.pdf?dl=0
 - https://www.dropbox.com/s/8ur7ko3a2r1gw2q/antumbra_centuries.mp4?dl=0
+- https://github.com/glarbung/rpg/blob/master/antumbra_salaseurat_2030.md
 
 Huomioitavaa on, että esitelmä edustaa järjestöjä vuonna 1935. Aion alkaa 95 vuotta myöhemmin, joten alajärjestöt ovat voineet muuttua. Globalisaation myötä Illuminati on kasvanut ja sen prosessit ovat hiottu vastaamaan informaatioaikakautta.
 
