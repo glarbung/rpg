@@ -22,13 +22,13 @@ Persoonallisuus: Aloiteheitto. Puolitettuna lisää varustepaikkoja.
 
 
 ====Kehopisteet====
-Jos loppuu...
+Jos loppuu, hahmo pökertyy ja tarvitsee apua. Kohtauksen jälkeen voidaan parantaa 1KP:hen ilman sen kummempia kikkailuja.
 
 Milestonet:
 1/3-1/2 KP takasin // suhteessa CON enemmän, tyyliin 2+CON/2
 
 ====Mielipisteet====
-Käyttö antaa automaattisen onnistumisen heittoon. Voi kulua myös osana esim. aluehyökkäystä.
+Käyttö antaa automaattisen onnistumisen heittoon. Voi kulua myös osana esim. aluehyökkäystä. Ei voi laskea alle 0:n.
 
 Palautuu OPTIONAL mukaan // Milestoneissa 1+WIS/2
 
@@ -40,6 +40,7 @@ Esimerkit vahinkotyypeistä
 
 Aseslotit:
 2 kevyttä, 1 iso
++1kevyt per CHA/2, 2 kevyttä = 1 iso
 
 
 Liikkuminen taistelussa:
