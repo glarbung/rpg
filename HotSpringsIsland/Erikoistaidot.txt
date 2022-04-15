@@ -1,0 +1,31 @@
+=Erikoistaidot=
+
+Charge: 2toiminto. Voi liikkua ja hyökätä päätepisteessä samalla toiminnolla.
+Spring Attack: 3toiminto. Voi liikkua hyökkäyksen yhteydessä alueelta toiselle siten, että lähtöalueella olevat eivät saa vapareita.
+Cleave: 3toiminto, lähitaisteluhyökkäys kahteen viereiseen kohteeseen samalla heitolla
+Greater Cleave: (Vaatii Cleave ja Charge) Kuin yllä, mutta toinen kohde saa olla toisella zonella
+Whirlwind: Vaatii Cleave ja Spring Attack. -1MP, 3toiminto, lähitaisteluhyökkäys kaikkiin viereisiin kohteisiin samalla heitolla
+Trip/Dirty Fighting: +1toimintohintaan jos hyökkäys osuu, lähitaisteluhyökkäykset kohteeseen edulla kunnes tämän seuraava vuoro tulee.
+Sneak Attack: +1 vahinko, kun lähitaisteluhyökkäys edulla.
+Improved Sneak attack: (Vaatii Sneak Attack) Kuin yllä, mutta +2 vahinko.
+Two Weapon Combat: Voi hyökätä kahdella lähitaisteluaseella eri käsissä, jolloin +1D hyökkäysheittoon. Jos aseilla eri vahinkotyypit, voit valita kumpaa käytetään
+Quickdraw: Aseiden vaihto -1toiminto.
+(YHDISTÄ SEUR. 2 feattia yhdeksi?)
+Improved Unarmed Combat: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan.
+Greater Unarmed Combat: (Vaatii Improved Unarmed Combat) Jos kädet tyhjät, aseeton hyökkäys +1D. Ei kumulatiivinen Two Weapon Combatin kanssa.
+Combat Reflexes: Ensimmäinen reaktio kierroksessa maksaa 1 toiminnon vähemmän (min. 0)
+Sunder: 3toiminto, onnistunut lähitaisteluhyökkäys tiputtaa kohteen passiivista puolustusta yhdellä kierroksen loppuun, ei kumulatiivinen.
+Yado: Voi Torjua ampumahyökkäyksiä 1toiminto reaktiona ilman kilpeä.
+
+Improved Initiative: +1D aloiteheittoihin
+Interceptor: Voi käyttää yhden onnistumisen vaparissa estääkseen vihollista tekemästä vaparin aiheuttamaa toimintoa ((kuluuko toiminnot?))
+"Opportunist": Lisää vapareita per kierros, nyt myös Ketteryydestä
+Motivated: +1MP, palauta 1MP Milestonella
+Healthy: +1KP, palauta +1KP (pyöristyksen jälkeen) Milestonella
+Pack mule: Ylimääräinen iso aseslotti (tai 2 pientä)
+Survivalist: +2D eräilyheittoihin (yleensä Harjaantuneisuus) ja +1varustepaikka
+
+(YHDISTÄ SEUR. 2 feattia yhdeksi, jossa kaksi vaihtoehtoa miten toimia)
+Empower spell: Loitsiessa halutessaan -1MP, loitsun lopullinen vahinko x1.5 (pyör. ylösp.)
+Maximize spell: (Vaatii Empower spell) Loitsiessa halutessaan -2MP, loitsun lopullinen vahinko x2
+"Poke holes": Voi muokata aluehyökkäysloitsun aluetta siten, että max. Älyn verran yksittäisiä kohteita jää loitsun koskematta loitsijan lisäksi

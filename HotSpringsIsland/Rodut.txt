@@ -1,0 +1,20 @@
+=Rodut=
+
+Mustahaltia
+...
+-1 Erikoistaito
+Magian vastustus: +2d def vs. magic attacks, resist with 2d in Storytelling when otherwise not viable
+
+Ihminen: +1any stat, +1feat
+Örkki: 		+STR +CON -INT	crit damage bonus, Intimidation bonus
+Puolituinen: 	+DEX +INT -CON	Stealth & (will) save bonus
+Kääpiö: 	+CON +WIS -CHA	Resilience (hp/poison resist), communicate with carved stone
+Maahinen: 	+INT +CON -STR	Tinker/illusionist, communicate with animals
+Kultahaltia:	+WIS +DEX -CON	Keen senses, trance
+Mustahaltia:	+CHA +DEX -WIS	Darkvision, Magic resistance
+
+Puolihaltia(Bröögö):	+CHA +DEX -CON	Diplomatic, skill bonus (+1D aidatessa)
+Puolilohikäärme:	+STR +CHA -DEX	Breath weapon (one element (acid, lightning, fire, cold, poison), damage resistance (same element)
+Puolienkeli:	+WIS +CHA -INT	Cold resist, Communicate with celestials
+Puolidemoni:	+CHA +INT -STR	Fire resist, Communicate with demons
+Puolihenki:	+DEX +STR -CON	Speed bonus / scene, Ranged from 1+ zones deflect

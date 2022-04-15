@@ -1,0 +1,62 @@
+=Varusteet=
+(1 käden aseita, ellei toisin mainita)
+
+==Lähitaisteluaseet==
+(Kullekin löytyy lähtökohtaisesti viiltävä, lävistävä ja murskaava variantti)
+Kirves: Vahinkotyyppi viiltävä. Nuijassa murskaava ja pistomiekassa lävistävä
+Zweihander: 2 kättä. +1 vahinko, jos hyökkäys osuu. Vahinkotyyppi viiltävä. Varstassa murskaava ja keihäässä lävistävä.
+Sauva: 2 kättä. +1D puolustukseen lähitaisteluiskuja vastaan. Spell focus*
+
+==Ampuma-aseet==
+(Vahinkotyyppi lävistävä, ellei toisin mainita)
+Varsijousi/Musketti**: 2 kättä. +1 vahinko, Ladattava ja Tähdättävä
+Jousi*: 2 kättä. Tähdättävä
+Rannevarsijousi/Pistooli*: Kätevä
+Bola: Vahinkotyyppi murskaava
+Chakram: Vahinkotyyppi viiltävä
+Tikat: Vahinkotyyppi lävistävä
+
+==Kilvet==
+Suurkilpi*: -1 vahinko useimmista hyökkäyksistä käyttäjää vastaan, mutta Kömpelö
+Bukleri/torjuntatikari: +1D puolustukseen lähitaisteluiskuja vastaan
+
+==Muut==
+Aseeton: 0 kättä. Hyökkäys ja puolustus haitalla aseistettuja vastaan.
+Luonnolliset aseet: X kättä. Ei haittaa taisteluun aseistetuja vastaan. Muut ominaisuudet riippuvat aseesta.
+
+===Ominaisuudet(*)===
+Kömpelö: Varusteen vaihtaminen (joko käteen tai pois) maksaa ylimääräisen toiminnon
+Ladattava: Hyökkäys +1toiminto, mikäli ei kohtauksen ensimmäisesi
+Tähdättävä: Voi ottaa edun seuraavaan ampumahyökkäykseen käyttämällä 1toiminnon tähtäämiseen, katkeaa jos tekeekin muuta (myös reaktiot)
+Kätevä: Ei haittaa lähitaisteluetäisyydelle pääseen vihollisen ampumiseen, mutta mahdollistaa reaktiohyökkäyksen normaalisti jos ampuu muualle
+Spell focus: Käyttävät kädet lasketaan tyhjiksi loitsimista ajatellen
+
+===Erikoisominaisuuksia===
+Keen: Hyökätessä yksi heitetty 5 antaa lisänopan
+Vorpal: Hyökätessä kaikki heitetyt 5:t antavat lisänopan
++X ase (/2 suhde d20:een): Ensin +1D hyökkäykseen, sitten +1 vahinko, +1D hyökkäykseen jne.
++X haarniska (/2 suhde d20:een): Ensin +1D panssarinoppa, sitten -1 vahinko, +1D panssarinoppa jne.
+Flaming etc.: +1 vahinko ja hyökkäyksen vahinkotyyppi vaihtuu k.o. elementiksi etuja varten
+Damage Resistance: -X vahinkoa joka hyökkäyksestä käyttäjään
+Cursed: 2:t lasketaan 1:ksi kompikaatiota ajatellen käytettäessä
+
+==Haarniskat==
+(Väistönoppia korkeintaan Ketteryyden tai panssarin maksimin verran, kumpi onkaan alempi)
+Ei panssaria: 0 panssarinoppaa, ei väistönoppamaksimia
+Nahkapanssari: 1 panssarinoppa, max. 4 väistönoppaa
+Kovanahkahaarniska: 2 panssarinoppaa, max. 3 väistönoppaa
+Rengashaarniska: 3 panssarinoppaa, max. 2 väistönoppaa
+Puolilevypanssari: 4 panssarinoppaa, max. 3 väistönoppaa
+Täyshaarniska: 5 panssarinoppaa, max. 0 väistönoppaa
+
+
+///
+kilvet = +1-2D aktiivinen puolustus, aseisiin +1 dmg paitsi kevyet (concealable) ja hyökkääjän etu. aseeton huono kaikkea paitsi panssaroimatonta vastaan
+haarniskat = /2 ei heitettävä?
+
+
+
+=Loottisäännöt (siirrettävä omakseen)=
+Ryhmä voi tuoda yhdeltä retkeltä yhteensä korkeintaan 50:n vekselin edestä arvoesineitä, kolikoita jne.
+Riittävä määrä vekseleitä (100 per taso) mahdollistaa hahmojen (elin-)tason nousun, antaen ominaisuuspisteen, erikoistaidon tai loitsun.
+Trofeet voi myydä tullijärjestelmän ulkopuolella saarella, mahdollistaen merkittävän sivutulon lähteen, kunhan sopiva ostaja löytyy.

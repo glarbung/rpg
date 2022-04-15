@@ -1,0 +1,82 @@
+=Säännöt=
+
+==Nopanheitto==
+Heitetään ominaisuus (plus mahdolliset bonukset) verran d6:ia. Jokainen 4+ on yksi onnistuminen. Lisäksi pelaajahahmoilla jokainen 6 antaa lisänopan ja jos 1:iä enemmän kuin 6:ia koko heitossa, tulee komplikaatio epä-/onnistumisen lisäksi.
+
+===Onnistumiset===
+Heitolla voi olla onnistumistasovaatimus (tyypillisesti 1, 2 tai 3) ja ylittävät onnistumiset voi halutessaan käyttää tekemään asia nopeammin, paremmin tai näyttävämmin.
+
+(OPTIONAL) Ylimääräiset onnistumiset voi käyttää myös palauttamaan paikalla olevien PH:iden Mielipisteitä, suhteella yksi onnistuminen per yksi piste yhdelle hahmolle.
+
+==Ominaisuudet==
+Ominaisuudet ovat normaalisti välillä 1-5, mutta yksittäisen ominaisuus voi olla rotumuutosten jälkeen myös välillä 0-4 tai 2-6. 0:n ominaisuutta heitetään kahdella nopalla, joista huomioidaan vain alempi.
+
+Ominaisuudet vaikutuksineen alla. Puolitettu ominaisuus pyöristetään aina ylöspäin. Lisäksi ominaisuuksia käytetään tarinassa sen mukaan mikä tuntuu sopivalta.
+
+Väkevyys: Lähitaisteluhyökkäykset. Puolitettuna Torjunta -reaktio.
+Ketteryys: Ampuma-asehyökkäykset. Refleksipuolustus. Puolitettuna Väistöpuolustus.
+Sitkeys: Kestävyyspuolustus. Puolitettuna lisää Kehopisteitä (5+CON/2, heal???)
+Oppineisuus: Loitsuhyökkäykset. Puolitettuna lisää erikoistaitoja/loitsuja.
+Harjaantuneisuus: Tahtopuolustus. Puolitettuna lisää Mielipisteitä (2+WIS/2)
+Persoonallisuus: Aloiteheitto. Puolitettuna lisää varustepaikkoja.
+
+
+====Kehopisteet====
+
+
+Milestonet:
+1/3-1/2 KP takasin // suhteessa CON enemmän, tyyliin 2+CON/2
+
+====Mielipisteet====
+Käyttö antaa automaattisen onnistumisen heittoon. Voi kulua myös osana esim. aluehyökkäystä.
+
+Palautuu OPTIONAL mukaan // Milestoneissa 1+WIS/2
+
+
+Dis/advantage:
+-
+Esimerkit vahinkotyypeistä
+
+
+Aseslotit:
+2 kevyttä, 1 iso
+
+
+Liikkuminen taistelussa:
+-Vain kerran kierroksessa saa liikkua zoneja?
+
+Withdraw:
++1toiminto liikkeeseen
+
+Aloite:
+Toimijoiden keskinäinen aloitejärjestys kullakin toimintoluvulla on aina sama: Pelaajahahmot ennen NPC:itä ja kummankin ryhmän keskinäinen järjestys katsoo isoimman alimman statin, jos tasapeli, seuraavaksi alimman jne.
+
+Ready action:
+1toiminto, maksaa tarvittavat kun toteutuu jos ei mennyt riittävästi, voi peruuttaa oman vuoron alussa
+
+Esimerkkikomplikaatioita:
+
+==Taistelusäännöt==
+
+===Hyökkäys ja puolustus===
+
+
+====Passiivinen puolustus====
+Kaikilla hahmoilla on passiivinen puolustus, joka määrittää vaikeuden näihin osumiseen. Vaihtelee 0:sta (jolloin jokainen onnistuminen hyökkäysheitossa antaisi lisäefektin) 6+:aan.
+
+===Reaktiot===
+Reaktiot ovat yleensä 1T maksavia toimintoja, jotka aktivoidaan sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
+
+Mikäli reaktion käyttö tiputtaisi hahmon toiminnot miinukselle, hahmo ei voi tehdä reaktiota. Toimintomaksu luonnollisesti viivästyttää hahmon myöhempiä toimintoja.
+
+====Valmisteltu toiminto====
+
+
+====Vapaa isku====
+
+
+====Torjuminen====
+Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen puolustusta, kuin olisivat olleet osa sitä alunperinkin. 
+Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
+
+Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun.
