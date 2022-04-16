@@ -16,6 +16,9 @@ Greater Unarmed Combat: (Vaatii Improved Unarmed Combat) Jos kädet tyhjät, ase
 Combat Reflexes: Ensimmäinen reaktio kierroksessa maksaa 1 toiminnon vähemmän (min. 0)
 Sunder: 3toiminto, onnistunut lähitaisteluhyökkäys tiputtaa kohteen passiivista puolustusta yhdellä kierroksen loppuun, ei kumulatiivinen.
 Yado: Voi Torjua ampumahyökkäyksiä 1toiminto reaktiona ilman kilpeä.
+Power attack: Voi muuttaa max. STR/2 verran osumisnoppia lisävahingoksi ennen lähitaisteluhyökkäysheittoa
+Pelottava: (Ks. Örkki) +1D pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1D kohteen seuraavaan hyökkäykseen
+Diplomaattinen: (Ks. Puolihaltia) +1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1 kohteen passiiviseen puolustukseen seuraavaa hyökkäykstä vastaan
 
 Improved Initiative: +1D aloiteheittoihin
 Interceptor: Voi käyttää yhden onnistumisen vaparissa estääkseen vihollista tekemästä vaparin aiheuttamaa toimintoa ((kuluuko toiminnot?))
@@ -29,3 +32,4 @@ Survivalist: +2D eräilyheittoihin (yleensä Harjaantuneisuus) ja +1varustepaikk
 Empower spell: Loitsiessa halutessaan -1MP, loitsun lopullinen vahinko x1.5 (pyör. ylösp.)
 Maximize spell: (Vaatii Empower spell) Loitsiessa halutessaan -2MP, loitsun lopullinen vahinko x2
 "Poke holes": Voi muokata aluehyökkäysloitsun aluetta siten, että max. Älyn verran yksittäisiä kohteita jää loitsun koskematta loitsijan lisäksi
+Spell focus: Valitse yksi aktiivinen puolustustyyppi (Refleksi, Kestävyys tai Tahto). Loitsujesi vastustaminen tällä puolustustyypillä vaatii ylimääräisen onnistumisen. Taidon voi ostaa kullekin puolustustyypille erikseen.
