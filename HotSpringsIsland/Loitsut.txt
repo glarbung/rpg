@@ -14,11 +14,11 @@ Lightning bolt: xxxxx
 (verimagia, joka maksaa -1KP)
 (tähdättävä ampumaloitsu)
 
-Summon: 2toiminto. Manaa esiin hengen palvelemaan kohtauksen ajaksi (statit 3). Korkeintaan Äly/2(p^) palvelijaa kerrallaan.
+Summon: 2toiminto. Manaa esiin hengen palvelemaan kohtauksen ajaksi (statit 3). Korkeintaan INT/2 palvelijaa kerrallaan.
 Necromancy: -1MP, 1toiminto. Nostaa kaatuneen epäkuolleeksi palvelijaksi (statit fyys4 ja henk2, varusteet mitä oli/poimii). Toimii liittolaisena, kunnes vapautat hengen tai tapetaan. Jos pökerryt, muuttuu vihamieliseksi kaikille ei-nekromantikoille/epäkuolleille.
 Turn undead: 2toiminto, aluehyökkäys Zonen epäkuolleisiin, voit vaihtaa yhden onnistumisen siihen, että kohde joutuu reaktiona perääntymään kauemmalle Zonelle.
 Scrying: -1MP, 1toiminto, antaa Vaparin. Voi korvata heiton jossa tietämys ratkaisee, Äly-heitolla tai saa Edun tulevaan heittoon.
-Illusion: 3toiminto, luo kohtauksen kestävän illuusion jonka vakuuttavuutta ja kohteiden määrä määritetään Äly-heitolla. Jos vahingoittaisi kohdetta, toimii hyökkäyksenä, mutta voi vahingoittaa kutakin hahmoa vain kerran.
+Illusion: 3toiminto, kohde heittää Tahtopuolustuksen vs. INT/2 luo kohtauksen kestävän illuusion jonka vakuuttavuutta ja kohteiden määrä määritetään Äly-heitolla. Jos vahingoittaisi kohdetta, toimii hyökkäyksenä, mutta voi vahingoittaa kutakin hahmoa vain kerran.
 Antimagic Field: -1MP, 3toiminto. Vähentää valitulla alueella (korkeintaan viereinen) Äly-heiton onnistumisten verran vahinkoa/onnistumisia kaikista loitsuista kohtauksen ajan.
 Charm: 2toiminto, Kerran kohtauksessa. Saa kohteen tekemään yhden toiminnon joka ei olisi tälle tavatonta (esim. eläin tai raakalainen voi hyökätä toverinsa kimppuun, muttei hypätä jykänteeltä).
 Heal wounds: -1MP, 2toiminto. Palauttaa 2KP ja virvottaa pökertyneen.

@@ -6,14 +6,14 @@ Mustahaltia
 Magian vastustus: +2d def vs. magic attacks, resist with 2d in Storytelling when otherwise not viable
 
 Ihminen: +1any stat, +1feat
-Örkki: 		+STR +CON -INT	crit damage bonus, Intimidation bonus
-Puolituinen: 	+DEX +INT -CON	Stealth & (will) save bonus
-Kääpiö: 	+CON +WIS -CHA	Resilience (hp/poison resist), communicate with carved stone
+Örkki: 		+STR +CON -INT	Raakalainen (Voi muuttaa max. STR/2 verran 6:ia 6:t suoraan lisävahingoksi lähitaisteluhyökkäyksessä) & Pelottava (+1D pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1D kohteen seuraavaan hyökkäykseen)
+Puolituinen: 	+DEX +INT -CON	Sneaky () & Strong willed ()
+Kääpiö: 	+CON +WIS -CHA	Resilience (hp/fort save), communicate with carved stone
 Maahinen: 	+INT +CON -STR	Tinker/illusionist, communicate with animals
 Kultahaltia:	+WIS +DEX -CON	Keen senses, trance
 Mustahaltia:	+CHA +DEX -WIS	Darkvision, Magic resistance
 
-Puolihaltia(Bröögö):	+CHA +DEX -CON	Diplomatic, skill bonus (+1D aidatessa)
+Puolihaltia(Bröögö):	+CHA +DEX -CON	Mukautuva (+1D avustusheittoihin) & Diplomaattinen (+1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1 kohteen passiiviseen puolustukseen seuraavaa hyökkäykstä vastaan)
 Puolilohikäärme:	+STR +CHA -DEX	Breath weapon (one element (acid, lightning, fire, cold, poison), damage resistance (same element)
 Puolienkeli:	+WIS +CHA -INT	Cold resist, Communicate with celestials
 Puolidemoni:	+CHA +INT -STR	Fire resist, Communicate with demons
