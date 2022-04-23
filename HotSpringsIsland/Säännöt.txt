@@ -6,12 +6,10 @@ Heitetään ominaisuus (plus mahdolliset bonukset) verran d6:ia. Jokainen 4+ on 
 ===Onnistumiset===
 Heitolla voi olla onnistumistasovaatimus (tyypillisesti 1, 2 tai 3) ja ylittävät onnistumiset voi halutessaan käyttää tekemään asia nopeammin, paremmin tai näyttävämmin.
 
-(OPTIONAL) Ylimääräiset onnistumiset voi käyttää myös palauttamaan paikalla olevien PH:iden Mielipisteitä, suhteella yksi onnistuminen per yksi piste yhdelle hahmolle.
-
 ==Ominaisuudet==
 Ominaisuudet ovat normaalisti välillä 1-5, mutta yksittäisen ominaisuus voi olla rotumuutosten jälkeen myös välillä 0-4 tai 2-6. 0:n ominaisuutta heitetään kahdella nopalla, joista huomioidaan vain alempi.
 
-Ominaisuudet vaikutuksineen alla. Puolitettu ominaisuus pyöristetään aina ylöspäin. Lisäksi ominaisuuksia käytetään tarinassa sen mukaan mikä tuntuu sopivalta.
+Ominaisuudet mekaanisine vaikutuksineen alla. Puolitettu ominaisuus pyöristetään aina ylöspäin. Lisäksi ominaisuuksia käytetään tarinassa sen mukaan mikä tuntuu sopivalta.
 
 Väkevyys: Lähitaisteluhyökkäykset. Puolitettuna Torjunta -reaktio.
 Ketteryys: Ampuma-asehyökkäykset. Refleksipuolustus. Puolitettuna Väistöpuolustus.
@@ -20,64 +18,82 @@ Oppineisuus: Loitsuhyökkäykset. Puolitettuna lisää erikoistaitoja/loitsuja.
 Harjaantuneisuus: Tahtopuolustus. Puolitettuna lisää Mielipisteitä (2+WIS/2)
 Persoonallisuus: Aloiteheitto. Puolitettuna lisää varustepaikkoja.
 
-
 ====Kehopisteet====
 Jos loppuu, hahmo pökertyy ja tarvitsee apua. Kohtauksen jälkeen voidaan parantaa 1KP:hen ilman sen kummempia kikkailuja.
-
-Milestonet:
-1/3-1/2 KP takasin // suhteessa CON enemmän, tyyliin 2+CON/2
+Palautuu Milestoneissa 2+CON/2
 
 ====Mielipisteet====
-Käyttö antaa automaattisen onnistumisen heittoon. Voi kulua myös osana esim. aluehyökkäystä. Ei voi laskea alle 0:n.
+Käyttö muuttaa epäonnistumisen onnistumiseksi (ei ylimääräisiä onnistumisia). Voi kulua myös osana esim. aluehyökkäystä. Ei voi laskea alle 0:n.
+Palautuu Milestoneissa 1+WIS/2
 
-Palautuu OPTIONAL mukaan // Milestoneissa 1+WIS/2
 
+==Dis/advantage==
 
-Dis/advantage:
 -
 Esimerkit vahinkotyypeistä
 
 
-Aseslotit:
-2 kevyttä, 1 iso
-+1kevyt per CHA/2, 2 kevyttä = 1 iso
+==Varustepaikat==
+Kaikilla 2 kevyttä ja 1 raskas
++1 kevyt per CHA/2 (voi muuttaa 2 kevyttä = 1 raskas ja toisinpäin)
 
 
-Liikkuminen taistelussa:
--Vain kerran kierroksessa saa liikkua zoneja?
+=Taistelusääntöjä=
 
-Withdraw:
-+1toiminto liikkeeseen
-
-Aloite:
+==Aloite==
 Toimijoiden keskinäinen aloitejärjestys kullakin toimintoluvulla on aina sama: Pelaajahahmot ennen NPC:itä ja kummankin ryhmän keskinäinen järjestys katsoo isoimman alimman statin, jos tasapeli, seuraavaksi alimman jne.
 
-Ready action:
-1toiminto, maksaa tarvittavat kun toteutuu jos ei mennyt riittävästi, voi peruuttaa oman vuoron alussa
 
-Esimerkkikomplikaatioita:
+==Toimiminen taistelussa==
+Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän toimintoja. Tässä muutamia perustoimintoja:
 
-==Taistelusäännöt==
+-Hyökkääminen: 2toiminto.
 
-===Hyökkäys ja puolustus===
+-Torjuminen: 1toiminto-reaktio. Lisää STR/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle
+Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toveri) puolustusta, kuin olisivat olleet osa sitä alunperinkin. 
+Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
 
+-Valmistautuminen: 1toiminto. Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1toiminto (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0toiminto-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
+Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3toiminto loitsiminen, alkuperäisen valmistautumisen aloittamisen 1toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 1toiminto-reaktio).
 
-====Passiivinen puolustus====
-Kaikilla hahmoilla on passiivinen puolustus, joka määrittää vaikeuden näihin osumiseen. Vaihtelee 0:sta (jolloin jokainen onnistuminen hyökkäysheitossa antaisi lisäefektin) 6+:aan.
+-Nopea hyökkäys (BETA): 1toiminto. Hyökkäyksen lopullinen vahinko puolitetaan (pyöristys alaspäin) ja mahdolliset efektit vaativat tuplasti niin monta onnistumista uhrattavaksi. Lähinnä hyödyllinen siihen, jos kierroksen lopussa on vain 1 aloite.
+-//Viivyttäminen (BETA): 1-2toiminto, kerran kierroksessa, voi tehdä vasta kierroksen lopussa. Siirrä jäljellä olevat 1 tai 2 toimintoasi seuraavalle kierrokselle. Lähinnä hyödyllinen siihen, jos tarvitsee toimia nopeasti seuraavalla kierroksella tai huoli, että toiminnot eivät riitä isoon toimintoon.
 
 ===Reaktiot===
 Reaktiot ovat yleensä 1T maksavia toimintoja, jotka aktivoidaan sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
 
 Mikäli reaktion käyttö tiputtaisi hahmon toiminnot miinukselle, hahmo ei voi tehdä reaktiota. Toimintomaksu luonnollisesti viivästyttää hahmon myöhempiä toimintoja.
 
-====Valmisteltu toiminto====
+==Alueet==
+Zone-logiikka monesta muusta pelistä tuttu. Yleensä hyvä jos rajautuvat johonkin, vaikka kaatuneita puita, vankkureita tai tiheää pusikkoa siihen väliin.
+
+==Käsikähmä==
+Taistelun alussa normaalisti ei ole käsikähmiä, vaikka aloitettaisiin vihollisten kanssa samalta alueelta. Käsikähmä muodostuu lähitaisteluhyökkäyksestä (vaikka ei tekisi vahinkoa) hyökkääjän ja puolustajan välille ja kaikki kumman tahansa kimppuun hyökkäävät (tai toista Torjumisella puolustavat) liittyvät käsikähmään.
+
+===Ylivoima===
+Käsikähmässä ylivoima on sillä puolella, jolla on vähintään 1,5x niin paljon taistelijoita kuin vastustajilla. Jos käsikähmässä on enemmän kuin kaksi osapuolta, kaikkien on vaikeampi saada yliotetta eli vastustajiksi lasketaan kaikki ei oman puolen taistelijat.
 
 
-====Vapaa isku====
+==Liikkuminen taistelussa==
+Liikkuminen alueelta toiselle 1toiminto (2toiminto, jos vaikeaa maastoa esim. korkeusero).
+Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vaparin.
+
+===Vetäytyminen===
+Liikkuminen maksaa +1toiminto, mutta estää vaparit liikkuvaan.
+
+===Vapaa isku ("vapari)===
+1toiminto-reaktio. Lähitaisteluhyökkäys kohteeseen, joka oli tekemässä seuraavaa (keskeyttää k.o. toiminnon, joka tapahtuu vasta hyökkäyksen jälkeen):
+-Liikkuu pois käsikähmästä, kun tämän puolella ei ole ylivoimaa
+-Käyttää ampuma-asetta tai hyökkäysloitsua joka ei ole "Kätevä".
 
 
-====Torjuminen====
-Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen puolustusta, kuin olisivat olleet osa sitä alunperinkin. 
-Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
+===Hyökkäys ja puolustus===
 
-Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun.
+
+
+
+Esimerkkikomplikaatioita:
+
+
+
+
