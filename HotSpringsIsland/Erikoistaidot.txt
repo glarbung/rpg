@@ -8,7 +8,7 @@ Whirlwind: Vaatii Cleave ja Spring Attack. -1MP, 3toiminto, lähitaisteluhyökk�
 Trip/Dirty Fighting: +1toimintohintaan jos hyökkäys osuu, lähitaisteluhyökkäykset kohteeseen edulla kunnes tämän seuraava vuoro tulee.
 Sneak Attack: +1 vahinko, kun lähitaisteluhyökkäys edulla.
 Improved Sneak attack: (Vaatii Sneak Attack) Kuin yllä, mutta +2 vahinko.
-Two Weapon Combat: Voi hyökätä kahdella lähitaisteluaseella eri käsissä, jolloin +1D hyökkäysheittoon. Jos aseilla eri vahinkotyypit, voit valita kumpaa käytetään
+Two Weapon Combat: Voi hyökätä kahdella lähitaisteluaseella eri käsissä, jolloin +1D hyökkäysheittoon. Normisäännöistä poiketen, voit valita aseista tilanteeseen hyödyllisemmän bonuksen kustakin kohdasta, mutta et laskea näitä yhteen. (Esim. osumisbonus toisesta ja vahinkotyyppi toisesta aseesta)
 Quickdraw: Aseiden vaihto -1toiminto.
 (YHDISTÄ SEUR. 2 feattia yhdeksi?)
 Improved Unarmed Combat: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan.
@@ -26,10 +26,20 @@ Interceptor: Voi käyttää yhden onnistumisen vaparissa estääkseen vihollista
 Motivated: +1MP, palauta 1MP Milestonella
 Healthy: +1KP, palauta +1KP (pyöristyksen jälkeen) Milestonella
 Pack mule: Ylimääräinen iso aseslotti (tai 2 pientä)
-Survivalist: +2D eräilyheittoihin (yleensä Harjaantuneisuus) ja +1varustepaikka
+Animal companion: Eläinkumppani kulkee mukana ja voi auttaa +1D:llä sopivissa toiminnoissa, kuten pelottelu tai jäljitys. Autonominen toiminta isännän ominaisuuksilla. Kumppanin tarvikkeet vievät isännältä yhden varustepaikan. Taistelussa omat 3 Kehopistettä, liikkuu samalla isännän kanssa (voi mennä eri paikkaan) ja antaa ilmaiseksi +1D avustuksensa lähitaisteluhyökkäyksiin.
+
+=Taustavaihtoehtofeatit (Suositus: otetaan hahmonluonnissa 1 per hahmo)=
+Metsästäjä: +2D eräilyheittoihin (yleensä Harjaantuneisuus. Jäljitys, leirin teko, suunnistaminen, kokkaaminen leiritulella jne.) ja +1 varustepaikka
+Tutkija: +2D magian tulkintaa (yleensä Oppineisuus. Riimut, maagiset esineet, voimakentät, maagiset arvoitukset jne.) ja voi ottaa kerran pelissä -1MP loitsun hintaan
+Haudanryöstäjä: +2D varasteluun (yleensä Ketteryys. Näpistäminen, tiirikointi, ansojen purku yms.) ja +1D Refleksipuolustus
+Pyhiinvaeltaja: +2D vakuuttavuuteen (yleensä Persoonallisuus. Diplomatia, pelottelu, hämääminen jne.) ja +1D Tahtopuolustus
+Rangaistusvanki: +2D fyysiseen työhön (yleensä Sitkeys tai Väkevyys. kantaminen, siirtäminen, hajottaminen) ja +1D Kestävyyspuolustus
+Palkkasotilas: +2D sotilastietämys (yleensä Oppineisuus tai Harjaantuneisuus. Taktiikka, asetuntemus, sotilasarvojen ja käytöksen tunnistaminen yms.) ja +1 Kehopiste
+
 
 (YHDISTÄ SEUR. 2 feattia yhdeksi, jossa kaksi vaihtoehtoa miten toimia)
 Empower spell: Loitsiessa halutessaan -1MP, loitsun lopullinen vahinko x1.5 (pyör. ylösp.)
 Maximize spell: (Vaatii Empower spell) Loitsiessa halutessaan -2MP, loitsun lopullinen vahinko x2
 "Poke holes": Voi muokata aluehyökkäysloitsun aluetta siten, että max. Älyn verran yksittäisiä kohteita jää loitsun koskematta loitsijan lisäksi
 Spell focus: Valitse yksi aktiivinen puolustustyyppi (Refleksi, Kestävyys tai Tahto). Loitsujesi vastustaminen tällä puolustustyypillä vaatii ylimääräisen onnistumisen. Taidon voi ostaa kullekin puolustustyypille erikseen.
+Still/silent casting: Voi skipata toisen loitsukomponenttivaatimuksen lisäämällä joko +1t tai +1MP loitsuun tai molemmat lisäämällä molemmat (et voi ottaa +2MP tai +2t)
