@@ -1,5 +1,6 @@
 Säännöt:
 
+
 =Nopanheitto=
 Vain pelaajat heittävät noppaa (D) ja vain pelinjohtaja määrittelee vaikeusasteita (TN). Tyypillinen perushaastava vaikeusaste on TN2, johon nopista pitää saada kaksi onnistumista.
 
@@ -17,6 +18,7 @@ Esimerkiksi edun tai haitan voi antaa aiemmin onnistunut/epäonnistunut heitto, 
 
 ===Huomio pelinjohtajalle - Dis-/advantage vai TN adjustment?===
 Etu ja haitta ovat merkittävästi heikompia kuin kohdenumeron muokkaus, joten niitä kannattaa käyttää tarinallisten olosuhteiden sepustuksessa ja säästää TN adjustmentit kuvaamaan todellisen vastustajan haastetason muuttumista, kuten keskenäinen vaarallisuusero, heikkous tiettyä elementtiä vastaan tai erikoishyökkäys/muoto. Usein TN:n laskeminen edellyttää pelaajahahmolta valmistautumista (oikea ase/loitsu), resurssien (kuten MP:iden) käyttöä tai muuta konkreettista vaivannäköä. Edun saamiseen ei tarvitse olla yhtä tarkkana.
+
 
 =Ominaisuudet=
 Ominaisuudet ovat normaalisti välillä 1-5, mutta yksittäisen ominaisuus voi olla rotumuutosten jälkeen myös välillä 0-4 tai 2-6. 0:n ominaisuutta heitetään kahdella nopalla, joista huomioidaan vain alempi.
@@ -46,6 +48,7 @@ Kaikilla 2 kevyttä ja 1 raskas
 
 HUOM! Varusteiden vaihtaminen normaalisti ilmaista aktiivisen toiminnon (ei reaktion) yhteydessä.
 
+
 =Taistelusääntöjä=
 
 ==Aloite==
@@ -59,8 +62,9 @@ Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän toimintoj
 -Hyökkääminen: 2toiminto.
 
 -Torjuminen: 1toiminto-reaktio. Lisää STR/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle
-Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toveri) puolustusta, kuin olisivat olleet osa sitä alunperinkin. 
-Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
+Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toveri) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
+
+Yhtä hyökkäystä voidaan yrittää torjua vain kerran per puolustettava. Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
 
 -Valmistautuminen: 1toiminto. Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1toiminto (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0toiminto-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
 Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3toiminto loitsiminen, alkuperäisen valmistautumisen aloittamisen 1toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 1toiminto-reaktio).
@@ -109,7 +113,10 @@ Tahtopuolustus: Harjaantuneisuus
 Lähtökohtaisesti hahmo voi valita kuhunkin heittoon avuksi vain yhden kädessään olevan varusteen (esim. toisesta kilvestä ei ole apua). Panssarit ja helyt antavat etunsa tähän päälle.
 
 ===Ylimääräiset hyökkäysonnistumiset===
-Ylimääräiset onnistumiset hyökkäysheitossa voidaan käyttää suoraan lisävahinkona.
+Ylimääräiset onnistumiset hyökkäysheitossa voidaan käyttää suoraan lisävahinkona, joillakin aseilla tai erikoisominaisuuksilla onnistumisia saatetaan käyttää myös haittavaikutusten luomiseen.
+
+===Aluehyökkäykset===
+Hyökkäykset, jotka vaikuttavat useaan kohteeseen, heitetään erikseen jokaista kohden. Tämä siksi, että vaikka pooli on usein sama ja heittämistä voi tulla paljon, muuten yhdellä mielipisteellä saisi liikaa damaa läpi. Erotuksena tälle ovat vihollisparvet, joiden kimppuun käydään yhdellä heitolla. Jos parvi on osana aluehyökkäystä, voi sitä ajatella yhtenä kohteena muiden joukossa.
 
 ===Oma tuli===
 Hyökkäykset (esim. alue-), joka osuu toiseen pelaajahahmoon ratkaistaan siten, että vain puolustaja heittää. Vaikeusaste määritellään jakamalla hyökkäyspooli kaikkine muuttujineen kahdella ja pyöristämällä ylöspäin.
@@ -122,7 +129,8 @@ Peruspuolustusta käytetään lähinnä fyysisiin iskuihin, Refleksipuolustusta 
 ===Ylimääräiset puolustusonnistumiset===
 Ylimääräiset onnistumiset puolustusheitossa voidaan käyttää joko:
 A) "Coverauksen" eli oOnnistumisiksi tovereille samassa käsikähmässä/vieressä, jos puolustetaan aluehyökkäystä vastaan. Ei väliä puolustetaanko saveilla, fluffaa vaan asianmukaisesti.
-B) "Ripostena" eli lisänopiksi tulevaan hyökkäykseen. Peräkkäisten onnistuneiden puolustusten lisänopat eivät ole kumulatiivisia, vaan vain paras käytetään hyökätessä.
+B) "Ripostena" eli lisänopiksi tulevaan hyökkäykseen. Peräkkäisten onnistuneiden puolustusten lisänopat eivät ole kumulatiivisia, vaan vain paras käytetään hyökätessä. Torjunta -toimintoa käyttäessä, lisänopat menevät puolustettavalle hahmolle.
+
 
 =Loitsut=
 Kuka tahansa voi oppia magiaa sopivalla koulutuksella ja harjoittelulla. Monet loitsut käyttävät mielipisteen, koska ne ohittavat samalla tavoin ongelman kuin onnistunut heitto (kuten lentäminen) tai mahdollistavat asioita, jotka eivät normaalisti ole mahdollisia (kuten aluehyökkäykset).
