@@ -19,6 +19,7 @@ Yado: Voi Torjua ampumahyökkäyksiä 1toiminto reaktiona ilman kilpeä.
 Power attack: Voi muuttaa max. STR/2 verran osumisnoppia lisävahingoksi ennen lähitaisteluhyökkäysheittoa
 Pelottava: (Ks. Örkki) +1D pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1D kohteen seuraavaan hyökkäykseen
 Diplomaattinen: (Ks. Puolihaltia) +1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1 kohteen passiiviseen puolustukseen seuraavaa hyökkäykstä vastaan
+Staggering defense: Torjumis -toimintoa käyttäessä voit asettaa Riposte -lisänopat puolustettavan sijaan torjuttuun kohteeseen, josta niitä voi käyttää seuraava tämän kimppuun hyökkäävä. Jos torjuit liittolaisen puolesta, edellyttää tämä hänen suostumuksensa. Muistutuksena: Riposte-nopat eivät kumuloidu, vaan vain korkein lisänoppapooli pätee.
 
 Improved Initiative: +1D aloiteheittoihin
 Interceptor: Voi käyttää yhden onnistumisen vaparissa estääkseen vihollista tekemästä vaparin aiheuttamaa toimintoa ((kuluuko toiminnot?))
