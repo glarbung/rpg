@@ -1,20 +1,28 @@
 =Rodut=
 
-Mustahaltia
-...
--1 Erikoistaito
-Magian vastustus: +2d def vs. magic attacks, resist with 2d in Storytelling when otherwise not viable
+Ihminen: +1any stat, +2feat
 
-Ihminen: +1any stat, +1feat
 Örkki: 		+STR +CON -INT	Raakalainen (Voi muuttaa max. STR/2 verran 6:ia 6:t suoraan lisävahingoksi lähitaisteluhyökkäyksessä) & Pelottava (+1D pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1D kohteen seuraavaan hyökkäykseen)
-Puolituinen: 	+DEX +INT -CON	Sneaky () & Strong willed ()
-Kääpiö: 	+CON +WIS -CHA	Resilience (hp/fort save), communicate with carved stone
-Maahinen: 	+INT +CON -STR	Tinker/illusionist, communicate with animals
-Kultahaltia:	+WIS +DEX -CON	Keen senses, trance
-Mustahaltia:	+CHA +DEX -WIS	Darkvision, Magic resistance
+Kääpiö: 	+CON +WIS -CHA	Dwarven Resilience (+1 Kehopiste ja +1D Kestävyyspuolustus), Stonecraft (Voi kommunikoida muokatun kiven kanssa, saaden lisätietoa)
+Puolituinen: 	+DEX +INT -CON	Sneaky (+2D hiiviskelyyn ja piileskelyyn, yleensä Ketteryys) & Strong willed (+1D Tahtopuolustus)
+Maahinen: 	+INT +CON -STR	Small*, Tinker/Animal friend (Voi kommunikoida joko automatonien tai metsän eläinten kanssa, yleensä Persoonallisuus -heitto jos haluaa apua. Voi halutessaan myös kantaa pientä ystävää taskussaan (vie 1 varustepaikan). Ystävä voi auttaa sopivissa tilanteissa (voi osata lentää, olla hyvä kiipeilemään tms. sen mukaan millainen on), jolloin heität sopivaa ominaisuutta +2D:llä)
+Kultahaltia:	+WIS +DEX -CON	Keen senses (+2D havaintoheittoihin, yleensä Harjaantuneisuus), Trance (Nukkumisen sijaan voi meditoida 4h päivässä, vaikka ratsain)
+Mustahaltia:	+CHA +DEX -WIS	Darkvision (+2D havaintoheittoihin pimeässä, yleensä Harjaantuneisuus), Magic resistance (+2D puolustusheittoihin magiaa vastaan)
 
-Puolihaltia(Bröögö):	+CHA +DEX -CON	Mukautuva (+1D avustusheittoihin) & Diplomaattinen (+1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1 kohteen passiiviseen puolustukseen seuraavaa hyökkäykstä vastaan)
-Puolilohikäärme:	+STR +CHA -DEX	Breath weapon (one element (acid, lightning, fire, cold, poison), damage resistance (same element)
-Puolienkeli:	+WIS +CHA -INT	Cold resist, Communicate with celestials
-Puolidemoni:	+CHA +INT -STR	Fire resist, Communicate with demons
+Puolihaltia("Bröögö"):	+CHA +DEX -CON	Mukautuva (+1D avustusheittoihin) & Diplomaattinen (+1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, kohde heittää Tahtopuolustuksen vs. 1+CHA/2 ja jokainen läpi mennyt piste antaa -1 kohteen passiiviseen puolustukseen seuraavaa hyökkäykstä vastaan)
+Puolilohikäärme:	+STR +CHA -DEX	Hönkäisy (Kuin Liekehtivät kädet -loitsu, mutta ei vaadi käsiä ja valitse elementti (Happo, sähkö, tuli, jää, myrkky)), +1 damage resistance (sama elementti)
+Puolienkeli:	+WIS +CHA -INT	Cold resist, Siivet (kuin lentoloitsu, mutta ei maksa MP:tä)
+Puolidemoni:	+CHA +INT -STR	Fire resist, Hämiskiipeily (kuin loitsu, mutta ei maksa MP:tä. Voi käyttää häntäänsä yhtenä raajana)
 Puolihenki:	+DEX +STR -CON	Speed bonus / scene, Ranged from 1+ zones deflect
+
+Peikko:  +STR +CON -INT -CHA  Large*, +1DR vs. non-elemental damage, 2x damage from fire & acid
+
+
+=Yleisiä rodullisia ominaisuuksia*=
+
+Small: +1D REF, -1D FORT, -1 Melee atk, +1 Ranged def (not saves)
+Large: -1D REF, +1D FORT, +1 Melee atk, -1 Ranged def (not saves)
+
+
+
+(Terminologinen lisähuomio: Bregenin vanha kauppa-alue silloisten haltioiden ja ihmisten kuningaskuntien välillä toi puoliverisyyden puhekielisyyteen alueelta kotoisin olevaa tarkoittavalla ihmiskielen termillä Breger, joka on sittemmin kääntynyt kansan suussa osin halventavaksi, osin hellitteleväksi Bröögöksi)
