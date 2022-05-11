@@ -8,6 +8,7 @@ Disintegraatio: -1MP, Touch*, 2toiminto. Voi käyttää max. yhden onnistumisen 
 Taika-ammus: Homing*, 2 toiminto. Tekee osuessaan aina Äly/2(p^) vahinkoa. Kilpiloitsu blokkaa automaattisesti kaiken vahingon.
 Taikakoura: 
 Salama: 
+Prismatic ray: -1MP, 2toiminto, loitsuhyökkäys kohteeseen samalla tai viereisellä alueella, joka on aina sitä elementtiä, jolle vihollisella heikoin puolustus.
 
 ==Suojaloitsut==
 
@@ -19,6 +20,8 @@ Suojakenttä: -1MP, 1toiminto-reaktio. Suojaa loitsijaa ja tämän samalla aluee
 ==Tehostusloitsut==
 
 Ripeysloitsu: -1MP, Aktivoidaan heti aloitteiden heittämisen jälkeen, kestää kohtauksen. Kohde voi olla loitsija tai liittolainen, mutta loitsijalta voi olla vain yksi ripeysloitsu kerrallaan aktiivisena. Antaa +1 toiminto/kierros.
+Lentoloitsu: -1MP, mahdollistaa lentämisen kohtauksen ajaksi. Voi liikkua myös ylöspäin, avoimilla taistelukentillä yhden zonen maan yläpuolella. Voi ohittaa joitakin vaikeita maastoja (esim. kuopat) ja siirtymiä kuin niitä ei olisikaan. Lentäessä puolustus (ei savet) tapahtuu disadvantagella.
+Hämiskiipeily: -1MP, mahdollistaa vaivattoman ja nopean kiipeämisen mitä tahansa ei-antimaagista pintaa pitkin. Ohittaa joitakin vaikeita maastoja (esim. korkeuserot) ja siirtymiä kuin niitä ei olisikaan. Liikkuminen mahdollista kolmella vapaalla raajalla ja paikallaan pysyminen kahdella.
 
 ==Käyttöloitsut==
 
