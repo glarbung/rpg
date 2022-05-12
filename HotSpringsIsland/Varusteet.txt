@@ -1,63 +1,96 @@
 =Varusteet=
-(1 käden aseita, ellei toisin mainita)
+Aseet ilmoitettu seuraavasti: Koko (-/Puoli/Kevyt/Raskas), Käyttökädet (0-2k), Vahinkotyyppi (Viiltävä/Lävistävä/Pirstova/Tuli/Jää/Happo/Sähkö/Myrkky), Bonukset (esim. +1D torjumiseen, +1 vahinko jne.), Ominaisuudet(* = listattu alla)
 
 ==Lähitaisteluaseet==
-(Kullekin löytyy lähtökohtaisesti viiltävä, lävistävä ja murskaava variantti)
-Kirves: Vahinkotyyppi viiltävä. Nuijassa murskaava ja pistomiekassa lävistävä
-Zweihander: 2 kättä. +1 vahinko, jos hyökkäys osuu. Vahinkotyyppi viiltävä. Varstassa murskaava ja keihäässä lävistävä.
-Sauva: 2 kättä. +1D puolustukseen lähitaisteluiskuja vastaan. Spell focus*
+Puukko: Puoli, 1k, V, -, Huomaamaton*
+Tikari: Puoli, 1k, L, -, Huomaamaton* & Heitettävä*
+Pamppu: Puoli, 1k, P, -, Huomaamaton*
+
+Bola: Kevyt, 1k, P, -, Heitettävä* & Sitova*
+Bumerangi/Chakram: Kevyt, 1k, V, -, Heitettävä* & Palaava*
+
+Käsikirves/Leveämiekka: Kevyt, 1k, V, +1D osuminen
+Pistomiekka: Kevyt, 1k, L, +1D osuminen
+Sotavasara/-nuija: Kevyt, 1k, P, +1D osuminen
+Varpu/Symboli: Kevyt, 1k, +1D loitsuhyökkäys, Talismaani*
+
+Zweihander/Taistelukirves: Raskas, 2k, V, +1D osuminen & +1 vahinko
+Keihäs/Sotahakku: Raskas, 2k, L, +1D osuminen & +1 vahinko
+Sotavarsta/Jättinuija: Raskas, 2k, P, +1D osuminen & +1 vahinko
+Sauva: Raskas, 2k, P, +1 loitsuhyökkäys & +1D peruspuolustus, Talismaani*
+Flamberge: Raskas, 2k, V, +1D osuminen, Vuodattaja*
+Salkoase: Raskas, 2k, V/L, +1 vahinko
+
 
 ==Ampuma-aseet==
-(Vahinkotyyppi lävistävä, ellei toisin mainita)
-Varsijousi/Musketti**: 2 kättä. +1 vahinko, Ladattava ja Tähdättävä
-Jousi*: 2 kättä. Tähdättävä
-Rannevarsijousi/Pistooli*: Kätevä
-Bola: Vahinkotyyppi murskaava
-Chakram: Vahinkotyyppi viiltävä
-Tikat: Vahinkotyyppi lävistävä
+(Mukana Etäisyys ennen ominaisuuksia. 1 tarkoittaa seuraavalle alueelle, kuten Heitettävässä* ja 0 vain saman alueen sisällä)
+(Ammuksia ~loputtomasti per varuste, ellei komplikaatio tai muu osu kohdalle)
+
+Puhallusputki/tikat: Puoli, 1k, L, -1 vahinko, Etäisyys 1, Huomaamaton*
+Rannevarsijousi: Kevyt, 1k, L, -, Etäisyys 1, Kätevä* & Ladattava*
+Jousi: Raskas, 2k, L, -, Etäisyys 2, Tähdättävä*
+Varsijousi: Raskas, 2k, L, +1 vahinko, Etäisyys 2, Tähdättävä* & Ladattava*
+
+Arbalesti: Liikkumaton, 2k, L, +1D osuminen & +1 vahinko & -1D peruspuolustus, Etäisyys 3, Tähdättävä*
+Katapultti: Liikkumatton, 2k, P, +1D osuminen & +1 vahinko & -1D peruspuolustus, Etäisyys 5, Hyökkääminen vain avustettuna
+
 
 ==Kilvet==
-Suurkilpi*: -1 vahinko useimmista hyökkäyksistä käyttäjää vastaan, mutta Kömpelö
-Bukleri/torjuntatikari: +1D puolustukseen lähitaisteluiskuja vastaan
+Torjuntatikari: Kevyt, 1k, V, +1D torjunta (vain lähitaisteluhyökkäyksiä vastaan)
+Bukleri: Kevyt, 1k, M, +1D torjunta & -1D osuminen
+Pisarakilpi: Raskas, 1k, M, +1D torjunta & -1D osuminen& +1D peruspuolustus
+Suurkilpi: Raskas, 1k, M, +2D torjunta & -1D osuminen & +1D peruspuolustus, Kömpelö*
+
 
 ==Muut==
-Aseeton: 0 kättä. Hyökkäys ja puolustus haitalla aseistettuja vastaan.
-Luonnolliset aseet: X kättä. Ei haittaa taisteluun aseistetuja vastaan. Muut ominaisuudet riippuvat aseesta.
+Aseeton: -, 0k. Hyökkäys ja puolustus haitalla aseistettuja vastaan.
+Luonnolliset aseet (rodullinen): -, Xk. Ei haittaa taisteluun aseistetuja vastaan. Muut ominaisuudet riippuvat aseesta.
+
+
 
 ===Ominaisuudet(*)===
-Kömpelö: Varusteen vaihtaminen (joko käteen tai pois) maksaa ylimääräisen toiminnon
-Ladattava: Hyökkäys +1toiminto, mikäli ei kohtauksen ensimmäisesi
+Kömpelö: Varusteen vaihtaminen (käteen, ei pois) maksaa ylimääräisen toiminnon
+Ladattava: Hyökkäys +1toiminto, mikäli ei kohtauksen ensimmäinen hyökkäyksesi
 Tähdättävä: Voi ottaa edun seuraavaan ampumahyökkäykseen käyttämällä 1toiminnon tähtäämiseen, katkeaa jos tekeekin muuta (myös reaktiot)
 Kätevä: Ei haittaa lähitaisteluetäisyydelle pääseen vihollisen ampumiseen, mutta mahdollistaa reaktiohyökkäyksen normaalisti jos ampuu muualle
-Spell focus: Käyttävät kädet lasketaan tyhjiksi loitsimista ajatellen
+Talismaani: Käyttävät kädet lasketaan tyhjiksi loitsimista varten
+Huomaamaton: Mahtuu puolikkaaseen kevyeen varustekohtaan. Helppo piilottaa, mutta yleensä heikompi aseena.
+Heitettävä: Voidaan heittää viereiselle alueelle (normaalisti vain samalle alueelle), kaikki ampumataistelun haitat pätevät.
+Vuodattaja: Onnistuneet hyökkäykset vuodattavalla aseella samaan kohteeseen kasvattavat tulevien vuodattavalla aseella tehtyjen hyökkäysten vahinkoa yhdellä (max. +2 vahinkoa)
+Sitova: Onnistumisia voi käyttää sitomiseen, kuten Sitoja -erikoistaidolla.
+Palaava: Yhden onnistumisen voi käyttää siihen, että heitetty ase palaa käteen.
 
-===Erikoisominaisuuksia===
-Keen: Hyökätessä yksi heitetty 5 antaa lisänopan
-Vorpal: Hyökätessä kaikki heitetyt 5:t antavat lisänopan
+
+===Maagisia ominaisuuksia===
+(Ominaisuuden sanamuoto (esim. -ase) kertoo mihin sovellettavissa)
+
+Vorpaaliase: Hyökätessä kaikki heitetyt 5:t antavat lisänopan
 Elementtiase: +1 vahinko jos osuu ja ylimääräinen elementin mukainen vahinkotyyppi
+
 Lumottu ase**: Antaa +1D hyökkäykseen, sitten +1 vahinkoon jos osuu, hyökkäykseen jne.
 Lumottu kilpi**: Antaa +1D torjumiseen, sitten +1D puolustukseen, torjumiseen jne.
 Lumottu haarniska**: Ensin +1D panssarinoppa, sitten -1 vahinko, +1D panssarinoppa jne.
-Cursed: 2:t lasketaan 1:ksi kompikaatiota ajatellen käytettäessä
 (** konversio D20:stä toimii siten, että jokainen +2 antaa seuraavan tason, pyöristetään ylöspäin)
 
+Loitsun vahvistaja: +1 hyökkäysloitsujen vahinkoon kun kädessä. Tyypillisesti sauva tai varpu.
+
+Kirottu varuste: 2:t lasketaan 1:ksi komplikaatiota varten heitoissa, joissa varustetta käytetään
+
+
 ==Haarniskat==
-(Väistönoppia korkeintaan Ketteryyden tai panssarin maksimin verran, kumpi onkaan alempi)
-Ei panssaria: 0 panssarinoppaa, ei väistönoppamaksimia
-Nahkapanssari: 1 panssarinoppa, max. 4 väistönoppaa
-Kovanahkahaarniska: 2 panssarinoppaa, max. 3 väistönoppaa
-Rengashaarniska: 3 panssarinoppaa, max. 2 väistönoppaa
-Puolilevypanssari: 4 panssarinoppaa, max. 3 väistönoppaa
-Täyshaarniska: 5 panssarinoppaa, max. 0 väistönoppaa
+(Väistönoppia korkeintaan Ketteryyden tai panssarin maksimin verran, kumpi onkaan alempi. Haarniska cappaa hahmon efektiivisen Ketteryyden väistönopillaan myös ampumisen, hiiviskelyn ja vastaavan ei-hienomotorisen toiminnan osalta.
+Panssarinoppia voi saada korkeintaan Väkevyyden verran. Jos panssarinoppia on enemmän kuin Väkevyyttä, osia poistettava panssarinoppien laskemiseksi tai hahmo ei voi käyttää haarniskaa.
+Lumotusta panssarista tulevat lisänopat eivät vaikuta näihin ominaisuusvaatimuksiin.)
 
+Vaatteet: 0 panssarinoppaa, ei väistönoppamaksimia
+Nahkapanssari: 1 panssarinoppa, max. 5 väistönoppaa
+Kovanahkahaarniska: 2 panssarinoppaa, max. 4 väistönoppaa
+Rengashaarniska: 3 panssarinoppaa, max. 3 väistönoppaa
+Komposiittipanssari: 4 panssarinoppaa, max. 2 väistönoppaa
+Levyhaarniska: 5 panssarinoppaa, max. 1 väistönoppa
+Turnajaispanssari: 6 panssarinoppaa, max. 0 väistönoppaa
 
-///
-kilvet = +1-2D aktiivinen puolustus, aseisiin +1 dmg paitsi kevyet (concealable) ja hyökkääjän etu. aseeton huono kaikkea paitsi panssaroimatonta vastaan
-haarniskat = /2 ei heitettävä?
+==Maagisia panssareita==
 
-
-
-=Loottisäännöt (siirrettävä omakseen)=
-Ryhmä voi tuoda yhdeltä retkeltä yhteensä korkeintaan 50:n vekselin edestä arvoesineitä, kolikoita jne.
-Riittävä määrä vekseleitä (100 per taso) mahdollistaa hahmojen (elin-)tason nousun, antaen ominaisuuspisteen, erikoistaidon tai loitsun.
-Trofeet voi myydä tullijärjestelmän ulkopuolella saarella, mahdollistaen merkittävän sivutulon lähteen, kunhan sopiva ostaja löytyy.
+Mythral rangaspaita: 1 panssarinoppa, ei väistönoppamaksimia
+Adamantite levyhaarniska: 6 panssarinoppaa, max. 1 väistönoppa
