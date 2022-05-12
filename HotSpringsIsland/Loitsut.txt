@@ -1,5 +1,6 @@
 =Loitsut=
 
+
 ==Hyökkäysloitsut==
 
 Tulipallo: -1MP, 3toiminto, 2h, loitsuhyökkäys kaikkiin kohteisiin samalla heitolla millä tahansa zonella johon näkyvyys.
@@ -37,6 +38,7 @@ Antimagic Field: -1MP, 3toiminto. Vähentää valitulla alueella (korkeintaan vi
 Charm: 2toiminto, Kerran kohtauksessa. Saa kohteen tekemään yhden toiminnon joka ei olisi tälle tavatonta (esim. eläin tai raakalainen voi hyökätä toverinsa kimppuun, muttei hypätä jykänteeltä).
 Heal wounds: -1MP, 2toiminto. Palauttaa 2KP ja virvottaa pökertyneen.
 Prestidigation: 2toiminto. Pieniä valaistuksen, lämpötilan tai muiden olosuhteiden muutoksia alueella, kevyen esineen hidasta liikuttelua tai muita vastaavia pieniä temppuja joilla voi saada tai antaa esimerkiksi edun esiintymisheittoon.
+Näkymättömyys:
 
 
 ===Erikoisominaisuuksia===
