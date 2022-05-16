@@ -1,25 +1,43 @@
 Säännöt:
 
 
+=Käytetyt lyhenteet=
+N = Heitettävää noppaa, esim. +2N tarkoittaa kahta lisänoppaa
+KN = Kohdenumero, eli kuinka monta onnistumista tarvitaan heitetyistä nopista
+t = Toimintohinta, esim. 2t-reaktio tarkoittaa kaksi toimintoa maksavaa reaktiota
+KP = Kehopisteet
+MP = Mielipisteet
+
+Ominaisuudet lyhennetään ensimmäiseksi kolmeksi kirjaimekseen, esim. Väkevyys on Väk.
+
+
 =Nopanheitto=
-Vain pelaajat heittävät noppaa (D) ja vain pelinjohtaja määrittelee vaikeusasteita (TN). Tyypillinen perushaastava vaikeusaste on TN2, johon nopista pitää saada kaksi onnistumista.
+Vain pelaajat heittävät noppaa ja vain pelinjohtaja määrittelee vaikeusasteita. Tyypillinen perushaastava vaikeusaste on KN2, johon nopista pitää saada kaksi onnistumista.
 
 Heitot lähtökohtaisesti ominaisuus (plus mahdolliset bonukset) verran d6:ia. Jokainen 4+ on yksi onnistuminen. Lisäksi pelaajahahmoilla jokainen 6 antaa lisänopan ja jos 1:iä enemmän kuin 6:ia koko heitossa, tulee komplikaatio epä-/onnistumisen lisäksi.
 
-Pyöristäminen on aina ylöspäin, ellei toisin 
+Pyöristäminen on aina ylöspäin, ellei toisin mainita (ei pitäisi olla).
 
 ==Onnistumiset==
-Ylimääräiset onnistumiset TN:n yli voi käyttää tekemään asian tehokkaammin, näyttävämmin, nopeammin, jälkiä jättämättä jne.
+Ylimääräiset onnistumiset KN:n yli voi käyttää tekemään asian tehokkaammin, näyttävämmin, nopeammin, jälkiä jättämättä jne.
 
-Heitto alle TN:n voi olla osittainen onnistuminen, jos se tuntuu sopivalta.
+KN0 heitossa (esimerkiksi hyökkäys vihollisen pahaan heikkouteen) pitää edelleen saada vähintään yksi onnistuminen, mutta jo tämä ensimmäinen antaa lisäefektin. Kohdenumerot alle 0:n käsitellään KN0:na.
 
-==Dis/advantage==
-Heitto voi saada epä-/suotuisista olosuhteista edun tai haitan, jolloin kunkin nopan onnistumiseksi laskettavien silmälukujen määrä muuttuu 4+:sta edussa 3+:ksi tai haitassa 5+:ksi. Nämä ovat usein tarinallisia asioita, eikä haittaa jos tajutaan vasta heiton jälkeen, että jonkin pitäisi päteä.
+Heitto alle KN:n voi olla osittainen onnistuminen, jos se tuntuu sopivalta.
 
-Esimerkiksi edun tai haitan voi antaa aiemmin onnistunut/epäonnistunut heitto, tehtävään erityisen hyvin / huonosti soveltuvat työkalut, yllätys / ylivoima jommalla kummalla osapuolella tai epä-/suotuisa ympäristö kuten yleisön asenteet, maasto (kohde suojassa) jne.
+==Etu ja haitta==
+Heitto voi saada epä-/suotuisista olosuhteista edun tai haitan, jolloin kunkin nopan onnistumiseksi laskettavien silmälukujen määrä muuttuu 4+:sta edussa 3+:ksi tai haitassa 5+:ksi. Nämä ovat usein tarinallisia asioita, eikä haittaa jos tajutaan vasta heiton jälkeen, että jonkin pitäisi päteä. Esimerkiksi edun tai haitan voi antaa aiemmin onnistunut/epäonnistunut valmisteleva heitto, tehtävään erityisen hyvin / huonosti soveltuvat työkalut, yllätys / ylivoima jommalla kummalla osapuolella tai epä-/suotuisa ympäristö kuten yleisön asenteet, maasto (kuten ammuttava kohde suojassa) jne.
 
-===Huomio pelinjohtajalle - Dis-/advantage vai TN adjustment?===
-Etu ja haitta ovat merkittävästi heikompia kuin kohdenumeron muokkaus, joten niitä kannattaa käyttää tarinallisten olosuhteiden sepustuksessa ja säästää TN adjustmentit kuvaamaan todellisen vastustajan haastetason muuttumista, kuten keskenäinen vaarallisuusero, heikkous tiettyä elementtiä vastaan tai erikoishyökkäys/muoto. Usein TN:n laskeminen edellyttää pelaajahahmolta valmistautumista (oikea ase/loitsu), resurssien (kuten MP:iden) käyttöä tai muuta konkreettista vaivannäköä. Edun saamiseen ei tarvitse olla yhtä tarkkana.
+Jos toimintoon vaikuttaisi useampi etu- tai haittatekijä, kumoavat nämä toisiaan 1:1 kunnes jäljelle jää vain etuja (heitolle etu), haittoja (heitolle haitta) tai ei kumpaakaan (heitto normaalisti).
+
+==Komplikaatiot==
+Listattuna hyviä peruskomplikaatioita eri heittoihin, mutta toki tilanteeseen itse keksitty on usein paras.
+Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden toiminnon menettäminen on yleensä varma veto.
+
+((TODO - Fallout 2d20:ssä oli hyviä))
+Atk: Disarmed, out of balance, out of ammo, 
+Def: Stunned, ...
+AoE: Osuu itseen(kin)
 
 
 =Ominaisuudet=
@@ -28,7 +46,7 @@ Ominaisuudet ovat normaalisti välillä 1-5, mutta yksittäisen ominaisuus voi o
 Ominaisuudet mekaanisine vaikutuksineen alla. Puolitettu ominaisuus pyöristetään aina ylöspäin. Lisäksi ominaisuuksia käytetään tarinassa sen mukaan mikä tuntuu sopivalta.
 
 Väkevyys: Lähitaisteluhyökkäykset & Maksimi panssarinopat & Puolitettuna Torjunta -reaktio
-Ketteryys: Refleksipuolustus & Ampuma-asehyökkäykset & Maksimi väistönopat
+Ketteryys: Ampuma-asehyökkäykset & Maksimi väistönopat
 Sitkeys: Kestävyyspuolustus & Kehopisteet & Puolitettuna Kehopisteiden palautuminen
 Oppineisuus: Loitsuhyökkäykset & Puolitettuna lisää erikoistaitoja/loitsuja
 Harjaantuneisuus: Tahtopuolustus & Mielipisteet & Puolitettuna Mielipisteiden palautuminen
@@ -37,80 +55,122 @@ Persoonallisuus: Aloiteheitto & Puolitettuna lisää varustepaikkoja
 ==Kehopisteet==
 Jos loppuu, hahmo pökertyy ja tarvitsee apua. Kohtauksen jälkeen voidaan parantaa 1KP:hen ilman sen kummempia kikkailuja.
 Määrä on Sitkeys + 5
-Palautuu Milestoneissa (Sitkeys / 2 ) + 2
+Palautuu Virstanpylväässä (Sitkeys / 2 ) + 2
 
 ==Mielipisteet==
 Käyttö muuttaa epäonnistumisen onnistumiseksi (ei ylimääräisiä onnistumisia, ei poista komplikaatiota). Voi kulua myös osana esim. aluehyökkäystä. Ei voi laskea alle 0:n.
 Määrä on Harjaantuneisuus + 2
-Palautuu Milestoneissa (Harjaantuneisuus / 2 ) + 1
+Palautuu Virstanpylväässä (Harjaantuneisuus / 2 ) + 1
 
 ==Varustepaikat==
-Pohjalla 1 kevyt ja 1 raskas, johon päälle 1 kevyt lisää jokaisesta (Persoonallisuus / 2).
+Pohjalla 2 kevyttä tai  1 raskas, johon päälle 1 kevyt lisää jokaisesta (Persoonallisuus / 2).
 Koska vaan voi muuttaa 2 kevyttä = 1 raskas ja toisinpäin.
 
-HUOM! Varusteiden vaihtaminen normaalisti ilmaista aktiivisen toiminnon (ei reaktion) yhteydessä.
+Varusteiksi lasketaan ensisijaisesti aseet (ja kilvet), ei panssaria. Muut työkalut ja tarvikkeet ovat hahmon repussa tai vastaavassa.
+
+
+=Virstapylväät=
+Yksittäisen tutkimusretken käännekohta, kuten välipomon kaato, hyökkäykseen valmistautuminen tehty tai puolimatka ennen paluuta, jossa hahmot levähtävät ja keräävät itsensä ennen lisäkoitoksia. Yleensä 0-2 virstanpylvästä per tutkimusretki. Pelaajien kannattaa kysyä olisiko sopiva kohta, pelinjohtaja ei aina muista.
+Virstapylväässä palautuu Kehopisteitä (Sitkeys / 2 ) + 2 ja Mielipisteitä (Harjaantuneisuus / 2 ) + 1.
+
+
+=Paluu tukikohtaan=
+Tutkimusretken jälkeen hahmot palaavat tukikohtaan ja saavat kaikki keho- ja mielipisteensä takaisin. Lisäksi näillä on tilaisuus kasvattaa elintasoaan.
+
+==Vekselit ja elintaso==
+Löydetyt artefaktit, kolikot, jalometallit ja vastaavat aarteet kuljetetaan mukana koko tutkimusretken ajan (bag of holding, leijuva arkku, kantajagolemi tai vastaava hoitaa) ja ne luovutetaan yhtiötulliin tukikohtaan palatessa.
+Ryhmälle maksetaan arvotavaroista käypä vekseliarvo, kuitenkin maksimissaan 50 per retki.
+
+Tästä poikkeuksena ovat petojen nahat, lihat, torahampaat ja muut vastaavat hyödykkeet, jotka ryhmä voi vaihtaa vekselivaluutaksi järjestelmän ohi saarella olevien faktioiden kanssa, kunhan sopiva ostaja löytyy.
+Nylkemistä tai kaupankäyntiä ei sinällään koskaan heitetä, vaan voitettujen petojen osat vaihtuvat lopulta vekseleiksi aina taulukon mukaisilla arvoillaan.
+
+===Saalis===
+Vaikka löydetyt taikaesineet siirtyvät tullissa killan omistukseen, niitä voidaan kuitenkin ottaa mukaan retkille avustamaan tehtävillä.
+
+Taikaesineitä löydettäessä PJ voi käyttää noppia satunnaistamiseen, esimerkiksi panssarityypin voi heittää yhdellä nopalla.
+
+==Tasonnousut==
+Ensimmäinen elintason nousu antaa uuden erikoistaidon, toinen ominaisuuspisteen, seuraava taas erikoistaidon jne. // Vaihtoehtosääntö: Kukin hahmo voi valita tasonnousussa ottaako ominaisuuspisteen vai erikoistaidon/loitsun, jos se tuntuu porukasta paremmalta.
+
+Tasonnousu tapahtuu koko ryhmälle yhteisesti aina kun vekselimäärä kasvaa yli tasorajan (100).
+
+==Hahmon muuttaminen==
+Jos jokin erikoistaito, omainaisuusnosto tai muu valinta tuntuu huonolta myöhemmin, voit vaihtaa niitä vapaasti hahmojen palattua tukikohtaan. Tee tämä kuitenkin ennen seuraavan seikkailun alkua, älä vain varustautuaksesi tehtävänannossa kerrottuihin haasteisiin.
+Muistathan tarkistaa laskettujen ominaisuuksien seuraukset, esimerkiksi oppineisuudesta tulleen erikoistaidon poistamisen jos lasket sitä.
+
+
+=Erikoistaidot=
+Erikoistaidot kuvaavat hahmon erityistä koulutusta, kykyjä tai omaisuutta. Hahmonluonnissa niitä saa alkumäärän (ks. Hahmonluonti ja Rodut) ja lisää tasonnousuissa. Oppineisuus -ominaisuuden antamat ylimääräiset erikoistaidot tai loitsut otetaan hahmonluonnissa tai myöhemmin aina kun OPP nousee pysyvästi uuteen parittomaan lukuun.
+
+Maallisiin asioihin sidotut omaisuudet kuten perintökalut tai kumppanit voi menettää tarinan edetessä esimerkiksi pahan komplikaation seurauksena, mutta tämä menetys tarkoita erikoistaitopisteen pysyvää menetystä. Lähtökohtaisesti menetetty erikoistaito voidaan korvata vastaavalla tai kokonaan toisella erikoistaidolla seuraavalla paluulla tukikohtaan, mutta muukin on mahdollista peliporukan mielikuvituksen rajoissa.
+
+=Loitsut=
+Kuka tahansa voi oppia magiaa sopivalla koulutuksella ja harjoittelulla. Monet loitsut käyttävät mielipisteen, koska ne ohittavat samalla tavoin ongelman kuin onnistunut heitto (kuten lentäminen) tai mahdollistavat asioita, jotka eivät normaalisti ole mahdollisia (kuten aluehyökkäykset).
+
+Uuden loitsun voi hankkia erikoistaidon sijaan, joko hahmonluonnissa tai tasonnousussa.
+
+Normaalisti loitsimiseen tarvitaan aina vapaa käsi (elekomponentti) eleisiin sekä kyky puhua loitsusanat (sanakomponentti). Tästä poikkeuksena rodulliset voimat (kuten puolilohikäärmeen hönkäisy), jotka tarvitsevat vain kyvyn liikuttaa asianomaisia ruumiinosia (kuten puolienkelin siipiä).
 
 
 =Taistelusääntöjä=
 
 ==Aloite==
-Kunkin kierroksen alussa kukin pelaaja heittää hahmonsa aloitteen Persoonallisuudella (lisäten mahdolliset bonukset). Jokainen onnistuminen on yksi aloite, joka lisätään kahteen ja komplikaatio vähentää yhden aloitteen lopullisesta. Eli esim. Persoonallisuus 4 heittää 2 onnistumista ja komplikaation jolloin aloite on 3.
+Kunkin kierroksen alussa jokainen pelaaja heittää hahmonsa aloitteen Persoonallisuudella (lisäten mahdolliset bonukset). Jokainen onnistuminen on yksi aloite, joka lisätään kahteen ja komplikaatio vähentää yhden aloitteen lopullisesta. Eli esim. jos Persoonallisuus 4 hahmo heittää 1,1,4,6,3 (lisänoppa 6:sta) se tekee 2 onnistumista ja komplikaation jolloin aloite on 3 (2+2-1).
 
-Toimijoiden keskinäinen aloitejärjestys kullakin toimintoluvulla on aina sama: Pelaajahahmot ennen NPC:itä ja kummankin ryhmän keskinäinen järjestys voidaan joko sopia tai ristiriitatilanteessa katsoo isoimman alimman statin, jos tasapeli, seuraavaksi alimman jne.
+Toimijoiden keskinäinen aloitejärjestys kullakin toimintoluvulla on aina sama: Pelaajahahmot ennen NPC:itä ja kummankin ryhmän keskinäinen järjestys voidaan joko sopia tai ristiriitatilanteessa katsoo isoimman alimman ominaisuuden mukaan tai jos tasapeli, seuraavaksi alimman jne.
+
+===Väijytys===
+Jos pelaajat väijyttävät viholliset (esim. onnistunut hiiviskely yhteistoiminto taustalla), kukin hahmo saa hyökätä kerran edulla ennen aloitteiden heittämistä. Jos viholliset väijyttävät pelaajat, kärsivät nämä hyökkäykset tyypillisesti panssaripuolustuksellaan.
 
 ==Toimiminen taistelussa==
-Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän toimintoja. Tässä muutamia perustoimintoja:
+Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän toimintoja. Tässä aktiivisia perustoimintoja:
 
--Lähitaisteluhyökkäys: 2toiminto (normaalisti). Kohde samalla alueella, siirryt tämän kanssa samaan käsikähmään. Jos olit jo käsikähmässä, pitää sinun irtaantua tai kärsit vapaa-iskun.
+-Lähitaisteluhyökkäys: 2t (normaalisti). Kohde samalla alueella, siirryt tämän kanssa samaan käsikähmään, jos et ole jo. Jos olet eri käsikähmässä, pitää sinun irtaantua tai kärsit vapaa-iskun.
 
--Ampuma/loitsuhyökkäys: 2toiminto (normaalisti). Kohde aseen/hyökkäyksen etäisyydellä. Jos kanssasi käsikähmässä vihollisia, nämä saavat voivat tehdä vapaa-iskun. Jos ammut lähitaistelussa kanssasi olevaa vastustajaa, tämä ei saa vaparia, mutta hyökkäys on haitalla.
+-Ampuma/loitsuhyökkäys: 2t (normaalisti). Kohde aseen/hyökkäyksen etäisyydellä. Jos kanssasi käsikähmässä vihollisia, nämä voivat tehdä vapaa-iskun. Jos ammut lähitaistelussa kanssasi olevaa vastustajaa, tämä ei saa vaparia, mutta hyökkäys on haitalla.
 
--Torjuminen: 1toiminto-reaktio. Lisää STR/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle
-Torjuminen on 1T reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää STR/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toveri) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
+-Liikkuminen: 1t = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 toimintoa. Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vapaa-iskun.
+
+-Vetäytyminen: Liikettä, joka ei anna vapaa-iskuja. 2t = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 3 toimintoa.
+
+-Varusteiden vaihto: 0t, aktiivisen toiminnon (esim. hyökkäys, ei torjunta) yhteydessä ilmaista. Kömpelöitä varusteita käsitellessä (vain kun otetaan käyttöön, ei pois vaihtessa) erillinen 1t.
+
+-Vapaa-isku ("vapari"): 1t-reaktio, Lähitaisteluhyökkäys kohteeseen, joka oli tekemässä seuraavaa (keskeyttää k.o. toiminnon, joka tapahtuu vasta hyökkäyksen jälkeen):
+Liikkuu pois käsikähmästä, kun tämän puolella ei ole ylivoimaa // Käyttää ampuma-asetta tai hyökkäysloitsua joka ei ole "Kätevä" (myös tai vain) muuhun kohteeseen kuin sinuun // Tekee muun toiminnon, jossa lukee että antaa vaparin (esim. Ensiapu, tai jotkin loitsut)
+
+-Torjuminen: 1t-reaktio. Lisää VÄK/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle.
+Torjuminen on 1t-reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää VÄK/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toverin) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
 
 Yhtä hyökkäystä voidaan yrittää torjua vain kerran per puolustettava. Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
 
--Liikkuminen: 1toiminto = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 toimintoa.
+-Valmistautuminen: 1t. Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1t (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0t-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
+Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3t loitsiminen, alkuperäisen valmistautumisen aloittamisen toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 1t-reaktio).
 
--Varusteiden vaihto: 0toiminto, aktiivisen toiminnan (esim. hyökkäys, ei torjunta) yhteydessä ilmaista. Kömpelöitä varusteita käsitellessä (vain kun otetaan käyttöön, ei pois vaihtessa) erillinen 1toiminto.
+-Viivyttäminen (BETA): 1-2t, kerran kierroksessa, voi tehdä vasta kierroksen lopussa. Siirrä jäljellä olevat toimintosi seuraavalle kierrokselle. Lähinnä hyödyllinen siihen, jos tarvitsee toimia nopeasti seuraavalla kierroksella tai huoli, että toiminnot eivät riitä isoon toimintoon.
 
--Valmistautuminen: 1toiminto. Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1toiminto (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0toiminto-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
-Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3toiminto loitsiminen, alkuperäisen valmistautumisen aloittamisen 1toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 1toiminto-reaktio).
+-Avustaminen: 1t-reaktio. Heti avustettavan toverin heiton perään. Heitä sama ominaisuus kuin alkup. heitossa jaettuna kahdella. Et voi käyttää mielipistettä onnistumiseen.
 
--Viivyttäminen (BETA): 1-2toiminto, kerran kierroksessa, voi tehdä vasta kierroksen lopussa. Siirrä jäljellä olevat toimintosi seuraavalle kierrokselle. Lähinnä hyödyllinen siihen, jos tarvitsee toimia nopeasti seuraavalla kierroksella tai huoli, että toiminnot eivät riitä isoon toimintoon.
+-Yhteistoiminto (Esim. hiiviskely. Ei voi olla hyökkäys): 2t. Käynnistäjä heittää ja muut osallistujat avustavat. Jokainen avustaja nostaa KN:ää yhdellä. Vain käynnistäjä voi käyttää mielipisteen onnistumiseen.
 
--Avustaminen: 1toiminto-reaktio. Heti avustettavan toverin heiton perään. Heitä sama ominaisuus kuin alkup. heitossa jaettuna kahdella. Et voi käyttää mielipistettä onnistumiseen.
-
--Yhteistoiminto (Esim. hiiviskely. Ei voi olla hyökkäys): 2toiminto. Käynnistäjä heittää ja muut osallistujat avustavat. Jokainen avustaja nostaa TN:ää yhdellä. Vain käynnistäjä voi käyttää mielipisteen onnistumiseen.
-
+-Ensiapu: 2t, antaa vaparin, Oppineisuus KN2, nostaa tajuttoman toverin 1 KP:hen ja takaisin taisteluun.
 
 ===Reaktiot===
-Reaktiot ovat yleensä 1T maksavia toimintoja, jotka aktivoidaan sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
+Reaktiot ovat yleensä 1t maksavia toimintoja, jotka tehdään sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
 
 Mikäli reaktion käyttö tiputtaisi hahmon toiminnot miinukselle, hahmo ei voi tehdä reaktiota. Toimintomaksu luonnollisesti viivästyttää hahmon myöhempiä toimintoja.
 
-==Alueet==
+
+==Taistelukentän alueet==
 Zone-logiikka monesta muusta pelistä tuttu. Yleensä hyvä jos rajautuvat johonkin, vaikka kaatuneita puita, vankkureita tai tiheää pusikkoa siihen väliin.
 
-==Käsikähmä==
+===Käsikähmä===
 Taistelun alussa normaalisti ei ole käsikähmiä, vaikka aloitettaisiin vihollisten kanssa samalta alueelta. Käsikähmä muodostuu lähitaisteluhyökkäyksestä (vaikka ei tekisi vahinkoa) hyökkääjän ja puolustajan välille ja kaikki kumman tahansa kimppuun hyökkäävät (tai toista Torjumisella puolustavat) liittyvät käsikähmään.
 
-===Ylivoima===
+====Ylivoima====
 Käsikähmässä ylivoima on sillä puolella, jolla on vähintään 1,5x niin paljon taistelijoita kuin vastustajilla. Jos käsikähmässä on enemmän kuin kaksi osapuolta, kaikkien on vaikeampi saada yliotetta eli vastustajiksi lasketaan kaikki ei oman puolen taistelijat.
 
 Huom! Pienet olennot lasketaan puolikkaiksi ja suuret kahdeksi (jotkin ei-pelattavat jätit jopa 2-5:ksi ja parvet kokonsa mukaan) hahmoksi ylivoimaa arvioitaessa.
 
-==Liikkuminen taistelussa==
-Liikkuminen alueelta toiselle 1toiminto (2toiminto, jos vaikeaa maastoa esim. korkeusero).
-Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vaparin.
-
-===Vetäytyminen===
-Liikkuminen maksaa +1toiminto, mutta estää vaparit liikkuvaan.
-
-===Vapaa isku ("vapari)===
-1toiminto-reaktio. Lähitaisteluhyökkäys kohteeseen, joka oli tekemässä seuraavaa (keskeyttää k.o. toiminnon, joka tapahtuu vasta hyökkäyksen jälkeen):
--Liikkuu pois käsikähmästä, kun tämän puolella ei ole ylivoimaa
--Käyttää ampuma-asetta tai hyökkäysloitsua joka ei ole "Kätevä" (myös tai vain) muuhun kohteeseen kuin sinuun.
 
 ==Hyökkäys ja puolustus==
 Heitetään toiminnolle asianmukaista ominaisuutta (alla) muuttujineen. Vaikeusaste määrittyy vastustajan mukaan ja saadaan pelinjohtajalta. Eri hyökkäystyypeillä (esim. aseesta) voi olla eri vaikeusasteita osua samaan viholliseen.
@@ -120,7 +180,6 @@ Lähitaisteluaseen heittäminen: Väkevyys
 Ampuma-asehyökkäys: Ketteryys
 Loitsuhyökkäys: Oppineisuus
 Peruspuolustus: Väistöpuolustus + Panssaripuolustus
-Refleksipuolustus: Ketteryys
 Kestävyyspuolustus: Sitkeys
 Tahtopuolustus: Harjaantuneisuus
 
@@ -129,10 +188,10 @@ Lähtökohtaisesti hahmo voi valita kuhunkin heittoon avuksi vain yhden kädess�
 ===Ylimääräiset hyökkäysonnistumiset===
 Ylimääräiset onnistumiset hyökkäysheitossa voidaan käyttää suoraan lisävahinkona, joillakin aseilla tai erikoisominaisuuksilla onnistumisia saatetaan käyttää myös haittavaikutusten luomiseen.
 
-Jos onnistumisia käytetään efektien luomiseen yllä mainitusti, seuraava pätee: Ylimääräiset onnistumiset TN:n yli ovat vapaata riistaa. Jos heitto on jo (tai laskettu) TN:ään tarkalleen, voi siihen ottaa yhden onnistumisen käytön edestä efektiä, mutta tällöin isku ei tee lainkaan vahinkoa.
+Jos onnistumisia käytetään efektien luomiseen yllä mainitusti, seuraava pätee: Ylimääräiset onnistumiset KN:n yli ovat vapaata riistaa. Jos heitto on jo (tai laskettu) KN:ään tarkalleen, voi siihen ottaa yhden onnistumisen käytön edestä efektiä, mutta tällöin isku ei tee lainkaan vahinkoa.
 
 ===Aluehyökkäykset===
-Hyökkäykset, jotka vaikuttavat useaan kohteeseen, heitetään erikseen jokaista kohden. Tämä siksi, että vaikka pooli on usein sama ja heittämistä voi tulla paljon, muuten yhdellä mielipisteellä saisi liikaa damaa läpi. Erotuksena tälle ovat vihollisparvet, joiden kimppuun käydään yhdellä heitolla. Jos parvi on osana aluehyökkäystä, voi sitä ajatella yhtenä kohteena muiden joukossa.
+Hyökkäykset, jotka vaikuttavat useaan kohteeseen, heitetään erikseen jokaista kohden. Tämä siksi, että vaikka pooli on usein sama ja heittämistä voi tulla paljon, muuten yhdellä mielipisteellä saisi liikaa vahinkoa läpi. Erotuksena tälle ovat vihollisparvet, joiden kimppuun käydään yhdellä heitolla. Jos parvi on osana aluehyökkäystä, voi sitä ajatella yhtenä kohteena muiden joukossa.
 
 ===Oma tuli===
 Hyökkäykset (esim. alue-), joka osuu toiseen pelaajahahmoon ratkaistaan siten, että vain puolustaja heittää. Vaikeusaste määritellään jakamalla hyökkäyspooli kaikkine muuttujineen kahdella ja pyöristämällä ylöspäin.
@@ -140,74 +199,28 @@ Hyökkäykset (esim. alue-), joka osuu toiseen pelaajahahmoon ratkaistaan siten,
 ==Puolustaminen==
 Vihollisen hyökkäyksiä, loitsuja ja muita ympäristöstä aiheutuvia ongelmia vastaan pelaajahahmo puolustautuu asianmukaisella heitolla. Epäonnistunut heitto tarkoittaa sitä, että vahinko ja muut haittavaikutukset tulevat läpi hahmoon.
 
-Peruspuolustusta käytetään lähinnä fyysisiin iskuihin, Refleksipuolustusta ansoihin, alue-elementtihyökkäyksiin yms., Kestävyyspuolustusta myrkkyihin, tauteihin, väsymykseen yms. ja Tahtopuolustusta pelkoon, kuulusteluun, mielenhallintaan, hereillä pysymiseen yms.
+Peruspuolustusta käytetään lähtökohtaisesti kaikkiin iskuihin, ansoihin ja muihin hyökkäyksiin, paitsi jos jonkin muun puolustustyypin kriteeristö pätee.
+Pelkkää panssaripuolustusta heitetään, jos hyökkäys on hakeutuva tai hahmo ei voi väistää, esimerkiksi väijytettynä tai paikalleen sidottuna.
+Pelkkää väistöpuolustusta heitetään, jos hyökkäys ohittaa panssarin, esimerkiksi pelkän kosketuksen vaativat loitsut.
+Kestävyyspuolustusta heitetään joko ympäristöstä tai loitsuista johtuviin myrkkyihin, tauteihin, nälkään, väsymykseen yms.
+Tahtopuolustusta heitetään joko ympäristöstä tai loitsuista johtuviin pelkoon, kuulusteluun, mielenhallintaan, hereillä pysymiseen ja vastaaviin.
+
+Huom! Hyökkäys ei voi osua kahteen eri puolustukseen. Esimerkiksi pelkoa aiheuttava kosketus heitettäisiin väistöpuolustukseen ja hahmo voisi yrittää karistaa pelon myöhemmin käyttämällä aktiivisesti tahtopuolustustaan.
 
 Peruspuolustus koostuu panssarinopista ja väistönopista.
 
 ===Ylimääräiset puolustusonnistumiset===
 Ylimääräiset onnistumiset puolustusheitossa voidaan käyttää joko:
-A) "Coverauksen" eli oOnnistumisiksi tovereille samassa käsikähmässä/vieressä, jos puolustetaan aluehyökkäystä vastaan. Ei väliä puolustetaanko saveilla, fluffaa vaan asianmukaisesti.
+A) "Coverauksen" eli onnistumisiksi tovereille samassa käsikähmässä/vieressä, jos puolustetaan aluehyökkäystä vastaan. Ei väliä mitä puolustusta käytetään, fluffaa vaan asianmukaisesti.
 B) "Ripostena" eli lisänopiksi tulevaan hyökkäykseen. Peräkkäisten onnistuneiden puolustusten lisänopat eivät ole kumulatiivisia, vaan vain paras käytetään hyökätessä. Torjunta -toimintoa käyttäessä, lisänopat menevät puolustettavalle hahmolle.
 
+==Liittolaiset taistelussa==
+Jos pelaajahahmoilla on liittolaisia taistelussa, näille ei tehdä omaa aloitetta, vaan toimivat autonomisesti puolustaen itseään ja toisiaan sekä kamppaillen vihollisia vastaan (eivät lähtökohtaisesti tee tai saa vahinkoa edes aluehyökkäyksistä, ellei pelinjohtaja toisin päätä kohtauksen puitteissa). Pelinjohtaja määrää miten liittolaiset siirtyvät taistelukentällä, yleensä kierrosten välissä tai reaktiona pelaajahahmojen/pahisten toimiin.
 
-=Tasonnousut=
-Ensimmäinen elintason nousu antaa uuden erikoistaidon, toinen ominaisuuspisteen, seuraava taas erikoistaidon jne. // Vaihtoehtosääntö: Kukin hahmo voi valita tasonnousussa ottaako ominaisuuspisteen vai erikoistaidon/loitsun, jos se tuntuu porukasta paremmalta.
+Liittolaisista on kuitenkin myös hyötyä. Kukin liittolainen voi antaa kerran kierroksessa yhdelle pelaajahahmolle apunoppia sellaiseen heittoon, johon voisi osallistua (esim. lähitaisteluhyökkäys, kun liittolainen samalla alueella). Apunoppien määrä tulee liittolaisen voimakkuuden mukaan (+0N / +1N / +2N).
+Jos liittolaiset osallistuvat pelaajahahmojen kanssa samaan käsikähmään, lasketaan nämä kokonsa mukaisesti ylivoimaan.
 
-Tasonnousu tapahtuu koko ryhmälle yhteisesti aina kun vekselimäärä kasvaa yli tasorajan (100).
+Pelaajahahmoihin henkisesti linkitetyt liittolaiset (eläinkumppanit ja loitsuilla luodut apurit) antavat merkittävämmän edun, mutta ovat myös haavoittuvaisempia. Ne on kuvattu tarkemmin kyseissä kohdissa.
 
-==Vekselit ja elintaso==
-Löydetyt aarteet ja vastaavat kuljetetaan mukana koko tutkimusretken ajan (bag of holding, leijuva arkku, kantajagolemi tai vastaava hoitaa) ja ne luovutetaan yhtiötulliin tukikohtaan palatessa. Ryhmälle maksetaan arvotavaroista käypä vekseliarvo, kuitenkin maksimissaan 50 per retki.
-
-Tästä poikkeuksena ovat petojen nahat, lihat, torahampaat ja muut vastaavat hyödykkeet, jotka ryhmä voi vaihtaa vekselivaluutaksi järjestelmän ohi saarella olevien faktioiden kanssa. Nylkemistä tai kaupankäyntiä ei sinällään koskaan heitetä, vaan voitettujen petojen osat vaihtuvat lopulta vekseleiksi aina taulukon mukaisilla arvoillaan.
-
-===Saalis===
-Vaikka löydetyt taikaesineet siirtyvät tullissa killan omistukseen, niitä voidaan kuitenkin ottaa mukaan retkille avustamaan tehtävillä.
-
-Taika-esineitä löydettäessä PJ voi käyttää noppia satunnaistamiseen, esimerkiksi panssarityypin voi heittä 1d6:lla.
-
-((Vanha muotoilu))
-Ryhmä voi tuoda yhdeltä retkeltä yhteensä korkeintaan 50:n vekselin edestä arvoesineitä, kolikoita jne.
-Riittävä määrä vekseleitä (100 per taso) mahdollistaa hahmojen (elin-)tason nousun, antaen ominaisuuspisteen, erikoistaidon tai loitsun.
-Trofeet voi myydä tullijärjestelmän ulkopuolella saarella, mahdollistaen merkittävän sivutulon lähteen, kunhan sopiva ostaja löytyy.
-
-
-=Erikoistaidot=
-Erikoistaidot kuvaavat hahmon erityistä koulutusta, ominaisuuksia tai omaisuutta. Hahmonluonnissa niitä saa alkumäärän (ks. Hahmonluonti ja Rodut) ja lisää tasonnousuissa.
-
-Maallisiin asioihin sidotut omainaisuudet kuten perintökalut tai kumppanit voi menettää tarinan edetessä esimerkiksi pahan komplikaation seurauksena, mutta tämä menetys tarkoita erikoistaitopisteen pysyvää menetystä. Muukin on mahdollista peliporukan mielikuvituksen rajoissa, mutta lähtökohtaisesti menetetty erikoistaito voidaan korvata vastaavalla tai kokonaan toisella erikoistaidolla seuraavalla paluulla tukikohtaan.
-
-=Loitsut=
-Kuka tahansa voi oppia magiaa sopivalla koulutuksella ja harjoittelulla. Monet loitsut käyttävät mielipisteen, koska ne ohittavat samalla tavoin ongelman kuin onnistunut heitto (kuten lentäminen) tai mahdollistavat asioita, jotka eivät normaalisti ole mahdollisia (kuten aluehyökkäykset).
-
-Uuden loitsun voi hankkia erikoistaidon sijaan, joko hahmonluonnissa tai tasonnousussa.
-
-Normaalisti loitsimiseen tarvitaan aina vapaa käsi (somatic component) eleisiin sekä kyky puhua loitsusanat (verbal component). Tästä poikkeuksena rodulliset loitsut (kuten puolilohikäärmeen hönkäisy), jotka tarvitsevat vain kyvyn liikuttaa asianomaisia ruumiinosia (kuten puolienkelin siipiä).
-
-
--Esimerkkejä vahinkotyypeistä ja heikkouksista/vahvuuksista
-
-
--Esimerkkikomplikaatioita:
-((Fallout 2d20:ssä oli hyviä))
-Atk: Disarmed, out of balance, out of ammo, 
-Def: Stunned, ...
-
-AoE: Osuu itseen(kin)
-
-
--Esimerkkivastustajia ((TODO lisää ja omaan dokkariinsa))
-
-Huomioita:
--Pariton aloite lähinnä vapareita varten, NPC:t ei siirrä aloitetta seuraavalle kierrokselle
--Touch/homing def value yleensä 50-50 peruspuolustuksesta (Viiltävä/murskaava/lävistävä), ei pyöristystä vaan tarkka jako. Raskaasti panssaroiduilla voi olla painotus homingiin ja mobiileilla touchiin.
-
-=Nostoväki=
-Aloite: 3
-Keihäs (melee atk): 2t, TN2, 1 vahinko
-Puolustukset: Mundaani TN2 (touch/homing /2), Ref/Fort/Will: TN1, Elementit: TN1
-
-=Lohikäärme=
-Aloite: 5
-Häntä (melee atk): 2t, TN4, 3 vahinkoa
-Tulihenkäys (melee AoE): 3t, TN2 (REF), 2 vahinkoa
-Puolustukset: Mundaani TN4 (lävistävä TN3), Ref TN3, Fort TN4, Will TN4, Elementit TN4 (paitsi: Tuli TN6 ja Jää TN2)
+===Ratsut taistelussa===
+Epätavallista saarella, mutta jos ratsuille taistelussa tarvitaan sääntöjä, käytetään seuraavia: Ratsain liikkuessa 1:n alueen sijaan 2 halutessaan. Etu lähitaisteluun ei-ratsain olevia ei-jättejä vastaan. Ratsulla on 3KP ja puolustaa ratsastajan mukana tämän ominaisuuksilla.
