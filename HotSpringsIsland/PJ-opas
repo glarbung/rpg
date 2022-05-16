@@ -1,0 +1,89 @@
+Pelinjohtajan opas:
+
+
+=Vaikeusasteiden määrittäminen=
+Heiton kohdenumeron määrittämisessä voi käyttää seuraavia nyrkkisääntöjä:
+
+KN0: Triviaali haaste tai vastustaja, joka ei vaatisi heittoa, mutta halutaan nähdä miten hienosti onnistuu. Harvemmin taistelussa.
+
+KN1: Heikko haaste tai vastustaja, joka voi kuitenkin pysäyttää pelaajahahmon. Voivat muodostaa parven tai täydentää vihollisjoukkoa.
+KN2: Perushaaste tai pätevä este/vastus. Taistelussa usein osana ryhmää.
+
+KN3: Spesialisti tai varta vasten juuri tähän tehty este. Tekee joukosta perushaasteita vaarallisemman.
+KN4: Hengenvaarallinen, usein yliluonnollinen tai jättimäinen vastus/este. Voi haastaa ryhmän yksinään.
+
+KN5+: Jumalallinen vastus, jota vastaan on syytä löytää heikkous ja muutenkin valmistautua hyvin, jos mielii sen kukistaa.
+
+==Haitta vai KN:n muutos?==
+Etu ja haitta ovat merkittävästi heikompia kuin kohdenumeron muokkaus, joten niitä kannattaa käyttää tarinallisten olosuhteiden sepustuksessa ja säästää KN:n muokkaus kuvaamaan todellista vastustajan haastetason muuttumista, kuten vihollisten keskenäinen vaarallisuusero, heikkous tiettyä elementtiä vastaan tai erikoishyökkäys/muoto. Usein KN:n laskeminen edellyttää pelaajahahmolta valmistautumista (oikea ase/loitsu), resurssien (kuten MP:iden) käyttöä tai muuta konkreettista vaivannäköä. Edun saamisen suhteen ei tarvitse olla yhtä tarkkaa.
+
+
+=Vahinkotyypit ja heikkoudet=
+Vihollisilla on erilaiset puolustussäännöt kuin pelaajilla. Näilläkin on peruspuolustus, mutta sitä ei jaeta panssari- tai väistönoppiin eivätkä vastustajat heitä tahto- tai kestävyyspuolustusheittoja. Näiden sijaan, vihollisen peruspuolustus saa haittoja eri pelaajien vahinkotyyppejä vastaan.
+Jokaisella vastustajalla on hyvä olla vähintään -2:n edestä haittoja vahinkotyyppeihin, riippumatta tämän muusta vaarallisuusasteesta, koska vahinkotyyppiheikkouksien löytäminen on yksi pelaajien perushaasteista.
+Vahinkotyypit listattu alla ominaisuuksineen, joiden kanssa heikkous tyypillisesti esiintyy.
+
+(BETA)
+Leikkaava: Pehmeä, kevyesti panssaroitu, siivekäs
+Murskaava: Kova, raskaasti panssaroitu, pyörillä kulkeva
+Tuli: Vesi, Kylmä, kasviperäinen, kuiva
+Vesi: Maa, Kuuma, metallinen, kostea, 
+Maa: Tuli, Hauras, joustava, moniosainen
+
+==Elementeistä==
+Tuli pitää sisällään salamat ja muodostaa yhdessä maan kanssa magman. Maa sisältää kasvit ja muodostaa yhdessä veden kanssa liman. Vesi sisältää hapon ja muodostaa tulen kanssa höyryn. Heikkouksien kannalta tämä tarkoittaa, että sisältyvä elementti käyttää pääelementtinsä vastustuksia ja välielementti heikomman pääelementeistään vastustusta jaettuna kahdella (pyöristäen ylöspäin).
+
+
+=Hyökkäysefektejä=
+Vihollisten hyökkäykset voivat aiheuttaa pelaajahahmoille erilaisia ongelmia vahingon lisäksi tai sijasta. Tyypillisesti hyökkäys aiheuttaa efektin riippumatta osumisesta vain, jos hyökkääjä on voimakas ja hyökkäys itsessään heikko (esim. 0 vahinkoa). Efektien kesto riippuu efektistä itsestään (joillakin on määritelty kesto, mutta useimmat merkitty X:llä) sekä hyökkäyksen voimakkuudesta (X). Nyrkkisääntöjä hyökkäyksen voimakkuus voi olla suunnilleen sama kuin vastustajan taso (perus KN).
+
+==Efektit vaikutuksineen=
+Efektin kestossa se pelaajahahmon kierros tai aloite, jolla efekti on ensimmäisen kerran voimassa lasketaan ensimmäiseksi ja heti sen päätyttyä kesto laskee yhdellä (usein helpottaen efektin katkaisuheittoa).
+
+-Tajuton (-)
+Ei voi toimia tai puolustautua. Saatu vahinko ei voi tiputtaa alle KP 0:n. Loppuu kohtauksen jälkeen / joku heittää onnistuneen ensiavun -> 1KP tai parannetaan magialla.
+-Kaato (-)
+Liikkuminen (x2)t ellei nouse (1t). Hyökkääminen haitalla ja puolustus haitalla samassa käsikähmässä olevia vastaan, mutta edulla muita.
+
+-Hidastus (X)
+Liikkuminen maksaa +1t X kierroksen ajan.
+-Pökerrys (X)
+Seuraavat X toimintoa maksavat +1t.
+-Sokeutus (X)
+Seuraavat X hyökkäystä KN +1 (tai +2, jos ampumahyökkäys)
+
+-Sidonta (X)
+Väistöpuolustusheitot haitalla, ei voi liikkua. Katkeaa kun sitoja luovuttaa, siirretään tai hahmo onnistuu 1t/liikkeen yhteydessä Väk tai Ket heitossa, jonka KN = X. Jokainen onnistuminen laskee X:ää heittäneen hahmon osalta ja nollissa sidonta purkautuu.
+-Kivetys (X)
+Peruspuolustuksen sijaan vain panssaripuolustus, mutta lopullinen vahinko aina yhden vähemmän. Ei voi liikkua tai toimia X aloitteen ajan, ellei onnistu aloitteen alussa kestävyyspuolustuksessa, jonka KN jäljellä oleva X.
+-Lamaannutus (X)
+Peruspuolustuksen sijaan pelkkä panssaripuolustus. Ei voi liikkua tai toimia X aloitteen ajan, ellei onnistu aloitteen alussa tahtopuolustuksessa, jonka KN jäljellä oleva X.
+
+-Myrkytys (X)
+Haitta aktiivisiin toimiin kohtauksen ajan. Taistelussa heitetään jokaisen kierroksen alussa kestävyyspuolustus, jonka KN jäljellä oleva X, pääseekö eroon.
+-Sytytys (X)
+Jokaisen uuden kierroksen alussa ottaa X vahinkoa. X ei laske ajan kanssa, vaan ainoastaan kun joku tekee 2t sammutus-toiminnon, jonka kukin onnistuminen vähentää X:ää yhdellä. Sammutusta voidaan tehdä useita kertoja.
+
+-Hurmaus (X)
+Ei voi hyökätä tai heikentää hurmaajaa. Kesto X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Vain toinen hahmo voi käynnistää puolustuksen Avustamalla (1t) Persoonallisuudellaan.
+-Säikäytys (X)
+Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikkua lähemmäs pelon kohdetta. Kestää X kierrosta tai kunnes onnistuu Tahtopuolustuksessa. Hahmon itse on käytettävä 1t toiminto käynnistääkseen puolustusheitto ja toinen hahmo voi avustaa siinä normaalisti Persoonallisuudella.
+
+
+=Vastustajia=
+((TODO fiksaa alla, lisää papereilta ja tee lisää, ehkä suoraan HSI-kirjasta?))
+
+Huomioita:
+-Pariton aloite lähinnä vapareita varten, NPC:t ei siirrä aloitetta seuraavalle kierrokselle
+-Touch/homing def value yleensä 50-50 peruspuolustuksesta (Viiltävä/murskaava/lävistävä), ei pyöristystä vaan tarkka jako. Raskaasti panssaroiduilla voi olla painotus homingiin ja mobiileilla touchiin.
+
+==Nostoväki==
+Aloite: 3
+Keihäs (melee atk): 2t, KN2, 1 vahinko
+Puolustukset: Mundaani KN2 (touch/homing /2), Fort/Will: KN1, Elementit: KN1
+
+==Lohikäärme==
+Aloite: 5
+Häntä (melee atk): 2t, KN4, 3 vahinkoa
+Tulihenkäys (melee AoE): 3t, KN2 (REF), 2 vahinkoa
+Puolustukset: Mundaani KN4 (lävistävä KN3), Fort KN4, Will KN4, Elementit KN4 (paitsi: Tuli KN6 ja Jää KN2)
