@@ -1,51 +1,58 @@
 =Erikoistaidot=
-
+(Logiikka uusien tekoon: +1N ominaisuuden perusfunktioon tai +2N alalajiin TAI riko sääntöjä)
 
 ==Taustavaihtoehdot==
-(Suositus: ostetaan hahmonluonnissa 1 kullekin hahmolle)
+(Suositus: Ostetaan hahmonluonnissa 1 kullekin hahmolle)
 
-Metsästäjä: +2D eräilyheittoihin (yleensä Harjaantuneisuus. Jäljitys, leirin teko, suunnistaminen, kokkaaminen leiritulella jne.) ja +1 varustepaikka
-Tutkija: +2D magian tulkintaa (yleensä Oppineisuus. Riimut, maagiset esineet, voimakentät, maagiset arvoitukset jne.) ja voi ottaa kerran pelissä -1MP loitsun hintaan
-Haudanryöstäjä: +2D varasteluun (yleensä Ketteryys. Näpistäminen, tiirikointi, ansojen purku yms.) ja +1D Refleksipuolustus
-Pyhiinvaeltaja: +2D vakuuttavuuteen (yleensä Persoonallisuus. Diplomatia, pelottelu, hämääminen jne.) ja +1D Tahtopuolustus
-Rangaistusvanki: +2D fyysiseen työhön (yleensä Sitkeys tai Väkevyys. kantaminen, siirtäminen, hajottaminen) ja +1D Kestävyyspuolustus
-Palkkasotilas: +2D sotilastietämys (yleensä Oppineisuus tai Harjaantuneisuus. Taktiikka, asetuntemus, sotilasarvojen ja käytöksen tunnistaminen yms.) ja +1 Kehopiste
-
+-Metsästäjä: +2N eräilyheittoihin (yleensä Harjaantuneisuus. Jäljitys, leirin teko, suunnistaminen, kokkaaminen leiritulella jne.) ja +1 kevyt varustepaikka
+-Tutkija: +2N magian tulkintaa (yleensä Oppineisuus. Riimut, maagiset esineet, voimakentät, maagiset arvoitukset jne.) ja voi ottaa kerran pelissä -1MP loitsun hintaan
+-Haudanryöstäjä: +2N varasteluun (yleensä Ketteryys. Näpistäminen, tiirikointi, ansojen purku yms.) ja +1N Väistöpuolustus
+-Pyhiinvaeltaja: +2N vakuuttavuuteen (yleensä Persoonallisuus. Diplomatia, pelottelu, hämääminen jne.) ja +1N Tahtopuolustus
+-Rangaistusvanki: +2N fyysiseen työhön (yleensä Sitkeys tai Väkevyys. kantaminen, siirtäminen, hajottaminen) ja +1N Kestävyyspuolustus
+-Palkkasotilas: +2N sotilastietämys (yleensä Oppineisuus tai Harjaantuneisuus. Taktiikka, asetuntemus, sotilasarvojen ja käytöksen tunnistaminen yms.) ja +1 Kehopiste
 
 ==Yleishyödylliset==
-Nopeat refleksit: +1D aloiteheittoihin
-Pysäyttäjä: Voi käyttää yhden onnistumisen vaparissa estääkseen vastustajaa tekemästä vaparin aiheuttamaa toimintoa. Vastustajan toiminto ei katoa, vaan tämä voi valita toisen, toimintohintaa tarvittaessa muokaten.
-Opportunisti: +1D osumiseen kun teet vapareita
-Motivoitunut: +1MP, palauta 1MP Milestonella
-Terve kuin pukki: +1KP, palauta +1KP (pyöristyksen jälkeen) Milestonella
-Kantojuhta: Ylimääräinen iso aseslotti (tai 2 pientä)
-Eläinkumppani: Petoeläin kulkee mukana ja voi auttaa +1D:llä sopivissa toiminnoissa, kuten pelottelu tai jäljitys. Autonominen toiminta isännän ominaisuuksilla. Kumppanin tarvikkeet vievät isännältä yhden varustepaikan. Taistelussa omat 3 Kehopistettä, liikkuu samalla isännän kanssa (voi mennä eri paikkaan) ja antaa ilmaiseksi +1D avustuksensa lähitaisteluhyökkäyksiin. Eläin kannattaa valita omiin Ominaisuuksiin sopivaksi, esim. Karhu/gorilla-Pantteri-Krokotiili/jättiläisskorpioni-Boakäärme-Pöllö-Simpanssi/kotka.
-Perintökalleus: Saat omaan käyttöösi maagisen varusteen (ks. Varusteet), jossa yksi taso positiivisia ominaisuuksi tai kaksi tasoa, jos otat myös Kirotun. Tämän erikoistaidon voi ostaa uudestaan eri varusteiksi, ei samaan.
+-Nopeat refleksit: +1N aloiteheittoihin
+-Pysäyttäjä: Voi käyttää yhden onnistumisen vaparissa estääkseen vastustajaa tekemästä vaparin aiheuttamaa toimintoa. Vastustajan toiminto ei katoa, vaan tämä voi valita toisen, toimintohintaa tarvittaessa muokaten.
+-Opportunisti: +2N osumiseen kun teet vapareita
+-Motivoitunut: +1MP, palauta 1MP Virstapylväällä
+-Terve kuin pukki: +1KP, palauta +1KP (pyöristyksen jälkeen) Virstapylväällä
+-Eläinkumppani: Petoeläin kulkee mukana ja voi auttaa +1N:llä sopivissa toiminnoissa, kuten pelottelu tai jäljitys. Autonominen toiminta isännän ominaisuuksilla. Kumppanin tarvikkeet vievät isännältä yhden varustepaikan. Taistelussa omat 3 Kehopistettä, liikkuu samalla isännän kanssa (voi mennä eri paikkaan) ja antaa ilmaiseksi +1N avustuksensa lähitaisteluhyökkäyksiin. Eläin kannattaa valita omiin Ominaisuuksiin sopivaksi, esim. Karhu/gorilla-Pantteri-Krokotiili/jättiläisskorpioni-Boakäärme-Pöllö-Simpanssi/kotka.
+-Perintökalleus: Saat omaan käyttöösi maagisen varusteen (ks. Varusteet), jossa yksi taso positiivisia ominaisuuksi tai kaksi tasoa, jos otat myös Kirotun. Tämän erikoistaidon voi ostaa uudestaan eri varusteiksi, ei samaan.
+-Mittaava katse: 1t, Harjaantuneisuus -heitto jonka KN vastustajan peruspuolustus. Jokainen onnistuminen paljastaa yhden uuden heikkouden alkaen miedoimmasta.
 
+==Sekataistelu==
+-Mobiili taistelija: 3t. Voi liikkua hyökkäyksen yhteydessä alueelta toiselle siten, että lähtöalueella olevat eivät saa vapareita. Vaikeassa maastossa 4t.
+-Kampitus: Jos hyökkäys osuu, voit käyttää yhden onnistumisen ja antaa lähitaisteluhyökkäykset kohteeseen edulla kunnes tämän seuraava vuoro tulee.
+-Kahden aseen taistelija: Voi hyökätä kahdella lähitaisteluaseella eri käsissä, jolloin +1N hyökkäysheittoon. Normisäännöistä poiketen, voit valita aseista tilanteeseen hyödyllisemmän bonuksen kustakin kohdasta, mutta et laskea näitä yhteen. (Esim. osumisbonus toisesta ja vahinkotyyppi toisesta aseesta). Et voi kuitenkaan yhdistää lähitaistelu- ja ampuma-asetta samaan hyökkäykseen.
+-Soturin refleksit: Ensimmäinen reaktio kierroksessa maksaa -1t (min. 0)
+-Panssarin pirstoja: Jos hyökkäys osuu, voit käyttää yhden onnistumisen ja 1t-reaktion tiputtaaksesi kohteen peruspuolustusta yhdellä kierroksen loppuun, ei kumulatiivinen.
+-Voimahyökkäys: Voi muuttaa max. VÄK/2 verran osumisnoppia lisävahingoksi ennen hyökkäysheittoa. Jos heitossa on yksikin piste Heijaria, sen osumiseen ei saa käyttää mielipistettä.
+-Pelottava: (Ks. Örkki) +1N pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2t, heitetään Persoonallisuus asianmukaisin bonuksin (kuten tästä erikoistaidosta tuleva) vastustajan Tahtopuolustus KN:ään ja tämän seuraavan hyökkäyskohteen puolustusKN laskee onnistumisten määrällä jaettuna kahdella (pyöristys ylöspäin) +1:llä.
+-Diplomaattinen: (Ks. Puolihaltia) +1N neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2t, heitetään Persoonallisuus asianmukaisin bonuksin (kuten tästä erikoistaidosta tuleva) kohteen Tahtopuolustus KN:ään ja seuraavan hyökkäyksen vastustajaan osumisKN laskee onnistumisten määrällä jaettuna kahdella (pyöristys ylöspäin) +1:llä.
+-Sitoja: Voi käyttää hyökkäyksen onnistumisia estämään vastustajan liikkumisen. Jokainen käytetty onnistuminen lisää yhden pisteen sidontaa, joka purkautuu yhdellä jokaista vastustajan vastaisuudessa tekemää vahinkoa kohden.
+-Sokea taistelu: Poistaa puolustus- ja lähitaisteluhyökkäyshaitat sokaistumisesta, pimeydestä ja siitä jos kohde näkymätön.
+-Taisteluakrobatia: Voit mennä maihin tai nousta ilmaiseksi aina oman aktiivisen toiminnon (ei reaktion) yhteydessä.
 
-==Hyökkäys ja puolustus==
-Rynnäkkö: 2toiminto. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla.
-Mobiili taistelilja: 3toiminto. Voi liikkua hyökkäyksen yhteydessä alueelta toiselle siten, että lähtöalueella olevat eivät saa vapareita.
-Halkaiseva lyönti: 3toiminto, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä
-Pyörremyrsky: -1MP, 3toiminto, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
-Kamppi: Jos lähitaisteluhyökkäys osuu, voit käyttää yhden onnistumisen ja lähitaisteluhyökkäykset kohteeseen edulla kunnes tämän seuraava vuoro tulee.
-Petollinen isku: +1 vahinko, kun lähitaisteluhyökkäys edulla.
-Kahden aseen taistelu: Voi hyökätä kahdella lähitaisteluaseella eri käsissä, jolloin +1D hyökkäysheittoon. Normisäännöistä poiketen, voit valita aseista tilanteeseen hyödyllisemmän bonuksen kustakin kohdasta, mutta et laskea näitä yhteen. (Esim. osumisbonus toisesta ja vahinkotyyppi toisesta aseesta)
-Aseeton mestari: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan. Jos molemmat kädet tyhjät, aseeton hyökkäys +1 vahinko.
-Taistelurefleksit: Ensimmäinen reaktio kierroksessa maksaa 1 toiminnon vähemmän (min. 0)
-Panssarin läpäisy: Jos lähitaisteluhyökkäys osuu, voit käyttää yhden onnistumisen ja 1 toiminnon reaktion tiputtaaksesi kohteen mundaania osumis TN:ää yhdellä kierroksen loppuun, ei kumulatiivinen.
-Nuolennappaaja: Voi Torjua ampumahyökkäyksiä 1toiminto reaktiona ilman kilpeä.
-Heijari-isku: Voi muuttaa max. STR/2 verran osumisnoppia lisävahingoksi ennen lähitaisteluhyökkäysheittoa. Jos heitossa on yksikin piste Heijaria, sen osumiseen ei saa käyttää mielipistettä.
-Pelottava: (Ks. Örkki) +1D pelotteluun ja voi tehdä Uhkaavuushyökkäyksen: 2toiminto, heitetään Persoonallisuus asianmukaisin bonuksin (kuten tästä erikoistaidosta tuleva) vastustajan Tahtopuolustus TN:ään ja tämän seuraavan hyökkäyskohteen puolustusTN laskee onnistumisten määrällä jaettuna kahdella (pyöristys ylöspäin) +1:llä.
-Diplomaattinen: (Ks. Puolihaltia) +1D neuvotteluun ja voi tehdä Hämäyshyökkäyksen: 2toiminto, heitetään Persoonallisuus asianmukaisin bonuksin (kuten tästä erikoistaidosta tuleva) kohteen Tahtopuolustus TN:ään ja seuraavan hyökkäyksen vastustajaan osumisTN laskee onnistumisten määrällä jaettuna kahdella (pyöristys ylöspäin) +1:llä.
-Horjuttava puolustus: Torjumis -toimintoa käyttäessä voit asettaa Riposte -lisänopat puolustettavan sijaan torjuttuun kohteeseen, josta niitä voi käyttää seuraava tämän kimppuun hyökkäävä. Jos torjuit liittolaisen puolesta, edellyttää tämä hänen suostumuksensa. Muistutuksena: Riposte-nopat eivät kumuloidu, vaan vain korkein lisänoppapooli pätee.
-Kilpihyökkäys: Kilpi toimii kuin kahden aseen taistelu -erikoistaidossa, mutta ei anna ylimääräistä osumisnoppaa. Hahmon käsissä kilvillä ei ole osumishaittaa ja niillä on aina Heitettävä -ominaisuus.
-Sitoja: Voi käyttää hyökkäyksen onnistumisia estämään vastustajan liikkumisen. Jokainen käytetty onnistuminen lisää yhden pisteen sidontaa, joka purkautuu yhdellä jokaista vastustajan vastaisuudessa tekemää vahinkoa kohden.
+==Lähitaistelu==
+-Rynnäkkö: 2t. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla.
+-Halkaiseva lyönti: 3t, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä tai -1MP, 3t, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
+-Petollinen isku: +1 vahinko, kun lähitaisteluhyökkäys edulla.
+-Aseeton mestari: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan. Jos molemmat kädet tyhjät, aseeton hyökkäys +1 vahinko.
+-Kilpihyökkäys: Kilpi toimii kuin kahden aseen taistelu -erikoistaidossa, mutta ei anna ylimääräistä osumisnoppaa. Hahmon käsissä kilvillä ei ole osumishaittaa ja niillä on aina Heitettävä -ominaisuus.
+-Tuuppaus: Voi käyttää lähitaisteluhyökkäyksen (max. Väk/2 verran) onnistumisia sinkoamaan vastustajan kauemmas. Yhdellä onnistumisella saman alueen sisällä (esim. ulos käsikähmästä) tai 2+ toiselle alueelle (ensin viereiseen jne.). Näin aiheutuva liike ei anna vapareita, mutta katkaisee sidonnat.
+-Asetaituri: Voit käyttää Ketteryyttä Väkevyyden sijaan lähitaisteluhyökkäysheittoihin yhden käden aseilla.
+-Iaijutsu: +1N osumiseen ja +1 vahinko taistelun ensimmäiseen lähitaisteluhyökkäykseesi.
 
+==Ampumataistelu==
+-Latausrutiini: Ohittaa Ladattava -ominaisuuden varsijousissa.
+
+==Puolustus==
+-Nuolennappaaja: Jos vapaa käsi eikä kilpeä, voi Torjua (1t-reaktiona) ampumahyökkäyksiä +1N:llä.
+-Horjuttava puolustus: Torjumis -reaktiota käyttäessä voit asettaa Riposte -lisänopat puolustettavan sijaan torjuttuun kohteeseen, josta niitä voi käyttää seuraava tämän kimppuun hyökkäävä. Jos torjuit liittolaisen puolesta, edellyttää tämä hänen suostumuksensa. Muistutuksena: Riposte-nopat eivät kumuloidu, vaan vain korkein lisänoppapooli pätee. Saat +1N kierroksen ensimmäiseen torjuntaan.
 
 ==Metamagia==
-Loitsun tehostaminen: Loitsun osuessa voit ottaa -1MP = loitsun lopullinen vahinko x1.5 (pyör. ylösp.) tai -2MP = loitsun lopullinen vahinko x2
-Alueen muokkaus: Voi muokata aluehyökkäysloitsun aluetta siten, että max. Älyn verran yksittäisiä kohteita jää loitsun koskematta loitsijan lisäksi
-Loitsuspesialisaatio: Valitse yksi loitsupuolustustyyppi (Refleksi, Kestävyys tai Tahto). Loitsujesi läpäisy tätä puolustustyyppiä vastaan laskee TN:ää yhdellä. Taidon voi ostaa kullekin puolustustyypille erikseen.
-Huomaamaton loitsinta: Voi skipata toisen loitsukomponenttivaatimuksen lisäämällä joko +1t tai +1MP loitsuun tai molemmat lisäämällä molemmat (et voi ottaa +2MP tai +2t)
-Kaukovelho: Voit lisätä loitsun kantamaa yhdellä alueella lisäämällä sen toimintohintaa yhdellä (vain kerran). Kaikista (paitsi alue-)hyökkäysloitsuistasi tulee Tähdättäviä.
+-Loitsun tehostaminen: Loitsun osuessa voit ottaa -1MP = loitsun lopullinen vahinko x1.5 (pyör. ylösp.) tai -2MP = loitsun lopullinen vahinko x2. Erittäin tehokasta alueloitsuille.
+-Loitsimisrutiini: Valitse osaamasi loitsu, joissa heitetään ominaisuuspohjainen heitto. Kumpikin loitsu saa +1N heittoonsa. Taitoa voi ostaa uudelleen toisille loitsuille.
+-Huomaamaton loitsinta: Voi skipata toisen loitsukomponenttivaatimuksen lisäämällä joko +1t tai +1MP loitsuun tai molemmat lisäämällä molemmat (et voi ottaa +2MP tai +2t)
+-Kaukovelho: Voit lisätä loitsun kantamaa yhdellä alueella lisäämällä sen toimintohintaa yhdellä (vain kerran). Kaikista (paitsi alue-)hyökkäysloitsuistasi tulee Tähdättäviä.
