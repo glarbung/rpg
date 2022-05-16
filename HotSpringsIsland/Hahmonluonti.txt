@@ -1,3 +1,5 @@
+Hahmonluonti:
+
 1. Ominaisuudet alkaa kaikki 1:stä (max.5)
 2. Valitse rotu ja lisää/vähennä pisteet (sekä maksimit)
 3. Lisää 12 pistettä ominaisuuksiin
