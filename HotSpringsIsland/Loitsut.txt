@@ -2,46 +2,50 @@
 
 
 ==Hyökkäysloitsut==
+Ilmoitettu seuraavasti: Mielipistehinta (-xMP, ei listattu jos ilmainen), Toimintohinta (Xt), Vahinkotyyppi (Leikkaava/Murskaava/Tuli/Maa/Vesi), Ominaisuudet (* = listattu Varusteissa). Kuvaus ja efektit
 
-Tulipallo: -1MP, 3toiminto, 2h, loitsuhyökkäys kaikkiin kohteisiin samalla heitolla millä tahansa zonella johon näkyvyys.
-Liekehtivät kädet: 2 kättä, Kätevä*. Aluehyökkäys lähitaistelukohteeseen ja tämän takana oleviin.
-Disintegraatio: -1MP, Touch*, 2toiminto. Voi käyttää max. yhden onnistumisen laskemaan kohteen panssaria kohtauksen ajaksi yhdellä.
-Taika-ammus: Homing*, 2 toiminto. Tekee osuessaan aina Äly/2(p^) vahinkoa. Kilpiloitsu blokkaa automaattisesti kaiken vahingon.
-Taikakoura: 
-Salama: 
-Prismatic ray: -1MP, 2toiminto, loitsuhyökkäys kohteeseen samalla tai viereisellä alueella, joka on aina sitä elementtiä, jolle vihollisella heikoin puolustus.
+(Yhteen kohteeseen, 1-käden)
+-Jäänuoli: 2t, Vesi, Etäisyys 1 & Tähdättävä*
+-Murskaava koura: 2t, Murskaava, Etäisyys 1 & Sitova*. Tarttuu ja rusentaa, mutta voidaan myös käyttää esim. pitämään ovea kiinni Oppineisuus-heiton väkevyydellä.
+-Rappeuttaminen: -1MP, 2t, Maa. Jos osuu, laskee kohteen peruspuolustusta kohtauksen ajaksi yhdellä (ei kumulatiivinen).
+
+(Yhteen kohteeseen, 2-käden)
+-Taika-ammus: 2t, Tuli, Etäisyys 1. Tekee osuessaan aina OPP/2 vahinkoa. Kilpiloitsu torjuu automaattisesti kaiken vahingon.
+-Meteori: 2t, Magma (Tuli ½ & Maa ½), Etäisyys 2. Vaatii avoimen taivaan.
+-Prismasäde: -1MP, 2t, Mikä tahansa elementti, Etäisyys 1. Hyökkäys on aina sitä elementtiä, jolle vihollisella heikoin puolustus, mutta ei näytä mikä oli kyseessä
+
+(Aluehyökkäykset, 2-käden)
+-Tulipallo: -1MP, 3t, Tuli, Etäisyys 1. Loitsuhyökkäys kaikkiin yhdessä käsikähmässä (voit skipata itsesi lisäksi OPP/2 verran kohteita).
+-Myrkkypilvi: -1MP, 3t, Höyry (Vesi ½ & Tuli ½), Etäisyys 0. Hyökkäys kaikkiin vihollisiin alueella ja kaverit (et sinä) on Myrkytettyjä ollessaan alueella. Pilvi kestää kohtauksen ja sitä voi siirtää 3 toiminnolla, joka antaa vaparin (ei uutta mielipiste-hintaa).
+-Happosuihku: 3t, Vesi, Kätevä*. Aluehyökkäys joka toiseen samassa käsikähmässä olevaan viholliseen (pyöristys ylöspäin, kohteet oikeasti vierekkäin)
+-Hurmepiikit: -1KP, 2t, Leikkaava, Etäisyys 1. Vuodatat vertasi maahan ja kaksi piikkiä iskee vihollisiin korkeintaan viereisillä alueilla, ei tarvitse olla samassa paikassa (Huom. Loitsiminen maksaa Keho- eikä Mielipisteen)
+
 
 ==Suojaloitsut==
 
-Kilpiloitsu: 1toiminto-reaktio. Suojaa loitsijaa tai valittua näkökentässä olevaa Äly -poolilla.
-Velhopanssari: Antaa panssaroimattomalle kohteille Rengaspanssaria vastaavan suojan, jolla etu magiahyökkäystä (kuten Magic Missile) vastaan
+-Kilpiloitsu: 1t-reaktio. Suojaa loitsijaa tai valittua näkökentässä olevaa OPP/2 -poolilla.
+-Velhopanssari: 2t, antaa vaparin (Loitsi tämä etukäteen). Luo korkeintaan yhdelle panssaroimattomalle kohteelle kerrallaan kohteelle Rengaspanssaria vastaavan suojan (ei VÄK vaatimusta), jolla etu arkaanisia hyökkäysloitsuja vastaan puolustettaessa.
+-Suojakenttä: -1MP, 1t-reaktio. Suojaa loitsijaa ja tämän samalla alueella olevia liittolaisia OPP/2 -poolilla.
+-Antimagic Field: -1MP, 3t. Vähentää valitulla alueella (kauimmillaan viereinen) Oppineisuus-heiton onnistumisten verran onnistumisia kaikista loitsuista tai lisää KN:ää niitä vastaan puolustamiseen kohtauksen ajan.
+-Karkottava kehä: -1MP, 2t. Muuttaa osan tai kokonaisen alueen jolla olet vastenmieliseksi yhdelle vihollistyypille (esim. demonit, pedot, epäkuolleet, villit tms.). Puolustautuminen näiden hyökkäyksiltä edulla ja haluavat yleensä poistua alueelta.
 
-Suojakenttä: -1MP, 1toiminto-reaktio. Suojaa loitsijaa ja tämän samalla alueella olevia liittolaisia Äly -poolilla.
 
 ==Tehostusloitsut==
 
-Ripeysloitsu: -1MP, Aktivoidaan heti aloitteiden heittämisen jälkeen, kestää kohtauksen. Kohde voi olla loitsija tai liittolainen, mutta loitsijalta voi olla vain yksi ripeysloitsu kerrallaan aktiivisena. Antaa +1 toiminto/kierros.
-Lentoloitsu: -1MP, mahdollistaa lentämisen kohtauksen ajaksi. Voi liikkua myös ylöspäin, avoimilla taistelukentillä yhden zonen maan yläpuolella. Voi ohittaa joitakin vaikeita maastoja (esim. kuopat) ja siirtymiä kuin niitä ei olisikaan. Lentäessä puolustus (ei savet) tapahtuu disadvantagella.
-Hämiskiipeily: -1MP, mahdollistaa vaivattoman ja nopean kiipeämisen mitä tahansa ei-antimaagista pintaa pitkin. Ohittaa joitakin vaikeita maastoja (esim. korkeuserot) ja siirtymiä kuin niitä ei olisikaan. Liikkuminen mahdollista kolmella vapaalla raajalla ja paikallaan pysyminen kahdella.
+-Ripeysloitsu: -1MP, Aktivoidaan heti aloitteiden heittämisen jälkeen, kestää kohtauksen. Kohde voi olla loitsija tai liittolainen, mutta loitsijalta voi olla vain yksi ripeysloitsu kerrallaan aktiivisena. Antaa +1 aloite/kierros.
+-Lentoloitsu: -1MP, 1t. Mahdollistaa lentämisen kohtauksen ajaksi. Voi liikkua myös ylöspäin, avoimilla taistelukentillä yhden zonen maan yläpuolella. Voi ohittaa joitakin vaikeita maastoja (esim. kuopat) ja siirtymiä kuin niitä ei olisikaan. Lentäessä puolustus (ei savet) tapahtuu disadvantagella.
+-Hämiskiipeily: -1MP, 0t(muun toiminnon, esim. liikkeen yhteydessä). Mahdollistaa vaivattoman ja nopean kiipeämisen mitä tahansa ei-antimaagista pintaa pitkin. Ohittaa joitakin vaikeita maastoja (esim. korkeuserot) ja siirtymiä kuin niitä ei olisikaan. Liikkuminen mahdollista kolmella vapaalla raajalla ja paikallaan pysyminen kahdella.
+-Näkymättömyys: -1MP, 1t. Näkymättömänä etu puolustukseen ei-aluehyökkäyksiä vastaan ja etu hyökkäyksiin niitä vastaan, jotka eivät aisti sijaintiasi muuten. Katkeaa kun hyökätty/osuttu.
+
 
 ==Käyttöloitsut==
 
-(verimagia, joka maksaa -1KP)
-(tähdättävä ampumaloitsu)
+-Hengen manaus: 2t. Manaa esiin hengen palvelemaan kohtauksen ajaksi. Toimii kuin eläinkumppani, mutta vain 2 KP. Korkeintaan yksi palvelija kerrallaan. 
+-Kuolleen nostatus: -1MP, 1t. Nostaa kaatuneen epäkuolleeksi palvelijaksi. Toimii komennettavana parvena (max. OPP/2 olentoa kerrallaan), kunnes vapautat ruumiit tai ne tuhotaan. Jos pökerryt, muuttuu vihamieliseksi kaikille ei-nekromantikoille/epäkuolleille. Epäkuolleidesi parvi: 2KP/olento. +1N osumiseen / olento, joko apuna isännän lähitaisteluun tai omana hyökkäyksenä (2t, isännän Oppineisuus pohjalla, +1 vahinko murskaavaa tai leikkaavaa jos aseistettuja). Puolustavat isännän ominaisuuksilla.
 
-Summon: 2toiminto. Manaa esiin hengen palvelemaan kohtauksen ajaksi (statit 3). Korkeintaan INT/2 palvelijaa kerrallaan.
-Necromancy: -1MP, 1toiminto. Nostaa kaatuneen epäkuolleeksi palvelijaksi (statit fyys4 ja henk2, varusteet mitä oli/poimii). Toimii liittolaisena, kunnes vapautat hengen tai tapetaan. Jos pökerryt, muuttuu vihamieliseksi kaikille ei-nekromantikoille/epäkuolleille.
+-Illuusio: 3t, voi heittää vain kerran kohtauksessa per kohde. Oppineisuus-heitto kohteen KN:ää vastaan määrittää illuusion vakuuttavuuden. Ylimmäräisiä onnistumisia voi käyttää ottamaan lisäkohteita mukaan tai muuhun efektiin. Jos vahingoittaisi kohdetta, toimii hyökkäyksenä, mutta voi vahingoittaa jokaista hahmoa vain kerran.
+-Mielenhallinta: 2t, voi heittää vain kerran kohtauksessa per kohde. Oppineisuus-heitto kohteen KN:ää vastaan määrittää miten hurjan asian saa kohteen tekemään (esim. eläin tai raakalainen voi ilman onnistumisia hyökätä toverinsa kimppuun, muttei hypätä jykänteeltä). Yli jääneet onnistumiset voi käyttää lisävahinkoon hyökkäyksessä tai muuten parantamaan suoritusta. Kohde tietää kyllä toimintansa syyn jälkikäteen, mutta tämän uhri ei välttämättä. Mielenhallinnan käyttö sivistyneessä maailmassa kannattaa kätkeä yhtä hyvin kuin muidenkin aseiden.
 
-Scrying: -1MP, 1toiminto, antaa Vaparin. Voi korvata heiton jossa tietämys ratkaisee, Äly-heitolla tai saa Edun tulevaan heittoon.
-Illusion: 3toiminto, kohde heittää Tahtopuolustuksen vs. INT/2 luo kohtauksen kestävän illuusion jonka vakuuttavuutta ja kohteiden määrä määritetään Äly-heitolla. Jos vahingoittaisi kohdetta, toimii hyökkäyksenä, mutta voi vahingoittaa kutakin hahmoa vain kerran.
-Antimagic Field: -1MP, 3toiminto. Vähentää valitulla alueella (korkeintaan viereinen) Äly-heiton onnistumisten verran vahinkoa/onnistumisia kaikista loitsuista kohtauksen ajan.
-Charm: 2toiminto, Kerran kohtauksessa. Saa kohteen tekemään yhden toiminnon joka ei olisi tälle tavatonta (esim. eläin tai raakalainen voi hyökätä toverinsa kimppuun, muttei hypätä jykänteeltä).
-Heal wounds: -1MP, 2toiminto. Palauttaa 2KP ja virvottaa pökertyneen.
-Prestidigation: 2toiminto. Pieniä valaistuksen, lämpötilan tai muiden olosuhteiden muutoksia alueella, kevyen esineen hidasta liikuttelua tai muita vastaavia pieniä temppuja joilla voi saada tai antaa esimerkiksi edun esiintymisheittoon.
-Näkymättömyys:
-
-
-===Erikoisominaisuuksia===
-Touch: Ohittaa panssarinopat
-Homing: Ohittaa väistönopat
-Kätevä: Ei haittaa lähitaisteluetäisyydelle pääseen vihollisen ampumiseen, mutta mahdollistaa reaktiohyökkäyksen normaalisti jos ampuu muualle
+-Haavojen sulkeminen: -1MP, 2t. Palauttaa 2KP ja virvottaa pökertyneen.
+-Ennustus: -1MP, 1t, antaa Vaparin. Voi korvata heiton jossa tietämys ratkaisee, Oppineisuus-heitolla ja saa Edun siihen.
+-Mukavuusloitsu: 2t. Pieniä valaistuksen, lämpötilan tai muiden olosuhteiden muutoksia alueella, kevyen esineen hidasta liikuttelua tai muita vastaavia pieniä temppuja joilla voi saada tai antaa esimerkiksi edun esiintymisheittoon tai vain helpottaa elämäänsä.
