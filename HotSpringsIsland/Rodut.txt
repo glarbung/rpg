@@ -1,27 +1,40 @@
-=Rodut=
+Rodut:
 
-Ihminen: +1any stat, +2feat
 
-Örkki: 		+VÄK +SIT -OPP	Raakalainen (Voi muuttaa max. VÄK/2 verran 6:ia 6:t suoraan lisävahingoksi lähitaisteluhyökkäyksessä) & Pelottava (ks. Erikoistaidot)
-Kääpiö: 	+SIT +HAR -PER	Kääpiökestävyys (+1 Kehopiste ja +1D Kestävyyspuolustus), Kiviseppä (Voi kommunikoida muokatun kiven kanssa, saaden lisätietoa)
-Puolituinen: 	+KET +OPP -SIT	Hiippari (+2D hiiviskelyyn ja piileskelyyn, yleensä Ketteryys) & Voimakastahtoinen d (+1D Tahtopuolustus)
-Maahinen: 	+OPP +SIT -VÄK	Pienikokoinen*, Nikkari/Eläinystävä (Voi kommunikoida joko automatonien tai metsän eläinten kanssa, yleensä Persoonallisuus -heitto jos haluaa apua. Voi halutessaan myös kantaa pientä ystävää taskussaan (vie 1 varustepaikan). Ystävä voi auttaa sopivissa tilanteissa (voi osata lentää, olla hyvä kiipeilemään tms. sen mukaan millainen on), jolloin heität sopivaa ominaisuutta +2D:llä)
-Kultahaltia:	+HAR +KET -SIT	Tarkat aistit (+2D havaintoheittoihin, yleensä Harjaantuneisuus), Transsi (Nukkumisen sijaan voi meditoida 4h päivässä, vaikka ratsain)
-Mustahaltia:	+PER +KET -HAR	Pimeänäkö (+2D havaintoheittoihin pimeässä, yleensä Harjaantuneisuus), Magian vastustus (+2D puolustusheittoihin magiaa vastaan)
+Ihminen:		+1 valittu ominaisuus	+2 valittua erikoistaitoa/loitsua
 
-Puolihaltia("Bröögö"):	+PER +KET -SIT	Mukautuva (+1D avustusheittoihin) & Diplomaattinen (ks. Erikoistaidot)
-Puolilohikäärme:	+VÄK +PER -KET	Hönkäisy (Kuin Liekehtivät kädet -loitsu, mutta ei vaadi käsiä ja valitse elementti (Happo, sähkö, tuli, jää, myrkky)), -1 vahinko (sama elementti)
-Puolienkeli:	+HAR +PER -OPP	Jään vastustus (-1 vahinko), Siivet (kuin lentoloitsu, mutta ei maksa MP:tä)
-Puolidemoni:	+PER +OPP -VÄK	Tulen vastustus (-1 vahinko), Hämiskiipeily (kuin loitsu, mutta ei maksa MP:tä. Voi käyttää häntäänsä yhtenä raajana)
-Puolihenki:	+VÄK +KET -SIT	Tuulen harjalla (Kerran kierroksessa tuplaliike normihinnalla), Ilmavalli (1toiminto-reaktio: +2D kaikkien alueella olevien liittolaisten puolustukseen mundaaneja ammuksia vastaan tällä aloitteella)
+Örkki: 			+VÄK +SIT -OPP	Raakalainen (Voi muuttaa max. VÄK/2 verran heitettyjä 6:ia suoraan lisävahingoksi lisänopan sijaan lähitaisteluhyökkäyksessä) & Pelottava (ks. Erikoistaidot)
 
-Peikko:  +VÄK +SIT -OPP -PER  Suurikokoinen*, -1 vahinko mundaaneista hyökkäystyypeistä, Tuli ja happo tekevät tuplavahingon
-Liskomies: +SIT +HAR -PER  Vaihtolämpöinen (-1 vahinko tulesta ja jäästä), Terävät hampaat (Luonnollinen ase: 0k, +1D osuminen)
+Kääpiö: 		+SIT +HAR -PER	Kääpiökestävyys (+1 Kehopiste ja +1N Kestävyyspuolustus), Kiviseppä (Voi kommunikoida muokatun kiven kanssa, saaden lisätietoa)
+
+Puolituinen: 		+KET +OPP -SIT	Hiippari (+2N hiiviskelyyn ja piileskelyyn, yleensä Ketteryys) & Voimakastahtoinen d (+1N Tahtopuolustus)
+
+Maahinen: 		+OPP +SIT -VÄK	Pienikokoinen*, Nikkari/Eläinystävä (Voi kommunikoida joko automatonien tai metsän eläinten kanssa, yleensä Persoonallisuus -heitto jos haluaa apua. Voi halutessaan myös kantaa pientä ystävää taskussaan (vie 1 varustepaikan). Ystävä voi auttaa sopivissa tilanteissa (voi osata lentää, olla hyvä kiipeilemään tms. sen mukaan millainen on), jolloin heität sopivaa ominaisuutta +2N:llä)
+
+Kultahaltia:		+HAR +KET -SIT	Tarkat aistit (+2N havaintoheittoihin, yleensä Harjaantuneisuus), Transsi (Nukkumisen sijaan voi meditoida 4h päivässä, vaikka ratsain)
+
+Mustahaltia:		+PER +KET -HAR	Pimeänäkö (+2N havaintoheittoihin pimeässä, yleensä Harjaantuneisuus), Magian vastustus (+2N puolustusheittoihin magiaa vastaan)
+
+
+Puolihaltia("Bröögö"):	+PER +KET -SIT	Mukautuva (+1N avustusheittoihin) & Diplomaattinen (ks. Erikoistaidot)
+
+Puolilohikäärme:	+VÄK +PER -KET	Hönkäisy (Kuin Happosuihku -loitsu, mutta ei vaadi käsiä ja valitse elementti (tuli, jää (vesi), myrkky (maa))), -1 vahinko (sama elementti)
+
+Puolienkeli:		+HAR +PER -OPP	Kylmän vastustus (-1 vahinko), Siivet (kuin lentoloitsu, mutta ei maksa MP:tä)
+
+Puolidemoni:		+PER +OPP -VÄK	Kuuman vastustus (-1 vahinko), Hämiskiipeily (kuin loitsu, mutta ei maksa MP:tä. Voi käyttää häntäänsä yhtenä raajana)
+
+Puolihenki:		+VÄK +KET -SIT	Tuulen harjalla (Kerran kierroksessa tuplaliike normihinnalla), Ilmavalli (1t-reaktio: +2N kaikkien alueella olevien liittolaisten puolustukseen mundaaneja ammuksia vastaan tällä aloitteella)
+
+
+Peikko: 		+VÄK +SIT -OPP -PER  Suurikokoinen*, -1 vahinko mundaaneista hyökkäystyypeistä, Tuli ja happo tekevät tuplavahingon
+
+Liskomies:		+SIT +HAR -PER  Ei voi myrkyttyä, Terävät hampaat (Luonnollinen ase: 0k, +1N osuminen)
 
 
 =Yleisiä rodullisia ominaisuuksia*=
-Pienikokoinen: +1D Refleksipuolustus, -1D Kestävyyspuolustus, -1 lähitaisteluhyökkäykset, +1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 2:ksi ylivoimassa
-Suurikokoinen: -1D Refleksipuolustus, +1D Kestävyyspuolustus, +1 lähitaisteluhyökkäykset, -1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 1/2:ksi ylivoimassa
+Pienikokoinen: +1N Väistöpuolustus, -1N Kestävyyspuolustus, -1 lähitaisteluhyökkäykset, +1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 2:ksi ylivoimassa
+Suurikokoinen: -1N Väistöpuolustus, +1N Kestävyyspuolustus, +1 lähitaisteluhyökkäykset, -1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 1/2:ksi ylivoimassa
 
 
 
