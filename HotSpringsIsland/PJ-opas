@@ -73,10 +73,8 @@ Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikku
 
 
 =Vastustajia=
+(Pariton aloite lähinnä vapareita varten, NPC:t ei siirrä aloitetta seuraavalle kierrokselle)
 
-Huomioita:
--Pariton aloite lähinnä vapareita varten, NPC:t ei siirrä aloitetta seuraavalle kierrokselle
--Touch/homing def value yleensä 50-50 peruspuolustuksesta (Viiltävä/murskaava/lävistävä), ei pyöristystä vaan tarkka jako. Raskaasti panssaroiduilla voi olla painotus homingiin ja mobiileilla touchiin.
 
 ==Astraalikehrääjä==
 (1-4 ryhmä, kutsuu loput 10-15 jos uhrit täysin lamaannutettu)
@@ -125,7 +123,7 @@ KP: 5
 
 ==Julmasika==
 (yksinäinen saalistaja)
-Haastetaso: KN3
+Haastetaso: KN3 (Koko 3)
 Aloite: 4
 Hyökkäys 1: Rynnistys 2t KN4 = 3 vahinkoa & Pusku
 Hyökkäys 2: Riehuminen 2t KN3 = 2 vahinkoa
@@ -143,7 +141,7 @@ KP: 5
 
 ==Leveäselkä==
 (Rauhallinen kasvissyöjä)
-Haastetaso: KN4
+Haastetaso: KN4 (Koko 4)
 Aloite: 5
 Hyökkäys 1: Moukarointi 2t KN4 = 3 vahinkoa & Pökerrys 1
 Puolustus: KN5 (Murskaava KN4, Maa KN3, Vesi KN4)
@@ -158,9 +156,17 @@ Hyökkäys 2: Purenta 2t KN2 = 2 vahinkoa
 Puolustus: KN2 (Murskaava KN1, Maa KN1)
 KP: 6
 
-==xxx==
-(xxx)
-Haastetaso: KNx
+==Kupariselkäkyy==
+(yksinäinen saalistaja)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Myrkkypurema 2t KN2 = 1 vahinko & Tajuton
+Puolustus: KN2 (Murskaava KN1, Vesi KN1)
+KP: 5
+
+==Kupariharjainen vaanija==
+(yksinäinen saalistaja)
+Haastetaso: KNx (Koko 2)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -169,7 +175,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -178,7 +184,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -187,7 +193,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -196,7 +202,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -205,7 +211,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -214,7 +220,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -223,7 +229,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -232,7 +238,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -241,7 +247,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -250,7 +256,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -259,7 +265,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -268,7 +274,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -277,7 +283,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -286,7 +292,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -295,7 +301,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -304,7 +310,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -313,7 +319,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -322,7 +328,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -331,7 +337,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -340,7 +346,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -349,7 +355,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -358,7 +364,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
@@ -367,16 +373,7 @@ KP: x
 
 ==xxx==
 (xxx)
-Haastetaso: KNx
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
-
-==xxx==
-(xxx)
-Haastetaso: KNx
+Haastetaso: KNx (Koko x)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
