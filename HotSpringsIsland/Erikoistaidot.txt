@@ -35,7 +35,7 @@
 -Taisteluakrobatia: Voit mennä maihin tai nousta ilmaiseksi aina oman aktiivisen toiminnon (ei reaktion) yhteydessä.
 
 ==Lähitaistelu==
--Rynnäkkö: 2t. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla.
+-Rynnäkkö: 2t. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla +1N:llä.
 -Halkaiseva lyönti: 3t, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä tai -1MP, 3t, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
 -Petollinen isku: +1 vahinko, kun lähitaisteluhyökkäys edulla.
 -Aseeton mestari: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan. Jos molemmat kädet tyhjät, aseeton hyökkäys +1 vahinko.
