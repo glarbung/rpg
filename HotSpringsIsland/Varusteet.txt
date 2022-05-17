@@ -111,7 +111,9 @@ Lumotusta panssarista tulevat lisänopat eivät vaikuta näihin ominaisuusvaatim
 -Adamantite levyhaarniska: 6 panssarinoppaa, max. 1 väistönoppa
 
 
-==Maagisia helyjä==
+==Maagisia helyjä ja muita==
 Harvinaisia ja arvokkaita, eivät vie panssarin tai varusteen paikkaa
 -Suoja-amuletti: +1N kestävyys- ja tahtopuolustusheittoihin
 -Velhon sormus: +1 hyökkäysloitsujen vahinkoon, ei kumulatiivinen Loitsun vahvistajan kanssa
+
+-Maaginen työkalu (esim. köysi tai tiirikat): Lisää automaattisen onnistumisen ei-taisteluheittoon työkalulla ja vähäisiä maagisia ei-taisteluominaisuuksia kuten, että köysi voi nousta itse seinää ja jähmettyä tai tiirikat muuttua lukkoon sopivan avaimen näköiseksi.
