@@ -1,5 +1,6 @@
 =Erikoistaidot=
 (Logiikka uusien tekoon: +1N ominaisuuden perusfunktioon tai +2N alalajiin TAI riko sääntöjä)
+Useampi erikoistaito voi vaikuttaa samaan heittoon tai toimintoon. Esimerkiksi mobiili taistelija voisi irtaantua käsikähmästä rynnäköimään toisen alueen kolmen vihollisen kimppuun siten, että hyökkäys olisi Rautamyrsky kahden pisteen Voimahyökkäys (Yhteensä 4t, -1MP, -2N osumiseen, +2 vahinkoa kolmeen kohteeseen)
 
 ==Taustavaihtoehdot==
 (Suositus: Ostetaan hahmonluonnissa 1 kullekin hahmolle)
@@ -36,7 +37,7 @@
 
 ==Lähitaistelu==
 -Rynnäkkö: 2t. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla +1N:llä.
--Halkaiseva lyönti: 3t, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä tai -1MP, 3t, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
+-Rautamyrsky: 3t, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä tai -1MP, 3t, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
 -Petollinen isku: +1 vahinko, kun lähitaisteluhyökkäys edulla.
 -Aseeton mestari: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan. Jos molemmat kädet tyhjät, aseeton hyökkäys +1 vahinko.
 -Kilpihyökkäys: Kilpi toimii kuin kahden aseen taistelu -erikoistaidossa, mutta ei anna ylimääräistä osumisnoppaa. Hahmon käsissä kilvillä ei ole osumishaittaa ja niillä on aina Heitettävä -ominaisuus.
