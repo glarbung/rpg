@@ -7,7 +7,7 @@ Ihminen:		+1 valittu ominaisuus	+2 valittua erikoistaitoa/loitsua
 
 Kääpiö: 		+SIT +HAR -PER	Kääpiökestävyys (+1 Kehopiste ja +1N Kestävyyspuolustus), Kiviseppä (Voi kommunikoida muokatun kiven kanssa, saaden lisätietoa)
 
-Puolituinen: 		+KET +OPP -SIT	Hiippari (+2N hiiviskelyyn ja piileskelyyn, yleensä Ketteryys) & Voimakastahtoinen d (+1N Tahtopuolustus)
+Puolituinen: 		+KET +OPP -SIT	Onnekas (Heiton ensimmäinen 5 antaa lisänopan) & Voimakastahtoinen (+1N Tahtopuolustus)
 
 Maahinen: 		+OPP +SIT -VÄK	Pienikokoinen*, Nikkari/Eläinystävä (Voi kommunikoida joko automatonien tai metsän eläinten kanssa, yleensä Persoonallisuus -heitto jos haluaa apua. Voi halutessaan myös kantaa pientä ystävää taskussaan (vie 1 varustepaikan). Ystävä voi auttaa sopivissa tilanteissa (voi osata lentää, olla hyvä kiipeilemään tms. sen mukaan millainen on), jolloin heität sopivaa ominaisuutta +2N:llä)
 
