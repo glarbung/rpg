@@ -27,7 +27,7 @@ Vahinkotyypit listattu alla ominaisuuksineen, joiden kanssa heikkous tyypillises
 Leikkaava: Pehmeä, kevyesti panssaroitu, siivekäs
 Murskaava: Kova, raskaasti panssaroitu, pyörillä kulkeva
 Tuli: Vesi, Kylmä, kasviperäinen, kuiva
-Vesi: Maa, Kuuma, metallinen, kostea, 
+Vesi: Maa, Kuuma, metallinen, kostea
 Maa: Tuli, Hauras, joustava, moniosainen
 
 ==Elementeistä==
@@ -44,6 +44,8 @@ Efektin kestossa se pelaajahahmon kierros tai aloite, jolla efekti on ensimmäis
 Ei voi toimia tai puolustautua. Saatu vahinko ei voi tiputtaa alle KP 0:n. Loppuu kohtauksen jälkeen / joku heittää onnistuneen ensiavun -> 1KP tai parannetaan magialla.
 -Kaato (-)
 Liikkuminen (x2)t ellei nouse (1t). Hyökkääminen haitalla ja puolustus haitalla samassa käsikähmässä olevia vastaan, mutta edulla muita.
+-Pusku (-)
+Siirtää viereiselle alueelle tai jos ei mahdollista, irti käsikähmästä. Tämä liike ei anna vapaa-iskuja.
 
 -Hidastus (X)
 Liikkuminen maksaa +1t X kierroksen ajan.
@@ -71,19 +73,312 @@ Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikku
 
 
 =Vastustajia=
-((TODO fiksaa alla, lisää papereilta ja tee lisää, ehkä suoraan HSI-kirjasta?))
 
 Huomioita:
 -Pariton aloite lähinnä vapareita varten, NPC:t ei siirrä aloitetta seuraavalle kierrokselle
 -Touch/homing def value yleensä 50-50 peruspuolustuksesta (Viiltävä/murskaava/lävistävä), ei pyöristystä vaan tarkka jako. Raskaasti panssaroiduilla voi olla painotus homingiin ja mobiileilla touchiin.
 
-==Nostoväki==
+==Astraalikehrääjä==
+(1-4 ryhmä, kutsuu loput 10-15 jos uhrit täysin lamaannutettu)
+Haastetaso: KN2 (Koko ½)
 Aloite: 3
-Keihäs (melee atk): 2t, KN2, 1 vahinko
-Puolustukset: Mundaani KN2 (touch/homing /2), Fort/Will: KN1, Elementit: KN1
+Hyökkäys 1: Seititys 2t KN3 = 0 vahinkoa, Sidonta 2 (jos jo Sidottu, Kivetys 2)
+Hyökkäys 2: Purema 2t KN2 = 1 vahinko
+Puolustus: KN2 (Murskaava KN1, Tuli KN0, Maa KN1)
+KP: 4
 
-==Lohikäärme==
+==Jättiläislepakko==
+(2-4 ryhmä, pesä yleensä n. 12, mutta vaihtelee)
+Haastetaso: KN2
+Aloite: 2
+Hyökkäys 1 (Lähitaistelusyöksy ylemmältä alueelta, ei anna vaparia): Läpilento 2t KN2 = 1 vahinko & Sokeutus 2
+Hyökkäys 2: Raatelu 2t KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
+
+==Sokkotulimatto==
+(yksinäinen väijyttäjä)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Ahmaisu 2t KN3 = 1 vahinkoa & Sidonta 3
+Hyökkäys 2 (vain sidottuun kohteeseen): Rusentaminen 2t KN4 = 3 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Tuli KN1, Vesi KN2)
+KP: 7
+
+==Sokkotuliliaani==
+(yksinäinen väijyttäjä)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1 (voi hyökätä samalla alueella myös käsikähmänsä ulkopuolelle): Kietoutuminen 2t KN3 = 2 vahinkoa & Sidonta 2
+Hyökkäys 2 (vain sidottuun kohteeseen): Rusentaminen 2t KN4 = 3 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Tuli KN1, Vesi KN2)
+KP: 8
+
+==Villisika==
+(keräilee yksin, nukkuu n. 12 perheen kanssa)
+Haastetaso: KN1
+Aloite: 3
+Hyökkäys 1 (liikkuu käsikähmään samalla): Rynnistys 2t KN2 = 2 vahinko
+Hyökkäys 2 (jos ei voi liikkua): Riehuminen 2t KN2 = 1 vahinko
+Puolustus: KN2 (Murskaava KN1, Vesi KN0)
+KP: 5
+
+==Julmasika==
+(yksinäinen saalistaja)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Rynnistys 2t KN4 = 3 vahinkoa & Pusku
+Hyökkäys 2: Riehuminen 2t KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN1)
+KP: 10
+
+==Vasamahakija==
+(6-12 parvi)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Lävistyssyöksy 2t KN2 = 2 vahinkoa & Sidonta 2
+Hyökkäys 2: Pölytys 2t KN3 = 1 vahinko & Myrkytys 2
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1, Maa KN1)
+KP: 5
+
+==Leveäselkä==
+(Rauhallinen kasvissyöjä)
+Haastetaso: KN4
 Aloite: 5
-Häntä (melee atk): 2t, KN4, 3 vahinkoa
-Tulihenkäys (melee AoE): 3t, KN2 (REF), 2 vahinkoa
-Puolustukset: Mundaani KN4 (lävistävä KN3), Fort KN4, Will KN4, Elementit KN4 (paitsi: Tuli KN6 ja Jää KN2)
+Hyökkäys 1: Moukarointi 2t KN4 = 3 vahinkoa & Pökerrys 1
+Puolustus: KN5 (Murskaava KN4, Maa KN3, Vesi KN4)
+KP: 15
+
+==Jättiläistuhatjalkainen==
+(2-6 ryhmissä)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Myrkkypistin 2t KN2 = 1 vahinko & Lamaannutus 2
+Hyökkäys 2: Purenta 2t KN2 = 2 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Maa KN1)
+KP: 6
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
+
+==xxx==
+(xxx)
+Haastetaso: KNx
+Aloite: x
+Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
+Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
+Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
+KP: x
