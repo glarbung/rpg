@@ -13,7 +13,7 @@ Ilmoitettu seuraavasti: Vahinkotyyppi (Leikkaava/Murskaava/Tuli/Maa/Vesi), Bonuk
 (Kevyt-kokoiset, 1-käden)
 -Käsikirves/Leveämiekka: L, +1N osuminen
 -Sotavasara/-nuija: M, +1N osuminen
--Ketjunuija: +1N osuminen & +1 vahinko, Holtiton*
+-Ketjunuija: M, +1N osuminen & +1 vahinko, Holtiton*
 -Bola: M, -, Heitettävä* & Sitova*
 -Bumerangi/Chakram: L, -, Heitettävä* & Palaava*
 -Varpu/Symboli: M, +1N loitsuhyökkäys, Talismaani*
