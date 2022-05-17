@@ -166,6 +166,8 @@ Zone-logiikka monesta muusta pelistä tuttu. Yleensä hyvä jos rajautuvat johon
 ===Käsikähmä===
 Taistelun alussa normaalisti ei ole käsikähmiä, vaikka aloitettaisiin vihollisten kanssa samalta alueelta. Käsikähmä muodostuu lähitaisteluhyökkäyksestä (vaikka ei tekisi vahinkoa) hyökkääjän ja puolustajan välille ja kaikki kumman tahansa kimppuun hyökkäävät (tai toista Torjumisella puolustavat) liittyvät käsikähmään.
 
+Vaihtoehtoisesti voidaan katsoa että samalla alueella uuden pelaajahahmon kimppuun hyökkäävä vihollinen liittää molemmat osaksi alueella jo olevaa käsikähmää, mikäli vastustajan kanssa samalla puolella olevia muita löytyy jo käsikähmästä. Jos pelaajalla on näkemys, että hänen hahmonsa on merkittävästi erillään muusta ryhmästä alueella, tämä ei kuitenkaan ole järkevää.
+
 ====Ylivoima====
 Käsikähmässä ylivoima on sillä puolella, jolla on vähintään 1,5x niin paljon taistelijoita kuin vastustajilla. Jos käsikähmässä on enemmän kuin kaksi osapuolta, kaikkien on vaikeampi saada yliotetta eli vastustajiksi lasketaan kaikki ei oman puolen taistelijat.
 
