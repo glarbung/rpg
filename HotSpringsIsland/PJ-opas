@@ -309,40 +309,37 @@ Puolustus: KN2 (Murskaava KN1, Maa KN1)
 KP: 6
 
 ==Vyderac toukka==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+(parvi 10-20 yksilöä)
+Haastetaso: KN2 (Parvi, koko = määrä*½)
+Aloite: 2
+Hyökkäys 1: Jäytäminen 2t KN3 (KN2 kun määrä<10) = 2 vahinkoa (1 vahinko kun määrä<10)
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
+KP: 2 per yksilö
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Vyderac etsijä==
+(yksinäinen saalistaja)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Myrkkypölysingahdus (liikkuu ylhäältä alueelle ja pois) 2t KN2 (vain väistönopat) = 0 vahinkoa & Myrkytys 1 & Verenvuoto 2
+Puolustus: KN3 (Leikkaava KN2, Tuli KN2, Vesi KN2)
+KP: 5
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Vyderac vilistäjä==
+(parvi 3-6 yksilöä)
+Haastetaso: KN2 (Koko 0)
+Aloite: 4
+Hyökkäys 1: Parveilu 2t KN2 = 1-2 vahinkoa (1 per 3 yksilöä)
+Hyökkäys 2: Myrkkypurema 2t KN3 = 1 vahinko & Myrkytys 2
+Puolustus: KN2 (Murskaava KN1, Vesi KN1)
+KP: 2 per yksilö
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Vyderac imijä==
+(pareina haaskalle)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Imupiikki 2t KN2 = 4 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Vesi KN2)
+KP: 6
 
 ==xxx==
 (xxx)
