@@ -63,8 +63,8 @@ Peruspuolustuksen sijaan pelkkä panssaripuolustus. Ei voi liikkua tai toimia X 
 
 -Myrkytys (X)
 Haitta aktiivisiin toimiin kohtauksen ajan. Taistelussa heitetään jokaisen kierroksen alussa kestävyyspuolustus, jonka KN jäljellä oleva X, pääseekö eroon.
--Sytytys (X)
-Jokaisen uuden kierroksen alussa ottaa X vahinkoa. X ei laske ajan kanssa, vaan ainoastaan kun joku tekee 2t sammutus-toiminnon, jonka kukin onnistuminen vähentää X:ää yhdellä. Sammutusta voidaan tehdä useita kertoja.
+-Sytytys/Verenvuoto (X)
+Jokaisen uuden kierroksen alussa ottaa X vahinkoa. X ei laske ajan kanssa, vaan ainoastaan kun joku tekee 2t parannus-toiminnon (Oppineisuus), jonka kukin onnistuminen vähentää X:ää yhdellä. Parannusta voidaan tehdä useita kertoja.
 
 -Hurmaus (X)
 Ei voi hyökätä tai heikentää hurmaajaa. Kesto X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Vain toinen hahmo voi käynnistää puolustuksen Avustamalla (1t) Persoonallisuudellaan.
@@ -143,7 +143,7 @@ Puolustus: KN2 (Leikkaava KN1, Tuli KN1, Maa KN1)
 KP: 5
 
 ==Leveäselkä==
-(Rauhallinen kasvissyöjä)
+(rauhallinen kasvissyöjä)
 Haastetaso: KN4 (Koko 4)
 Aloite: 5
 Hyökkäys 1: Moukarointi 2t KN4 = 3 vahinkoa & Pökerrys 1
@@ -177,7 +177,7 @@ Hyökkäys 3: Kynnet 2t KN3 = 2 vahinkoa
 Puolustus: KN3 (Murskaava KN2, Vesi KN1)
 KP: 7
 
-==Korallikansan onkija==
+==Koralliväen onkija==
 (yksinäinen saalistaja, pesässä Kutuja)
 Haastetaso: KN3
 Aloite: 5
@@ -188,7 +188,7 @@ Hyökkäys 4: Häntäisku (koko käsikähmään) 2t(3t maalla) KN3 = 2 vahinkoa
 Puolustus: KN3 (Murskaava KN2, Tuli KN1)
 KP: 8
 
-==Korallikansan kutu==
+==Koralliväen kutu==
 (n. 20 parvessa)
 Haastetaso: KN2 (Parvi, koko = määrä*½)
 Aloite: 3
@@ -196,72 +196,72 @@ Hyökkäys 1: Puremat 2t KN3(KN2 kun määrä<10) = 2 vahinkoa (1 vahinko kun m�
 Puolustus: KN2 (Leikkaava KN1, Tuli KN0)
 KP: 2 per yksilö
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Kristallisammakko==
+(rauhallinen ruokailuton)
+Haastetaso: KN1 (Koko 0)
+Aloite: 2
+Toiminto 1: Piiloutuminen 2t KN2 havaita
+Toiminto 2: Pakeneminen 2t (mieluusti läheiseen veteen)
+Puolustus: KN2 (Murskaava KN0, Maa KN1)
+KP: 3
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Duecadre==
+(yksinäinen saalistaja)
+Haastetaso: KN2 (Koko 2)
+Aloite: 3
+Hyökkäys 1: Kynsipotku 2t KN3 = 1 vahinko
+Hyökkäys 2: Läpäisevä nokka 2t KN2 (vain väistönopat) = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
+KP: 5
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Nylkypiru==
+(yksinäinen saalistaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Rynnistys (läpi alueen, ei anna vapareita) 2t KN3 = 2 vahinkoa & Pusku 1
+Hyökkäys 2: Huidonta 2t KN2 = 2 vahinkoa & Verenvuoto 1
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 9
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Kujilintu==
+(1-2 sekasyöjää)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Rynnistys 2t KN2 = 1 vahinko & Myrkytys 1
+Hyökkäys 2: Hirveä laulu (kerran kierroksessa kaikkiin alueella) 2t KN2 = 0 vahinkoa & Säikäytys 1
+Puolustus: KN3 (Leikkaava KN2, Murskaava KN2, Tuli KN2)
+KP: 5
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Mutiseva käärme==
+(yksinäinen saalistaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 5
+Hyökkäys 1: Telepaattinen sarjatuli (kaikille alueella) 2t KN3 = 0 vahinkoa & Hurmaus 3
+Hyökkäys 2: Kita 2t KN3 = 3 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Tuli KN2)
+KP: 7
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Obsidiaanikaivaja==
+(rauhallinen ruokailuton)
+Haastetaso: KN3 (Koko ½)
+Aloite: 3
+Hyökkäys 1: Obsidianiammus (etäisyys 2) 2t KN3 = 2 vahinkoa
+Hyökkäys 2: Raateleva paiskaus 2t KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Maa KN3, Vesi KN2)
+KP: 9
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Oranssi lieju==
+(yksinäinen saalistaja)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Paiskautuminen (liikkeen yhteydessä 2t KN3 = 2 vahinkoa & Pusku 2
+Hyökkäys 2: Päälle valuminen 2t KN3 = 3 vahinkoa & Laskee hyökkääjän kädessä olevan aseen vahinkoa yhdellä kunnes puhdistetaan esim. alkoholilla
+Puolustus: KN3 (Tuli KN2)
+KP: 6
 
-==xxx==
+==Myrkkynuolisammakko==
 (xxx)
-Haastetaso: KNx (Koko x)
+Haastetaso: KNx (Koko 0)
 Aloite: x
 Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
 Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
