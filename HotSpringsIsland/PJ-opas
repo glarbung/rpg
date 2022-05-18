@@ -260,60 +260,55 @@ Puolustus: KN3 (Tuli KN2)
 KP: 6
 
 ==Myrkkynuolisammakko==
-(xxx)
-Haastetaso: KNx (Koko 0)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+(yksinäinen saalis)
+Haastetaso: KN1 (Koko 0)
+Aloite: 3
+Hyökkäys 1: -
+Puolustus: KN2 (Leikkaava KN1, Maa KN1)
+KP: 1
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Jättiläisrotta==
+(parvi 10-30 yksilöä)
+Haastetaso: KN2 (Parvi, koko = määrä*½)
+Aloite: 3
+Hyökkäys 1: Puremat 2t KN3 (KN2 kun määrä<10) = 1-3 vahinkoa (määrä/10)
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 2 per yksilö
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Varjo==
+(ryhmä 3-5)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1 (mieluiten maagisempiin kohteisiin): Yllätyshyökkäys (vain taistelun alussa) 0t KN3 = 3 vahinkoa
+Hyökkäys 2: Raatelu 2t KN3 = 2 vahinkoa
+Puolustus: KN3 (KN+2 magiaa vastaan, mutta ei voi hyökätä valossa)
+KP: 7
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Laulava golemi==
+(yksinäinen tai vanha setti)
+Haastetaso: KN2
+Aloite: 2
+Hyökkäys 1: -
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 6
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Rankalisko==
+(rauhallinen kasvissyöjä)
+Haastetaso: KN7 (Koko 3)
+Aloite: 2
+Hyökkäys 1: -
+Puolustus: KN10 (Vesi KN8)
+KP: 20
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Tabibari==
+(laumassa elävä kasvissyöjä)
+Haastetaso: KN2 (Koko 2)
+Aloite: 3
+Hyökkäys 1: Murjonta 2t KN2 = 2 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Maa KN1)
+KP: 6
 
-==xxx==
+==Vyderac toukka==
 (xxx)
 Haastetaso: KNx (Koko x)
 Aloite: x
