@@ -316,14 +316,15 @@ Hyökkäys 1: Jäytäminen 2t KN3 (KN2 kun määrä<10) = 2 vahinkoa (1 vahinko 
 Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
 KP: 2 per yksilö
 
-==Vyderac kuningatar==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Vyderac matriarkka==
+(liikkumaton pesijä)
+Haastetaso: KN4 (Koko 5)
+Aloite: 5
+Hyökkäys 1: Jättisakset 2t KN4 = 3 vahinkoa
+Hyökkäys 2: Happosuihku (Etäisyys 2, kutsuu muita) 2t KN4 = 2 vahinkoa & Myrkytys 1
+Hyökkäys 3: Happoräjähdys (Itsetuho) 3t KN4 (kaikille alueella) = 5 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Tuli KN3, Maa KN4)
+KP: 11
 
 ==Vyderac etsijä==
 (yksinäinen saalistaja)
@@ -350,29 +351,29 @@ Hyökkäys 1: Imupiikki 2t KN2 = 4 vahinkoa
 Puolustus: KN2 (Murskaava KN1, Vesi KN2)
 KP: 6
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Luuselkä wydarr==
+(4-11 perheryhmä)
+Haastetaso: KN2
+Aloite: 5
+Hyökkäys 1: Loikkaviilto (voi liikkua ilman vaparia samalla alueella) 2t KN2 = 2 vahinkoa
+Hyökkäys 2: Rieha 2t KN2 (osuu puoleen käsikähmästä) = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Kristalliselkä wydarr==
+(kaivavat pareissa, 3-8 ryhmä)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Raatelu 2t KN3 (osuu puoleen käsikähmästä) = 2 vahinkoa
+Hyökkäys 2: Loikka (voi loikata toisen wydarrin selästä ilman vaparia viereisellekin alueella) 2t KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Vesi KN3)
+KP: 9
 
-==xxx==
-(xxx)
-Haastetaso: KNx (Koko x)
-Aloite: x
-Hyökkäys 1: xxx xt KNx = x vahinkoa & xx
-Hyökkäys 2: xxx xt KNx = x vahinkoa & xx
-Puolustus: KNx (Leikkaava KNx, Murskaava KNx, Tuli KNx, Maa KNx, Vesi KNx)
-KP: x
+==Viuh-lintu==
+(pariton määrä 3-13)
+Haastetaso: KN2
+Aloite: 4
+Hyökkäys 1: Päälle hyppy (Etäisyys 2) 2t KN3 = 2 vahinkoa
+Hyökkäys 3: Mobiili nokkaisu (voi liikkua käsikähmään samalla) 2t KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Maa KN1)
+KP: 6
