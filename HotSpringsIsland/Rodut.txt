@@ -18,7 +18,7 @@ Mustahaltia:		+PER +KET -HAR	Pimeänäkö (+2N havaintoheittoihin pimeässä, yl
 
 Puolihaltia("Bröögö"):	+PER +KET -SIT	Mukautuva (+1N avustusheittoihin) & Diplomaattinen (ks. Erikoistaidot)
 
-Puolilohikäärme:	+VÄK +PER -KET	Hönkäisy (Kuin Happosuihku -loitsu, mutta ei vaadi käsiä ja valitse elementti (tuli, jää (vesi), myrkky (maa))), -1 vahinko (sama elementti)
+Puolilohikäärme:	+VÄK +PER -KET	Hönkäisy (Kuin Happosuihku -loitsu, mutta ei Persoonallisuudella, vaadi käsiä ja valittu elementti (tuli, jää (vesi), myrkky (maa))), Elementtisuoja (ottaa -1 vahinkoa (sama elementti kuin Hönkäisyssä))
 
 Puolienkeli:		+HAR +PER -OPP	Kylmän vastustus (-1 vahinko), Siivet (kuin lentoloitsu, mutta ei maksa MP:tä)
 
