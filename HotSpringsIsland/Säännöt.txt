@@ -91,7 +91,7 @@ Löydetyt artefaktit, kolikot, jalometallit ja vastaavat aarteet kuljetetaan muk
 Ryhmälle maksetaan arvotavaroista käypä vekseliarvo, kuitenkin maksimissaan 50 per retki.
 
 Tästä poikkeuksena ovat petojen nahat, lihat, torahampaat ja muut vastaavat hyödykkeet, jotka ryhmä voi vaihtaa vekselivaluutaksi järjestelmän ohi saarella olevien faktioiden kanssa, kunhan sopiva ostaja löytyy.
-Nylkemistä tai kaupankäyntiä ei sinällään koskaan heitetä, vaan voitettujen petojen osat vaihtuvat lopulta vekseleiksi aina taulukon mukaisilla arvoillaan.
+Nylkemistä tai kaupankäyntiä ei sinällään koskaan heitetä, vaan voitettujen petojen osat vaihtuvat lopulta vekseleiksi aina taulukon mukaisilla arvoillaan (Kaava: HirviönPerusKN -1 (jos useampi KN1 osa, joiden lopullinen hinta olisi alle 1, lasketaan kahden osan hinta 1:ksi) & +5 jos edullisia ominaisuuksia & +3 jos haitallisia ominaisuuksia)
 
 ===Saalis===
 Vaikka löydetyt taikaesineet siirtyvät tullissa killan omistukseen, niitä voidaan kuitenkin ottaa mukaan retkille avustamaan tehtävillä.
