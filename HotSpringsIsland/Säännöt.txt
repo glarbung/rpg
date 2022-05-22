@@ -31,13 +31,22 @@ Heitto voi saada epä-/suotuisista olosuhteista edun tai haitan, jolloin kunkin 
 Jos toimintoon vaikuttaisi useampi etu- tai haittatekijä, kumoavat nämä toisiaan 1:1 kunnes jäljelle jää vain etuja (heitolle etu), haittoja (heitolle haitta) tai ei kumpaakaan (heitto normaalisti).
 
 ==Komplikaatiot==
-Listattuna hyviä peruskomplikaatioita eri heittoihin, mutta toki tilanteeseen itse keksitty on usein paras.
-Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden toiminnon menettäminen on yleensä varma veto.
+Listattuna hyviä peruskomplikaatioita eri heittoihin, mutta toki tilanteeseen itse keksitty on usein paras. Suosituksena valintaan on koko porukan konsensus, jossa erityispainoa pelinjohtajan ja myös komplikaation kärsivän pelaajan ajatuksilla.
+Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden toiminnon menettäminen on yleensä varma veto. Muissa osuuksissa esimerkiksi +1KN tulevaan heittoon tai jatkovaihtoehtojen rajaaminen toimii hyvin.
 
-((TODO - Fallout 2d20:ssä oli hyviä))
-Atk: Disarmed, out of balance, out of ammo, 
-Def: Stunned, ...
-AoE: Osuu itseen(kin)
+(Huom! Katso säännöt pelaajahahmoon osumisesta kohdasta 'Oma tuli')
+
+Hyökkäyskomplikaatioita:
+-Ylikurotus (lähitaistelu- tai heittoase): Perus- ja väistöpuolustus haitalla seuraavaan omaan aloitteeseen asti.
+-Ase jumissa (lähitaisteluase): Hyökkäykseen käytetty ase jää jumiin viholliseen tai maastoon. Se voi joko jättää toistaiseksi tai irrottaa 1t-reaktiona / 1t toimintona myöhemmin.
+-Ammukset loppu (ampuma-ase): Ammukset loppuivat, kunnes teet tai saat lisää sopivassa kohdassa.
+-Kimmoke (ampuma-ase tai (ei aluehyökkäys-)loitsu): Hyökkäys osuu myös yhteen ei-haluttuun kohteeseen (toveri, liittolainen, tärkeä asia) samalla alueella.
+-Sivulliset uhrit (aluehyökkäys): Hyökkäys osuu myös useaan ei-haluttuun kohteeseen (toveri, liittolainen, tärkeä asia) samalla alueella.
+-Virhearvio (aluehyökkäys): Hyökkäys osuu myös hyökkääjään itseensä, mutta ei muihin ei-haluttuihin kohteisiin.
+
+Puolustuskomplikaatioita:
+-Aseistariisunta (torjunta): Torjumiseen käytetty ase/kilpi putoaa. Se voi joko jättää toistaiseksi tai irrottaa 1t-reaktiona / 1t toimintona myöhemmin.
+-Tyrmäys: Seuraava toimintosi maksaa +1t
 
 
 =Ominaisuudet=
