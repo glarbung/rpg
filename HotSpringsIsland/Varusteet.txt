@@ -1,7 +1,7 @@
 =Varusteet=
-Huom! Peruspuolustuksen plussat ja miinukset vaikuttavat niin panssari- kuin väistöpuolustukseen, silloin kun heitetään vain toista.
+Huom! Varusteiden antaman muutokset peruspuolustukseen vaikuttavat samalla tavoin myös panssari- kuin liikkuvuusnoppiin tilanteissa, joissa heitetään toista näistä.
 
-Ilmoitettu seuraavasti: Vahinkotyyppi (Leikkaava/Murskaava/Tuli/Maa/Vesi), Bonukset (esim. +1N torjumiseen, +1 vahinko jne.), Ominaisuudet(* = listattu alla)
+Varusteiden muuttujat listattu seuraavasti: Vahinkotyyppi (Leikkaava/Murskaava/Tuli/Maa/Vesi), Bonukset (esim. +1N torjumiseen, +1 vahinko jne.), Ominaisuudet(* = lista alempana)
 
 
 ==Lähitaisteluaseet==
@@ -92,23 +92,23 @@ Kirottu varuste: 2:t lasketaan 1:ksi komplikaatiota varten heitoissa, joissa var
 
 
 ==Haarniskat==
-(Väistönoppia korkeintaan Ketteryyden tai panssarin maksimin verran, kumpi onkaan alempi. Haarniska cappaa hahmon efektiivisen Ketteryyden väistönopillaan myös ampumisen, hiiviskelyn ja vastaavan ei-hienomotorisen toiminnan osalta.
+(Liikkuvuusnoppia korkeintaan Ketteryyden tai panssarin maksimin verran, kumpi onkaan alempi. Haarniska cappaa hahmon efektiivisen Ketteryyden liikkuvuusnopillaan myös ampumisen, hiiviskelyn ja vastaavan ei-hienomotorisen toiminnan osalta.
 Panssarinoppia voi saada korkeintaan Väkevyyden verran. Jos panssarinoppia on enemmän kuin Väkevyyttä, osia poistettava panssarinoppien laskemiseksi tai hahmo ei voi käyttää haarniskaa.
 Lumotusta panssarista tulevat lisänopat eivät vaikuta näihin ominaisuusvaatimuksiin.)
 
--Vaatteet: 0 panssarinoppaa, ei väistönoppamaksimia
--Nahkapanssari: 1 panssarinoppa, max. 5 väistönoppaa
--Kovanahkahaarniska: 2 panssarinoppaa, max. 4 väistönoppaa
--Rengashaarniska: 3 panssarinoppaa, max. 3 väistönoppaa
--Komposiittipanssari: 4 panssarinoppaa, max. 2 väistönoppaa
--Levyhaarniska: 5 panssarinoppaa, max. 1 väistönoppa
--Turnajaispanssari: 6 panssarinoppaa, max. 0 väistönoppaa
+-Vaatteet: 0 panssarinoppaa, ei liikkuvuusnoppamaksimia
+-Nahkapanssari: 1 panssarinoppa, max. 5 liikkuvuusnoppaa
+-Kovanahkahaarniska: 2 panssarinoppaa, max. 4 liikkuvuusnoppaa
+-Rengashaarniska: 3 panssarinoppaa, max. 3 liikkuvuusnoppaa
+-Komposiittipanssari: 4 panssarinoppaa, max. 2 liikkuvuusnoppaa
+-Levyhaarniska: 5 panssarinoppaa, max. 1 liikkuvuusnoppa
+-Turnajaispanssari: 6 panssarinoppaa, max. 0 liikkuvuusnoppaa
 
 ===Maagisia panssareita===
 
--Laen-punoksinen takki: 1 panssarinoppa, ei väistönoppamaksimia
--Mythral rangaspaita: 3 panssarinoppaa, max. 4 väistönoppaa
--Adamantite levyhaarniska: 6 panssarinoppaa, max. 1 väistönoppa
+-Laen-punoksinen takki: 1 panssarinoppa, ei liikkuvuusnoppamaksimia
+-Mythral rangaspaita: 3 panssarinoppaa, max. 4 liikkuvuusnoppaa
+-Adamantite levyhaarniska: 6 panssarinoppaa, max. 1 liikkuvuusnoppa
 
 
 ==Maagisia helyjä ja muita==
