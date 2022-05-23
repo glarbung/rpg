@@ -47,6 +47,7 @@ Useampi erikoistaito voi vaikuttaa samaan heittoon tai toimintoon. Esimerkiksi m
 
 ==Ampumataistelu==
 -Latausrutiini: Ohittaa Ladattava -ominaisuuden varsijousissa.
+-Haukansilmä: Kaikki ampuma-aseet ovat sinulle Tähdättäviä ja tähtäys antaa lisäksi +1N osumiseen
 
 ==Puolustus==
 -Nuolennappaaja: Jos vapaa käsi eikä kilpeä, voi Torjua (1a-reaktiona) ampumahyökkäyksiä +1N:llä.
