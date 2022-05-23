@@ -4,7 +4,7 @@ Säännöt:
 =Käytetyt lyhenteet=
 N = Heitettävää noppaa, esim. +2N tarkoittaa kahta lisänoppaa
 KN = Kohdenumero, eli kuinka monta onnistumista tarvitaan heitetyistä nopista
-t = Toimintohinta, esim. 2t-reaktio tarkoittaa kaksi toimintoa maksavaa reaktiota
+a = Toiminnon aloitehinta, esim. 2a-reaktio tarkoittaa kaksi aloitetta maksavaa reaktiota
 KP = Kehopisteet
 MP = Mielipisteet
 
@@ -32,21 +32,21 @@ Jos toimintoon vaikuttaisi useampi etu- tai haittatekijä, kumoavat nämä toisi
 
 ==Komplikaatiot==
 Listattuna hyviä peruskomplikaatioita eri heittoihin, mutta toki tilanteeseen itse keksitty on usein paras. Suosituksena valintaan on koko porukan konsensus, jossa erityispainoa pelinjohtajan ja myös komplikaation kärsivän pelaajan ajatuksilla.
-Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden toiminnon menettäminen on yleensä varma veto. Muissa osuuksissa esimerkiksi +1KN tulevaan heittoon tai jatkovaihtoehtojen rajaaminen toimii hyvin.
+Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden aloitteen menettäminen on yleensä varma veto. Muissa osuuksissa esimerkiksi +1KN tulevaan heittoon tai jatkovaihtoehtojen rajaaminen toimii hyvin.
 
 (Huom! Katso säännöt pelaajahahmoon osumisesta kohdasta 'Oma tuli')
 
 Hyökkäyskomplikaatioita:
 -Ylikurotus (lähitaistelu- tai heittoase): Perus- ja liikkuvuuspuolustus haitalla seuraavaan omaan aloitteeseen asti.
--Ase jumissa (lähitaisteluase): Hyökkäykseen käytetty ase jää jumiin viholliseen tai maastoon. Se voi joko jättää toistaiseksi tai irrottaa 1t-reaktiona / 1t toimintona myöhemmin.
+-Ase jumissa (lähitaisteluase): Hyökkäykseen käytetty ase jää jumiin viholliseen tai maastoon. Se voi joko jättää toistaiseksi tai irrottaa 1a-reaktiona / 1a toimintona myöhemmin.
 -Ammukset loppu (ampuma-ase): Ammukset loppuivat, kunnes teet tai saat lisää sopivassa kohdassa.
 -Kimmoke (ampuma-ase tai (ei aluehyökkäys-)loitsu): Hyökkäys osuu myös yhteen ei-haluttuun kohteeseen (toveri, liittolainen, tärkeä asia) samalla alueella.
 -Sivulliset uhrit (aluehyökkäys): Hyökkäys osuu myös useaan ei-haluttuun kohteeseen (toveri, liittolainen, tärkeä asia) samalla alueella.
 -Virhearvio (aluehyökkäys): Hyökkäys osuu myös hyökkääjään itseensä, mutta ei muihin ei-haluttuihin kohteisiin.
 
 Puolustuskomplikaatioita:
--Aseistariisunta (torjunta): Torjumiseen käytetty ase/kilpi putoaa. Se voi joko jättää toistaiseksi tai irrottaa 1t-reaktiona / 1t toimintona myöhemmin.
--Tyrmäys: Seuraava toimintosi maksaa +1t
+-Aseistariisunta (torjunta): Torjumiseen käytetty ase/kilpi putoaa. Se voi joko jättää toistaiseksi tai irrottaa 1a-reaktiona / 1a toimintona myöhemmin.
+-Tyrmäys: Seuraava toimintosi maksaa +1a
 
 
 =Ominaisuudet=
@@ -124,56 +124,56 @@ Normaalisti loitsimiseen tarvitaan aina vapaa käsi (elekomponentti) eleisiin se
 =Taistelusääntöjä=
 
 ==Aloite==
-Kunkin kierroksen alussa jokainen pelaaja heittää hahmonsa aloitteen Persoonallisuudella (lisäten mahdolliset bonukset). Jokainen onnistuminen on yksi aloite, joka lisätään kahteen ja komplikaatio vähentää yhden aloitteen lopullisesta. Eli esim. jos Persoonallisuus 4 hahmo heittää 1,1,4,6,3 (lisänoppa 6:sta) se tekee 2 onnistumista ja komplikaation jolloin aloite on 3 (2+2-1).
+Kunkin kierroksen alussa jokainen pelaaja heittää hahmonsa kokonaisaloitteen Persoonallisuudella (lisäten mahdolliset bonukset). Jokainen onnistuminen on yksi aloite, joka lisätään kahteen ja komplikaatio vähentää yhden aloitteen lopullisesta. Eli esim. jos Persoonallisuus 4 hahmo heittää 1,1,4,6,3 (lisänoppa 6:sta) se tekee 2 onnistumista ja komplikaation jolloin aloite on 3 (2+2-1).
 
-Toimijoiden keskinäinen aloitejärjestys kullakin toimintoluvulla on aina sama: Pelaajahahmot ennen NPC:itä ja kummankin ryhmän keskinäinen järjestys voidaan joko sopia tai ristiriitatilanteessa katsoo isoimman alimman ominaisuuden mukaan tai jos tasapeli, seuraavaksi alimman jne.
+Toimijoiden keskinäinen toimimisjärjestys kullakin aloiteluvulla on aina sama: Pelaajahahmot ennen EPH:ita ja kummankin ryhmän keskinäinen järjestys voidaan joko sopia tai ristiriitatilanteessa katsoo isoimman alimman ominaisuuden mukaan tai jos tasapeli, seuraavaksi alimman jne.
 
 ===Väijytys===
 Jos pelaajat väijyttävät viholliset (esim. onnistunut hiiviskely yhteistoiminto taustalla), kukin hahmo saa hyökätä kerran edulla ennen aloitteiden heittämistä. Jos viholliset väijyttävät pelaajat, kärsivät nämä hyökkäykset tyypillisesti panssaripuolustuksellaan.
 
 ==Toimiminen taistelussa==
-Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän toimintoja. Tässä aktiivisia perustoimintoja:
+Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän aloitetta. Tässä aktiivisia perustoimintoja:
 
--Lähitaisteluhyökkäys: 2t (normaalisti). Kohde samalla alueella, siirryt tämän kanssa samaan käsikähmään, jos et ole jo. Jos olet eri käsikähmässä, pitää sinun irtaantua tai kärsit vapaa-iskun.
+-Lähitaisteluhyökkäys: 2a (normaalisti). Kohde samalla alueella, siirryt tämän kanssa samaan käsikähmään, jos et ole jo. Jos olet eri käsikähmässä, pitää sinun irtaantua tai kärsit vapaa-iskun.
 
--Ampuma/loitsuhyökkäys: 2t (normaalisti). Kohde aseen/hyökkäyksen etäisyydellä. Jos kanssasi käsikähmässä vihollisia, nämä voivat tehdä vapaa-iskun. Jos ammut lähitaistelussa kanssasi olevaa vastustajaa, tämä ei saa vaparia, mutta hyökkäys on haitalla.
+-Ampuma/loitsuhyökkäys: 2a (normaalisti). Kohde aseen/hyökkäyksen etäisyydellä. Jos kanssasi käsikähmässä vihollisia, nämä voivat tehdä vapaa-iskun. Jos ammut lähitaistelussa kanssasi olevaa vastustajaa, tämä ei saa vaparia, mutta hyökkäys on haitalla.
 
--Liikkuminen: 1t = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 toimintoa. Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vapaa-iskun.
+-Liikkuminen: 1a = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 aloitetta. Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vapaa-iskun.
 
--Vetäytyminen: Liikettä, joka ei anna vapaa-iskuja. 2t = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 3 toimintoa.
+-Vetäytyminen: Liikettä, joka ei anna vapaa-iskuja. 2a = korkeintaan viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 3 aloitetta.
 
--Varusteiden vaihto: 0t, aktiivisen toiminnon (esim. hyökkäys, ei torjunta) yhteydessä ilmaista. Kömpelöitä varusteita käsitellessä (vain kun otetaan käyttöön, ei pois vaihtessa) erillinen 1t.
+-Varusteiden vaihto: 0a, aktiivisen toiminnon (esim. hyökkäys, ei torjunta) yhteydessä ilmaista. Kömpelöitä varusteita käsitellessä (vain kun otetaan käyttöön, ei pois vaihtessa) erillinen 1a.
 
--Vapaa-isku ("vapari"): 1t-reaktio, Lähitaisteluhyökkäys kohteeseen, joka oli tekemässä seuraavaa (keskeyttää k.o. toiminnon, joka tapahtuu vasta hyökkäyksen jälkeen):
+-Vapaa-isku ("vapari"): 1a-reaktio, Lähitaisteluhyökkäys kohteeseen, joka oli tekemässä seuraavaa (keskeyttää k.o. toiminnon, joka tapahtuu vasta hyökkäyksen jälkeen):
 Liikkuu pois käsikähmästä, kun tämän puolella ei ole ylivoimaa // Käyttää ampuma-asetta tai hyökkäysloitsua joka ei ole "Kätevä" (myös tai vain) muuhun kohteeseen kuin sinuun // Tekee muun toiminnon, jossa lukee että antaa vaparin (esim. Ensiapu, tai jotkin loitsut)
 
--Torjuminen: 1t-reaktio. Lisää VÄK/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle.
-Torjuminen on 1t-reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää VÄK/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toverin) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
+-Torjuminen: 1a-reaktio. Lisää VÄK/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle.
+Torjuminen on 1a-reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää VÄK/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toverin) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
 
 Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
 
 (Torjuminen ja Väistäminen)
 Yhtä hyökkäystä voidaan yrittää torjua tai väistää vain kerran. Esimerkiksi ampuma-aluehyökkäyksen osuessa kahteen pelaajahahmoon ja molempien peruspuolustuksen epäonnistuessa, kilvellä varustettu hahmoista voisi käyttää kaksi reaktiota väistämään itsensä puolesta ja torjumaan toverinsa puolesta, jonka jälkeen toinen hahmo ei voisi torjua tai väistää kummankaan osalta enää tätä hyökkäystä.
 
--Väistäminen: 1t-reaktio. Lisää KET/2 noppaa epäonnistuneeseen puolustukseen itselle.
+-Väistäminen: 1a-reaktio. Lisää KET/2 noppaa epäonnistuneeseen puolustukseen itselle.
 
 Ampumahyökkäyksiä (myös loitsuja ja vastaavia) voi väistää normaalisti, kun hahmo on tietoinen hyökkääjästä eikä ole esimerkiksi epäonnistunut Harjaantuneisuus-heittoa ja mennyt hämäykseen. Lähitaisteluhyökkäysten väistäminen edellyttää yleensä sopivan erikoistaidon tai loitsun.
 
--Valmistautuminen: 1t(+valitun toiminnon verran reaktiona). Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1t (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0t-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
-Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3t loitsiminen, alkuperäisen valmistautumisen aloittamisen toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 2t-reaktio).
+-Valmistautuminen: 1a(+valitun toiminnon verran reaktiona). Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1a (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0a-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
+Huom! Jos tekosi aloitehinta on suurempi kuin valmistautumiseen toistaiseksi uhratut toiminnot, reaktio maksaa erotuksen verran enemmän aloitetta (esim. valmisteltu 3a alueloitsu, alkuperäisen valmistautumisen aloittamisen toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran aloitetta ennen laukaisua, laukaisu on tällöin 2a-reaktio).
 
--Viivyttäminen (BETA): 1-2t, kerran kierroksessa, voi tehdä vasta kierroksen lopussa. Siirrä jäljellä olevat toimintosi seuraavalle kierrokselle. Lähinnä hyödyllinen siihen, jos tarvitsee toimia nopeasti seuraavalla kierroksella tai huoli, että toiminnot eivät riitä isoon toimintoon.
+-Viivyttäminen (BETA): 1-2a, kerran kierroksessa, voi tehdä vasta kierroksen lopussa. Siirrä jäljellä olevat aloitteesi seuraavalle kierrokselle. Lähinnä hyödyllinen siihen, jos tarvitsee toimia nopeasti seuraavalla kierroksella tai huoli, että toiminnot eivät riitä isoon toimintoon.
 
--Avustaminen: 1t-reaktio. Heti avustettavan toverin heiton perään. Heitä sama ominaisuus kuin alkup. heitossa jaettuna kahdella. Et voi käyttää mielipistettä onnistumiseen.
+-Avustaminen: 1a-reaktio. Heti avustettavan toverin heiton perään. Heitä sama ominaisuus kuin alkup. heitossa jaettuna kahdella. Et voi käyttää mielipistettä onnistumiseen.
 
--Yhteistoiminto (Esim. hiiviskely. Ei voi olla hyökkäys): 2t. Käynnistäjä heittää ja muut osallistujat avustavat. Jokainen avustaja nostaa KN:ää yhdellä. Vain käynnistäjä voi käyttää mielipisteen onnistumiseen.
+-Yhteistoiminto (Esim. hiiviskely. Ei voi olla hyökkäys): 2a. Käynnistäjä heittää ja muut osallistujat avustavat. Jokainen avustaja nostaa KN:ää yhdellä. Vain käynnistäjä voi käyttää mielipisteen onnistumiseen.
 
--Ensiapu: 2t, antaa vaparin, Oppineisuus KN2, nostaa tajuttoman toverin 1 KP:hen ja takaisin taisteluun.
+-Ensiapu: 2a, antaa vaparin, Oppineisuus KN2, nostaa tajuttoman toverin 1 KP:hen ja takaisin taisteluun.
 
 ===Reaktiot===
-Reaktiot ovat yleensä 1t maksavia toimintoja, jotka tehdään sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
+Reaktiot ovat yleensä 1a maksavia toimintoja, jotka tehdään sopivaan tilanteeseen. Reaktio ei huomioi normaalia aloitejärjestystä, vaan voi tapahtua vaikka kesken vastustajan vuoron.
 
-Mikäli reaktion käyttö tiputtaisi hahmon toiminnot miinukselle, hahmo ei voi tehdä reaktiota. Toimintomaksu luonnollisesti viivästyttää hahmon myöhempiä toimintoja.
+Mikäli reaktion käyttö tiputtaisi hahmon aloitteen miinukselle, hahmo ei voi tehdä reaktiota. Aloitemaksu luonnollisesti viivästyttää hahmon myöhempiä toimintoja.
 
 
 ==Taistelukentän alueet==
