@@ -63,8 +63,8 @@ Luonnolliset aseet (rodullinen): X-käden. Ei haittaa taisteluun aseistettuja va
 
 ===Perusominaisuudet(*)===
 Kömpelö: Varusteen vaihtaminen (käteen, ei pois) maksaa ylimääräisen toiminnon
-Ladattava: Hyökkäys +1t, mikäli ei kohtauksen ensimmäinen hyökkäyksesi
-Tähdättävä: Voi ottaa edun seuraavaan ampumahyökkäykseen käyttämällä 1t tähtäämiseen, katkeaa jos tekeekin muuta (myös reaktiot)
+Ladattava: Hyökkäys +1a, mikäli ei kohtauksen ensimmäinen hyökkäyksesi
+Tähdättävä: Voi ottaa edun seuraavaan ampumahyökkäykseen käyttämällä 1a tähtäämiseen, katkeaa jos tekeekin muuta (myös reaktiot)
 Kätevä: Ei haittaa lähitaisteluetäisyydelle pääseen vihollisen ampumiseen, mutta mahdollistaa reaktiohyökkäyksen normaalisti jos ampuu muualle
 Talismaani: Käyttävät kädet lasketaan tyhjiksi loitsimista varten
 Huomaamaton: Mahtuu puolikkaaseen kevyeen varustekohtaan. Helppo piilottaa, mutta yleensä heikompi aseena.
