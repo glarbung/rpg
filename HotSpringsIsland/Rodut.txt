@@ -33,8 +33,8 @@ Liskomies:		+SIT +HAR -PER  Ei voi myrkyttyä, Terävät hampaat (Luonnollinen a
 
 
 =Yleisiä rodullisia ominaisuuksia*=
-Pienikokoinen: +1N Väistöpuolustus, -1N Kestävyyspuolustus, -1 lähitaisteluhyökkäykset, +1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 2:ksi ylivoimassa
-Suurikokoinen: -1N Väistöpuolustus, +1N Kestävyyspuolustus, +1 lähitaisteluhyökkäykset, -1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 1/2:ksi ylivoimassa
+Pienikokoinen: +1N Liikkuvuus, -1N Kestävyyspuolustus, -1 lähitaisteluhyökkäykset, +1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 2:ksi ylivoimassa
+Suurikokoinen: -1N Liikkuvuus, +1N Kestävyyspuolustus, +1 lähitaisteluhyökkäykset, -1 peruspuolustus ampumista vastaan (ei loitsupuolustukset), Lasketaan 1/2:ksi ylivoimassa
 
 
 
