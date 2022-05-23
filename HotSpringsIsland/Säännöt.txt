@@ -37,7 +37,7 @@ Jos ei keksi muuta sopivaa, taistelussa jonkinlainen yhden toiminnon menettämin
 (Huom! Katso säännöt pelaajahahmoon osumisesta kohdasta 'Oma tuli')
 
 Hyökkäyskomplikaatioita:
--Ylikurotus (lähitaistelu- tai heittoase): Perus- ja väistöpuolustus haitalla seuraavaan omaan aloitteeseen asti.
+-Ylikurotus (lähitaistelu- tai heittoase): Perus- ja liikkuvuuspuolustus haitalla seuraavaan omaan aloitteeseen asti.
 -Ase jumissa (lähitaisteluase): Hyökkäykseen käytetty ase jää jumiin viholliseen tai maastoon. Se voi joko jättää toistaiseksi tai irrottaa 1t-reaktiona / 1t toimintona myöhemmin.
 -Ammukset loppu (ampuma-ase): Ammukset loppuivat, kunnes teet tai saat lisää sopivassa kohdassa.
 -Kimmoke (ampuma-ase tai (ei aluehyökkäys-)loitsu): Hyökkäys osuu myös yhteen ei-haluttuun kohteeseen (toveri, liittolainen, tärkeä asia) samalla alueella.
@@ -55,7 +55,7 @@ Ominaisuudet ovat normaalisti välillä 1-5, mutta yksittäisen ominaisuus voi o
 Ominaisuudet mekaanisine vaikutuksineen alla. Puolitettu ominaisuus pyöristetään aina ylöspäin. Lisäksi ominaisuuksia käytetään tarinassa sen mukaan mikä tuntuu sopivalta.
 
 Väkevyys: Lähitaisteluhyökkäykset & Maksimi panssarinopat & Puolitettuna Torjunta -reaktio
-Ketteryys: Ampuma-asehyökkäykset & Maksimi väistönopat
+Ketteryys: Ampuma-asehyökkäykset & Maksimi liikkuvuusnopat & Puolitettuna Väistö -reaktio
 Sitkeys: Kestävyyspuolustus & Kehopisteet & Puolitettuna Kehopisteiden palautuminen
 Oppineisuus: Loitsuhyökkäykset & Puolitettuna lisää erikoistaitoja/loitsuja
 Harjaantuneisuus: Tahtopuolustus & Mielipisteet & Puolitettuna Mielipisteiden palautuminen
@@ -150,7 +150,14 @@ Liikkuu pois käsikähmästä, kun tämän puolella ei ole ylivoimaa // Käyttä
 -Torjuminen: 1t-reaktio. Lisää VÄK/2 noppaa epäonnistuneeseen puolustukseen samassa käsikähmässä olevalle tai itselle.
 Torjuminen on 1t-reaktio, jonka voi tehdä reaktiona itseen tai vieressä (samassa käsikähmässä olevaan) toveriin osuvaan hyökkäykseen. Torjuja heittää VÄK/2 puolustusnoppia, jotka lisäävät kohteen (itse tai vieressä/samassa käsikähmässä olevan toverin) puolustusta, kuin olisivat olleet osa sitä alunperinkin.
 
-Yhtä hyökkäystä voidaan yrittää torjua vain kerran per puolustettava. Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
+Lähitaisteluhyökkäyksiä voi torjua normaalisti vaikka aseettomanakin, mutta ampumahyökkäysten torjuminen edellyttää yleensä kilven tai sopivan erikoistaidon/loitsun. Yllätyshyökkäyksiä (esim. näkymättömän vastustajan hyökätessä) ei voi torjua.
+
+(Torjuminen ja Väistäminen)
+Yhtä hyökkäystä voidaan yrittää torjua tai väistää vain kerran. Esimerkiksi ampuma-aluehyökkäyksen osuessa kahteen pelaajahahmoon ja molempien peruspuolustuksen epäonnistuessa, kilvellä varustettu hahmoista voisi käyttää kaksi reaktiota väistämään itsensä puolesta ja torjumaan toverinsa puolesta, jonka jälkeen toinen hahmo ei voisi torjua tai väistää kummankaan osalta enää tätä hyökkäystä.
+
+-Väistäminen: 1t-reaktio. Lisää KET/2 noppaa epäonnistuneeseen puolustukseen itselle.
+
+Ampumahyökkäyksiä (myös loitsuja ja vastaavia) voi väistää normaalisti, kun hahmo on tietoinen hyökkääjästä eikä ole esimerkiksi epäonnistunut Harjaantuneisuus-heittoa ja mennyt hämäykseen. Lähitaisteluhyökkäysten väistäminen edellyttää yleensä sopivan erikoistaidon tai loitsun.
 
 -Valmistautuminen: 1t(+valitun toiminnon verran reaktiona). Määritä mitä teet ja mikä laukaisee sen (ei tarvitse olla kovin tarkasti, esim. "Hyökkään kun joku lähestyy" sopii yhtä lailla käsikähmään tulevan lyömiseen kuin samalle alueelle tulevan ampumiseen). Jokaisen aloitteen alussa voit joko peruuttaa valmistautumisen ja toimia sitten normaalisti tai vähentää 1t (voit jatkaa valmistautumista seuraavalle kierrokselle jos ei lauennut tai katkaistu). Kun laukeaa, keskeytät 0t-reaktiona laukaisevan tapahtuman kuvaukseen sopivasta kohdasta ja teet toimintosi tässä välissä.
 Huom! Jos tekosi toimintohinta on suurempi kuin valmistautumiseen toistaiseksi kuluneet toiminnot, reaktio maksaa erotuksen verran enemmän toimintoja (esim. valmisteltu 3t loitsiminen, alkuperäisen valmistautumisen aloittamisen toiminnon jälkeen olisit vähentänyt vasta yhden aloitteen verran toimintoja ennen laukaisua, laukaisu onkin 2t-reaktio).
@@ -190,7 +197,7 @@ Lähitaisteluhyökkäys: Väkevyys
 Lähitaisteluaseen heittäminen: Väkevyys
 Ampuma-asehyökkäys: Ketteryys
 Loitsuhyökkäys: Oppineisuus
-Peruspuolustus: Väistöpuolustus + Panssaripuolustus
+Peruspuolustus: Liikkuvuusnopat + Panssarinopat
 Kestävyyspuolustus: Sitkeys
 Tahtopuolustus: Harjaantuneisuus
 
@@ -211,14 +218,14 @@ Hyökkäykset (esim. alue-), joka osuu toiseen pelaajahahmoon ratkaistaan siten,
 Vihollisen hyökkäyksiä, loitsuja ja muita ympäristöstä aiheutuvia ongelmia vastaan pelaajahahmo puolustautuu asianmukaisella heitolla. Epäonnistunut heitto tarkoittaa sitä, että vahinko ja muut haittavaikutukset tulevat läpi hahmoon.
 
 Peruspuolustusta käytetään lähtökohtaisesti kaikkiin iskuihin, ansoihin ja muihin hyökkäyksiin, paitsi jos jonkin muun puolustustyypin kriteeristö pätee.
-Pelkkää panssaripuolustusta heitetään, jos hyökkäys on hakeutuva tai hahmo ei voi väistää, esimerkiksi väijytettynä tai paikalleen sidottuna.
-Pelkkää väistöpuolustusta heitetään, jos hyökkäys ohittaa panssarin, esimerkiksi pelkän kosketuksen vaativat loitsut.
+Pelkkiä panssarinoppia heitetään, jos hyökkäys on hakeutuva tai hahmo ei voi väistää, esimerkiksi väijytettynä tai paikalleen sidottuna.
+Pelkkiä liikkuvuusnoppia heitetään, jos hyökkäys ohittaa panssarin, esimerkiksi pelkän kosketuksen vaativat loitsut.
 Kestävyyspuolustusta heitetään joko ympäristöstä tai loitsuista johtuviin myrkkyihin, tauteihin, nälkään, väsymykseen yms.
 Tahtopuolustusta heitetään joko ympäristöstä tai loitsuista johtuviin pelkoon, kuulusteluun, mielenhallintaan, hereillä pysymiseen ja vastaaviin.
 
-Huom! Hyökkäys ei voi osua kahteen eri puolustukseen. Esimerkiksi pelkoa aiheuttava kosketus heitettäisiin väistöpuolustukseen ja hahmo voisi yrittää karistaa pelon myöhemmin käyttämällä aktiivisesti tahtopuolustustaan.
+Huom! Hyökkäys ei voi osua kahteen eri puolustukseen. Esimerkiksi pelkoa aiheuttava kosketus heitettäisiin liikkuvuusnoppiin ja hahmo voisi yrittää karistaa pelon myöhemmin käyttämällä aktiivisesti tahtopuolustustaan.
 
-Peruspuolustus koostuu panssarinopista ja väistönopista.
+Peruspuolustus koostuu panssarinopista ja liikkuvuusnopista.
 
 ===Ylimääräiset puolustusonnistumiset===
 Ylimääräiset onnistumiset puolustusheitossa voidaan käyttää joko:
