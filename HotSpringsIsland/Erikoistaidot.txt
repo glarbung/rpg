@@ -7,7 +7,7 @@ Useampi erikoistaito voi vaikuttaa samaan heittoon tai toimintoon. Esimerkiksi m
 
 -Metsästäjä: +2N eräilyheittoihin (yleensä Harjaantuneisuus. Jäljitys, leirin teko, suunnistaminen, kokkaaminen leiritulella jne.) ja +1 kevyt varustepaikka
 -Tutkija: +2N magian tulkintaa (yleensä Oppineisuus. Riimut, maagiset esineet, voimakentät, maagiset arvoitukset jne.) ja voi ottaa kerran pelissä -1MP loitsun hintaan
--Haudanryöstäjä: +2N varasteluun (yleensä Ketteryys. Näpistäminen, tiirikointi, ansojen purku yms.) ja +1N Väistöpuolustus
+-Haudanryöstäjä: +2N varasteluun (yleensä Ketteryys. Näpistäminen, tiirikointi, ansojen purku yms.) ja +1N Liikkuvuus
 -Pyhiinvaeltaja: +2N vakuuttavuuteen (yleensä Persoonallisuus. Diplomatia, pelottelu, hämääminen jne.) ja +1N Tahtopuolustus
 -Rangaistusvanki: +2N fyysiseen työhön (yleensä Sitkeys tai Väkevyys. kantaminen, siirtäminen, hajottaminen) ja +1N Kestävyyspuolustus
 -Palkkasotilas: +2N sotilastietämys (yleensä Oppineisuus tai Harjaantuneisuus. Taktiikka, asetuntemus, sotilasarvojen ja käytöksen tunnistaminen yms.) ja +1 Kehopiste
