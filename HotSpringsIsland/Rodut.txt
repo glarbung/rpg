@@ -24,7 +24,7 @@ Puolienkeli:		+HAR +PER -OPP	Kylmän vastustus (-1 vahinko), Siivet (kuin lentol
 
 Puolidemoni:		+PER +OPP -VÄK	Kuuman vastustus (-1 vahinko), Hämiskiipeily (kuin loitsu, mutta ei maksa MP:tä. Voi käyttää häntäänsä yhtenä raajana)
 
-Puolihenki:		+VÄK +KET -SIT	Tuulen harjalla (Kerran kierroksessa tuplaliike normihinnalla), Ilmavalli (1t-reaktio: +2N kaikkien alueella olevien liittolaisten puolustukseen mundaaneja ammuksia vastaan tällä aloitteella)
+Puolihenki:		+VÄK +KET -SIT	Tuulen harjalla (Kerran kierroksessa tuplaliike normihinnalla), Ilmavalli (1a-reaktio: +2N kaikkien alueella olevien liittolaisten puolustukseen mundaaneja ammuksia vastaan tällä aloitteella)
 
 
 Peikko: 		+VÄK +SIT -OPP -PER  Suurikokoinen*, -1 vahinko mundaaneista hyökkäystyypeistä, Tuli ja happo tekevät tuplavahingon
