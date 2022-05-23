@@ -53,7 +53,7 @@ Torjuntatikari: L, +1N torjunta (vain lähitaisteluhyökkäyksiä vastaan)
 Bukleri: M, +1N torjunta & -1N osuminen
 
 (Raskas-kokoiset, 1-käden)
-Pisarakilpi: M, +1N torjunta & -1N osuminen& +1N peruspuolustus
+Pisarakilpi: M, +1N torjunta & -1N osuminen & +1N peruspuolustus
 Suurkilpi: M, +2N torjunta & -1N osuminen & +1N peruspuolustus, Kömpelö*
 
 ==Muut==
