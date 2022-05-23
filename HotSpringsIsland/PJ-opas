@@ -19,7 +19,7 @@ Etu ja haitta ovat merkittävästi heikompia kuin kohdenumeron muokkaus, joten n
 
 
 =Vahinkotyypit ja heikkoudet=
-Vihollisilla on erilaiset puolustussäännöt kuin pelaajilla. Näilläkin on peruspuolustus, mutta sitä ei jaeta panssari- tai väistönoppiin eivätkä vastustajat heitä tahto- tai kestävyyspuolustusheittoja. Näiden sijaan, vihollisen peruspuolustus saa haittoja eri pelaajien vahinkotyyppejä vastaan.
+Vihollisilla on erilaiset puolustussäännöt kuin pelaajilla. Näilläkin on peruspuolustus, mutta sitä ei jaeta panssari- tai liikkuvuusnoppiin eivätkä vastustajat heitä tahto- tai kestävyyspuolustusheittoja. Näiden sijaan, vihollisen peruspuolustus saa haittoja eri pelaajien vahinkotyyppejä vastaan.
 Jokaisella vastustajalla on hyvä olla vähintään -2:n edestä haittoja vahinkotyyppeihin, riippumatta tämän muusta vaarallisuusasteesta, koska vahinkotyyppiheikkouksien löytäminen on yksi pelaajien perushaasteista.
 Vahinkotyypit listattu alla ominaisuuksineen, joiden kanssa heikkous tyypillisesti esiintyy.
 
@@ -55,7 +55,7 @@ Seuraavat X toimintoa maksavat +1t.
 Seuraavat X hyökkäystä KN +1 (tai +2, jos ampumahyökkäys)
 
 -Sidonta (X)
-Väistöpuolustusheitot haitalla, ei voi liikkua. Katkeaa kun sitoja luovuttaa, siirretään tai hahmo onnistuu 1t/liikkeen yhteydessä Väk tai Ket heitossa, jonka KN = X. Jokainen onnistuminen laskee X:ää heittäneen hahmon osalta ja nollissa sidonta purkautuu.
+Liikkuvuuspuolustusheitot haitalla, ei voi liikkua. Katkeaa kun sitoja luovuttaa, siirretään tai hahmo onnistuu 1t/liikkeen yhteydessä Väk tai Ket heitossa, jonka KN = X. Jokainen onnistuminen laskee X:ää heittäneen hahmon osalta ja nollissa sidonta purkautuu.
 -Kivetys (X)
 Peruspuolustuksen sijaan vain panssaripuolustus, mutta lopullinen vahinko aina yhden vähemmän. Ei voi liikkua tai toimia X aloitteen ajan, ellei onnistu aloitteen alussa kestävyyspuolustuksessa, jonka KN jäljellä oleva X.
 -Lamaannutus (X)
@@ -138,7 +138,7 @@ KP: 12
 Haastetaso: KN2
 Aloite: 3
 Hyökkäys 1: Lävistyssyöksy 2t KN2 = 2 vahinkoa & Sidonta 2
-Hyökkäys 2: Pölytys(Maa) 2t KN3 (vain Väistönopat) = 1 vahinko & Myrkytys 1
+Hyökkäys 2: Pölytys(Maa) 2t KN3 (vain Liikkuvuusnopat) = 1 vahinko & Myrkytys 1
 Puolustus: KN2 (Leikkaava KN1, Tuli KN1, Maa KN1)
 KP: 5
 
@@ -210,7 +210,7 @@ KP: 3
 Haastetaso: KN2 (Koko 2)
 Aloite: 3
 Hyökkäys 1: Kynsipotku 2t KN3 = 1 vahinko
-Hyökkäys 2: Läpäisevä nokka 2t KN2 (vain väistönopat) = 2 vahinkoa
+Hyökkäys 2: Läpäisevä nokka 2t KN2 (vain Liikkuvuusnopat) = 2 vahinkoa
 Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
 KP: 5
 
@@ -330,7 +330,7 @@ KP: 11
 (yksinäinen saalistaja)
 Haastetaso: KN2 (Koko ½)
 Aloite: 4
-Hyökkäys 1: Myrkkypölysingahdus (liikkuu ylhäältä alueelle ja pois) 2t KN2 (vain väistönopat) = 0 vahinkoa & Myrkytys 1 & Verenvuoto 2
+Hyökkäys 1: Myrkkypölysingahdus (liikkuu ylhäältä alueelle ja pois) 2t KN2 (vain Liikkuvuusnopat) = 0 vahinkoa & Myrkytys 1 & Verenvuoto 2
 Puolustus: KN3 (Leikkaava KN2, Tuli KN2, Vesi KN2)
 KP: 5
 
