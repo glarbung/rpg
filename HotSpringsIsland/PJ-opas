@@ -79,6 +79,9 @@ Joukko samanlaisia vastustajia (vaikkapa villisikoja) toimivat normaalisti yhdes
 
 Alla listattuna maailmakirjan vihollisia taistelustatteineen. Haastetasoa voi käyttää ei-taisteluheittojen vaikeusasteena, esimerkiksi otuksen kimppuun hiipimiseen.
 
+
+Pedot:
+
 ==Astraalikehrääjä==
 (1-4 ryhmä, kutsuu loput 10-15 jos uhrit täysin lamaannutettu)
 Haastetaso: KN2 (Koko ½)
@@ -379,6 +382,8 @@ Puolustus: KN2 (Leikkaava KN1, Maa KN1)
 KP: 6
 
 
+Elementalit:
+
 ==Maa-elementali==
 Haastetaso: KN3 (Koko ½)
 Aloite: 4
@@ -488,6 +493,8 @@ Puolustus: KN3 (Vesi KN1)
 KP: 6
 
 
+Yökirveen hiidet:
+
 ==Yökirveen soturi==
 (älyllinen, 2-3 asumiskunta)
 Haastetaso: KN3 (Koko 2)
@@ -515,4 +522,41 @@ Puolustus: KN3 (Maa KN2)
 KP: 6
 
 
-==Goa==
+Liskomiehet:
+
+==Gooa==
+(yksinäinen metsästäjä)
+Haastetaso: KN4
+Aloite: 5
+Hyökkäys 1: Asehyökkäys 2a KN4 = 3 vahinkoa
+Hyökkäys 2: Aseeton (jos vastustaja heikko) 2a KN4 = 1 vahinko & Kaato
+Puolustus: KN4 (Murskaava KN3, Tuli KN3)
+KP: 9
+
+==Kiru-heimon samooja==
+(metsästävät yksin tai pareissa)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Jousi (Etäisyys 2) 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Lähitaistelu 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Vesi KN2)
+KP: 6
+
+==Kiru-heimon shamaani==
+(rauhallinen vaeltaja)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Keihäs 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Salama (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 3: Maanjäristys (koko alue) 3a KN3 = 1 vahinko ja Kaato
+Puolustus: KN3 (Leikkaava KN2, Vesi KN2)
+KP: 7
+
+==Arva==
+(lihansyöjä, yleensä 4:n ryhmä)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Bola 2a KN3 = 1 vahinko & Sidonta 1
+Hyökkäys 2: Teräaseet 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Tuli KN2)
+KP: 8
