@@ -377,3 +377,142 @@ Hyökkäys 1: Päälle hyppy (Etäisyys 2) 2a KN3 = 2 vahinkoa
 Hyökkäys 3: Mobiili nokkaisu (voi liikkua käsikähmään samalla) 2a KN2 = 2 vahinkoa
 Puolustus: KN2 (Leikkaava KN1, Maa KN1)
 KP: 6
+
+
+==Maa-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Kraaterointi (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäsy 2: Maapiikki (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN1, Maa KN4)
+KP: 8
+
+==Tuli-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Inferno (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäsy 2: Tuliammus (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Vesi KN1, Tuli KN4)
+KP: 8
+
+==Vesi-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Jäämyrsky (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäsy 2: Jääammus (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Maa KN1, Vesi KN4)
+KP: 8
+
+==Lima-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Mutapommi (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Hidastuminen 1
+Hyökkäsy 2: Limasuihku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN1)
+KP: 8
+
+==Magma-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Maanjäristys (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Pökerrys 1
+Hyökkäsy 2: Magmapiikki (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Vesi KN1)
+KP: 8
+
+==Höyry-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Paineaalto (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Pusku
+Hyökkäsy 2: Höyrysuihku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Maa KN1)
+KP: 8
+
+==Maapiru==
+(rauhallinen vaeltaja)
+Haastetaso: KN3 (Koko ½)
+Aloite: 3
+Toiminto 1: Maavalli/railo (luo vaikean maaston tai jakaa alueen kahdeksi) 2a
+Hyökkäys 1: Keilaus (Puoli käsikähmää, voi siirtyä alueen ilman vaparia) 2a KN3 = 2 vahinkoa & Kaato
+Hyökkäys 2: Maavyörymä (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäys 3: Kova nyrkki 2a KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Tuli KN3)
+KP: 9
+
+==Tulipiru==
+(räyhänhenki, n. 30 laumoissa)
+Haastetaso: KN2 (Koko ½)
+Aloite: 5
+Hyökkäys 1: Liekehtivä mukilointi (ei tappava) 2a KN2 = 1 vahinko
+Toiminto 1: Vetäytyminen ilmoihin 2a
+Hyökkäys 2: Tuliammus (Etäisyys 1) 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1, Tuli KN3)
+KP: 5
+
+==Vesipiru==
+(rauhallinen, 6-12 lauma usein muiden vesieläjien kanssa)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Veden jäädytys (koko alue) 3a KN2 = 1 vahinko
+Hyökkäys 2: Vesisuihku (Etäisyys 1) 2a KN2 = 1 vahinko ja Pusku
+Hyökkäys 3: Terävät kynnet 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1, Tuli KN3)
+KP: 5
+
+==Limapiru==
+(kujeilija, 2-5 lauma)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Mutapaakku (Etäisyys 1) 2a KN2 = 2 vahinkoa
+Hyökkäys 2: Limakamppi 2a KN2 = 1 vahinko ja Kaato
+Hyökkäys 3: Tukahdutus (vain jos 2-4 pirua yhtyneet koko 2:ksi) 2a KN3 = 3 vahinkoa
+Puolustus: KN2 (Maa KN0)
+KP: 6
+
+==Magmapiru==
+(rauhallinen, 2-12 joukkue)
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Laavapaakku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Järkäleen vyörytys (yhteistoiminto joukkueelta, aluehyökkäys) 2a KN3 = 3 vahinkoa ja Pusku
+Toiminto 1: Seinätys ja vetäytyminen (ei vapareita) 3a
+Puolustus: KN3 (Vesi KN1)
+KP: 7
+
+==Höyrypiru==
+(uhkapeluri, suuria ryhmiä)
+Haastetaso: KN3 (Koko ½)
+Aloite: 5
+Toiminto 1: Höyrystyminen (immuuni normaalille vahingolle) 2a
+Hyökkäys 1: Hämäysloitsu (Etäisyys 1) 2a KN3 = Hyökkää toverin kimppuun
+Puolustus: KN3 (Vesi KN1)
+KP: 6
+
+
+==Yökirveen soturi==
+(älyllinen, 2-3 asumiskunta)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Kirves 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Aseeton 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN2)
+KP: 7
+
+==Yökirveen terävalan tehnyt==
+(yksinäinen taistelija)
+Haastetaso: KN3 (Koko 2)
+Aloite: 6
+Hyökkäys 1: Teräaserynnäkkö (voi liikkua ennen hyökkäystä, vaparit normaalisti) 2a KN3 = 2 vahinkoa ja Pökerrys 1
+Puolustus: KN3 (Vesi KN2)
+KP: 8
+
+==Yökirveen luunsitoja==
+(heimon erakkoja, oma vesielementali)
+Haastetaso: KN3 (Koko 2)
+Aloite: 5
+Hyökkäys 1: Luunsirpaleet (koko alue) 3a KN3 = 2 vahinkoa
+Hyökkäys 2: Luunmurtuma 2a KN3 = 3 vahinkoa
+Puolustus: KN3 (Maa KN2)
+KP: 6
+
+
+==Goa==
