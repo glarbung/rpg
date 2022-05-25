@@ -69,7 +69,7 @@ Jokaisen uuden kierroksen alussa ottaa X vahinkoa. X ei laske ajan kanssa, vaan 
 -Hurmaus (X)
 Ei voi hyökätä tai heikentää hurmaajaa. Kesto X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Vain toinen hahmo voi käynnistää puolustuksen Avustamalla (1a) Persoonallisuudellaan.
 -Säikäytys (X)
-Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikkua lähemmäs pelon kohdetta. Kestää X kierrosta tai kunnes onnistuu Tahtopuolustuksessa. Hahmon itse on käytettävä 1a toiminto käynnistääkseen puolustusheitto ja toinen hahmo voi avustaa siinä normaalisti Persoonallisuudella.
+Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikkua lähemmäs pelon kohdetta. Kestää X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Hahmon itse on käytettävä 1t toiminto käynnistääkseen puolustusheitto ja toinen hahmo voi avustaa siinä normaalisti Persoonallisuudella.
 
 
 =Taistelu ja viholliset=
@@ -395,7 +395,7 @@ KP: 8
 ==Tuli-elementali==
 Haastetaso: KN3 (Koko ½)
 Aloite: 4
-Hyökkäys 1: Inferno (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäys 1: Inferno (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa ja Sytytys 1
 Hyökkäsy 2: Tuliammus (Etäisyys 1) 2a KN3 = 2 vahinkoa
 Puolustus: KN3 (Vesi KN1, Tuli KN4)
 KP: 8
@@ -565,3 +565,60 @@ KP: 8
 Fuegonautit:
 
 ==Combustarino==
+(tappelijoita, 20-30 yksilön jengejä)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Liekkihyökkäys (Etäisyys 1, yleensä lentäen) 2a KN2 = 2 vahinkoa
+Hyökkäys 2: Tuliveitsi 2a KN2 = 2 vahinkoa
+Hyökkäys 3: Kuperkeikat 2a KN2 = 1 vahinko & Pökerrys 1
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
+
+==Obsidianiterävahti=
+(yksinäinen tuhoaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Rynnäkkö (Voi liikkua 1 alueen käsikähmään) 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Asekäsi 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 9
+
+==Obsidianijättiläinen==
+(yksinäinen harvinaisuus)
+Haastetaso: KN4 (Koko 3)
+Aloite: 4
+Hyökkäys 1: Murskaava rynnäkkö (koko käsikähmä, vaparit jos poistuu) 2a KN4 = 3 vahinkoa
+Hyökkäys 2: Iskut 2a KN4 = 4 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Vesi KN3)
+KP: 13
+
+==Salamanteritemppuilija==
+(4-12 tiiviitä ryhmiä)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Hellyyttävä illuusio (illuusio vain kerran per kohde) 2a KN3 = 0 vahinkoa & Hurmaus 3
+Hyökkäys 2: Kauhistuttava illuusio (illuusio vain kerran per kohde) 2a KN3 ) 0 vahinkoa & Säikäytys 2
+Hyökkäys 2: Tulisuihku 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 6
+
+==Salamanterisoturi==
+(4-12 tiiviitä joukkueita)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Keihäänheitto (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Lähitaistelu 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 7
+
+
+Nereidit:
+
+==Nereidi==
+(pari ja mahdollisia eläinkumppaneita)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Vesipatsas (koko alue) 3a KN3 = 2 vahinkoa & Pusku
+Hyökkäys 2: Vesipiikku (Etäisyys 1) 2a KN3 = 3 vahinkoa
+Puolustus: KN3 (Maa KN2)
+KP: 6
