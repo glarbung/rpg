@@ -39,6 +39,7 @@ Ammuksia ~loputtomasti per varuste, ellei komplikaatio tai muu osu kohdalle)
 (Raskas-kokoiset, 2-käden)
 -Jousi: L, -, Etäisyys 2, Tähdättävä*
 -Varsijousi: L, +1 vahinko, Etäisyys 2, Tähdättävä* & Ladattava*
+-Kusari-gama: L, -, Etäisyys 1, Kätevä*
 
 (Liikkumattomat, 2-käden)
 -Arbalesti: L, +1N osuminen & +1 vahinko & -1N peruspuolustus, Etäisyys 3, Tähdättävä* & Ladattava*
@@ -79,7 +80,7 @@ Holtiton: Ensimmäistä heitettyä 6:sta ei lasketa komplikaation tarkasteluun (
 (Ominaisuuden sanamuoto (esim. -ase) kertoo mihin sovellettavissa)
 
 Vorpaaliase: Hyökätessä kaikki heitetyt 5:t antavat lisänopan
-Elementtiase: +1 vahinko jos osuu ja vaihtuu elementin mukaiseen vahinkotyyppiin
+Elementtiase: +1 vahinko jos osuu ja antaa ohelle elementin mukaiseen vahinkotyyppiin (parempaa käytetään)
 
 Lumottu ase**: Antaa +1N hyökkäykseen, sitten +1 vahinkoon jos osuu, hyökkäykseen jne.
 Lumottu kilpi**: Antaa +1N torjumiseen, sitten +1N puolustukseen, torjumiseen jne.
