@@ -189,6 +189,8 @@ Käsikähmässä ylivoima on sillä puolella, jolla on vähintään 1,5x niin pa
 
 Huom! Pienet olennot lasketaan puolikkaiksi ja suuret kahdeksi (jotkin ei-pelattavat jätit jopa 2-5:ksi ja parvet kokonsa mukaan) hahmoksi ylivoimaa arvioitaessa.
 
+(BETA: Voimakkaampi ylivoima) Jos tuntuu, että taistelijoiden määrät käsikähmissä on mielekäs taktinen aspekti, voidaan ylivoiman vaikutuksia voimistaa seuraavasti: Pelaajahahmojen ylivoima lähitaistelussa antaa edun hyökkäysheittoihin ja pahisten ylivoima haitan puolustusheittoihin.
+
 
 ==Hyökkäys ja puolustus==
 Heitetään toiminnolle asianmukaista ominaisuutta (alla) muuttujineen. Vaikeusaste määrittyy vastustajan mukaan ja saadaan pelinjohtajalta. Eri hyökkäystyypeillä (esim. aseesta) voi olla eri vaikeusasteita osua samaan viholliseen.
@@ -203,7 +205,12 @@ Tahtopuolustus: Harjaantuneisuus
 
 Lähtökohtaisesti hahmo voi valita kuhunkin heittoon avuksi vain yhden kädessään olevan varusteen (esim. toisesta kilvestä ei ole apua). Panssarit ja helyt antavat etunsa tähän päälle.
 
-===Ylimääräiset hyökkäysonnistumiset===
+===Hyökkäyksen vahinko===
+Hyökkäykset tekevät normaalisti vahinkoa vain ylimääräisten onnistumistensa verran sekä mahdolliset hyökkäyksen tai varusteen antamat lisävahingot. Onnistuminen tasan KN:ään ei siis aina tee vahinkoa lainkaan, mutta voi mahdollistaa muita efektejä (esim. Sidonta).
+
+(BETA: Taisteluiden nopeuttaminen) Voidaan ottaa vaihtoehtoisesti kaikkiin onnistuneisiin hyökkäyksiin pohjalle +1 vahinko, jos tuntuu että taistelut laahaa muuten liikaa.
+
+====Ylimääräiset hyökkäysonnistumiset====
 Ylimääräiset onnistumiset hyökkäysheitossa voidaan käyttää suoraan lisävahinkona, joillakin aseilla tai erikoisominaisuuksilla onnistumisia saatetaan käyttää myös haittavaikutusten luomiseen.
 
 Jos onnistumisia käytetään efektien luomiseen yllä mainitusti, seuraava pätee: Ylimääräiset onnistumiset KN:n yli ovat vapaata riistaa. Jos heitto on jo (tai laskettu) KN:ään tarkalleen, voi siihen ottaa yhden onnistumisen käytön edestä efektiä, mutta tällöin isku ei tee lainkaan vahinkoa.
@@ -229,8 +236,10 @@ Peruspuolustus koostuu panssarinopista ja liikkuvuusnopista.
 
 ===Ylimääräiset puolustusonnistumiset===
 Ylimääräiset onnistumiset puolustusheitossa voidaan käyttää joko:
-A) "Coverauksen" eli onnistumisiksi tovereille samassa käsikähmässä/vieressä, jos puolustetaan aluehyökkäystä vastaan. Ei väliä mitä puolustusta käytetään, fluffaa vaan asianmukaisesti.
-B) "Ripostena" eli lisänopiksi tulevaan hyökkäykseen. Peräkkäisten onnistuneiden puolustusten lisänopat eivät ole kumulatiivisia, vaan vain paras käytetään hyökätessä. Torjunta -toimintoa käyttäessä, lisänopat menevät puolustettavalle hahmolle.
+A) Suojaamiseen eli onnistumisiksi tovereille samassa käsikähmässä/vieressä, jos puolustetaan aluehyökkäystä vastaan.
+B) Vastahyökkäykseen eli lisänopiksi tulevaan hyökkäykseen. Peräkkäisten onnistuneiden puolustusten lisänopat eivät ole kumulatiivisia, vaan vain paras käytetään hyökätessä. Torjunta -toimintoa käyttäessä, lisänopat menevät puolustettavalle hahmolle.
+
+Edellä mainituissa ei väliä mitä puolustusta käytetään, kunhan kuvailee asianmukaisesti. Jos Tahto- ja Kestävyyspuolustusta heitetään ilmaiseksi kierroksen alussa efektin poistamiseksi, se ei kerrytä ylimääräisiä onnistumisia yllä oleviin.
 
 ==Liittolaiset taistelussa==
 Jos pelaajahahmoilla on liittolaisia taistelussa, näille ei tehdä omaa aloitetta, vaan toimivat autonomisesti puolustaen itseään ja toisiaan sekä kamppaillen vihollisia vastaan (eivät lähtökohtaisesti tee tai saa vahinkoa edes aluehyökkäyksistä, ellei pelinjohtaja toisin päätä kohtauksen puitteissa). Pelinjohtaja määrää miten liittolaiset siirtyvät taistelukentällä, yleensä kierrosten välissä tai reaktiona pelaajahahmojen/pahisten toimiin.
