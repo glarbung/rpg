@@ -1,0 +1,624 @@
+Pelinjohtajan opas:
+
+
+=Vaikeusasteiden määrittäminen=
+Heiton kohdenumeron määrittämisessä voi käyttää seuraavia nyrkkisääntöjä:
+
+KN0: Triviaali haaste tai vastustaja, joka ei vaatisi heittoa, mutta halutaan nähdä miten hienosti onnistuu. Harvemmin taistelussa.
+
+KN1: Heikko haaste tai vastustaja, joka voi vain tuurilla tai joukolla pysäyttää pelaajahahmon. Tyypillisesti muodostavat parven tai täydentävät vihollisjoukkoa.
+KN2: Perushaaste tai -pätevä este/vastus, joista suurin osa ihmisistä koostuu. Taistelussa usein osana ryhmää.
+
+KN3: Spesialisti tai varta vasten juuri tähän tehty este, joka voi kohdata sankarin silmästä silmään.
+KN4: Hengenvaarallinen, usein yliluonnollinen tai jättimäinen vastus/este. Voi haastaa ryhmän yksinään.
+
+KN5+: Jumalallinen vastus, jota vastaan on syytä löytää heikkous ja muutenkin valmistautua hyvin, jos mielii sen kukistaa.
+
+==Haitta vai KN:n muutos?==
+Etu ja haitta ovat merkittävästi heikompia kuin kohdenumeron muokkaus, joten niitä kannattaa käyttää tarinallisten olosuhteiden sepustuksessa ja säästää KN:n muokkaus kuvaamaan todellista vastustajan haastetason muuttumista, kuten vihollisten keskenäinen vaarallisuusero, heikkous tiettyä elementtiä vastaan tai erikoishyökkäys/muoto. Usein KN:n laskeminen edellyttää pelaajahahmolta valmistautumista (oikea ase/loitsu), resurssien (kuten MP:iden) käyttöä tai muuta konkreettista vaivannäköä. Edun saamisen suhteen ei tarvitse olla yhtä tarkkaa.
+
+
+=Vahinkotyypit ja heikkoudet=
+Vihollisilla on erilaiset puolustussäännöt kuin pelaajilla. Näilläkin on peruspuolustus, mutta sitä ei jaeta panssari- tai liikkuvuusnoppiin eivätkä vastustajat heitä tahto- tai kestävyyspuolustusheittoja. Näiden sijaan, vihollisen peruspuolustus saa haittoja eri pelaajien vahinkotyyppejä vastaan.
+Jokaisella vastustajalla on hyvä olla vähintään -2:n edestä haittoja vahinkotyyppeihin, riippumatta tämän muusta vaarallisuusasteesta, koska vahinkotyyppiheikkouksien löytäminen on yksi pelaajien perushaasteista.
+Vahinkotyypit listattu alla ominaisuuksineen, joiden kanssa heikkous tyypillisesti esiintyy.
+
+(BETA)
+Leikkaava: Pehmeä, kevyesti panssaroitu, siivekäs
+Murskaava: Kova, raskaasti panssaroitu, pyörillä kulkeva
+Tuli: Vesi, Kylmä, kasviperäinen, kuiva
+Vesi: Maa, Kuuma, metallinen, kostea
+Maa: Tuli, Hauras, joustava, moniosainen
+
+==Elementeistä==
+Tuli pitää sisällään salamat ja muodostaa yhdessä maan kanssa magman. Maa sisältää kasvit sekä myrkyt ja muodostaa yhdessä veden kanssa liman. Vesi sisältää hapon ja muodostaa tulen kanssa höyryn. Heikkouksien kannalta tämä tarkoittaa, että sisältyvä elementti käyttää pääelementtinsä vastustuksia ja välielementti heikomman pääelementeistään vastustusta suhteessa peruspuolustukseen jaettuna kahdella (pyöristäen ylöspäin).
+
+
+=Hyökkäysefektejä=
+Vihollisten hyökkäykset voivat aiheuttaa pelaajahahmoille erilaisia ongelmia vahingon lisäksi tai sijasta. Tyypillisesti hyökkäys aiheuttaa efektin riippumatta osumisesta vain, jos hyökkääjä on voimakas ja hyökkäys itsessään heikko (esim. 0 vahinkoa). Efektien kesto riippuu efektistä itsestään (joillakin on määritelty kesto, mutta useimmat merkitty X:llä) sekä hyökkäyksen voimakkuudesta (X). Nyrkkisääntöjä hyökkäyksen voimakkuus voi olla suunnilleen sama kuin vastustajan taso (perus KN).
+
+==Efektit vaikutuksineen=
+Efektin kestossa se pelaajahahmon kierros tai aloite, jolla efekti on ensimmäisen kerran voimassa lasketaan ensimmäiseksi ja heti sen päätyttyä kesto laskee yhdellä (usein helpottaen efektin katkaisuheittoa).
+
+-Tajuton (-)
+Ei voi toimia tai puolustautua. Saatu vahinko ei voi tiputtaa alle KP 0:n. Loppuu kohtauksen jälkeen / joku heittää onnistuneen ensiavun -> 1KP tai parannetaan magialla.
+-Kaato (-)
+Liikkuminen (x2)t ellei nouse (1a). Hyökkääminen haitalla ja puolustus haitalla samassa käsikähmässä olevia vastaan, mutta edulla muita.
+-Pusku (-)
+Siirtää viereiselle alueelle tai jos ei mahdollista, irti käsikähmästä. Tämä liike ei anna vapaa-iskuja.
+
+-Hidastus (X)
+Liikkuminen maksaa +1a X kierroksen ajan.
+-Pökerrys (X)
+Seuraavat X toimintoa maksavat +1a.
+-Sokeutus (X)
+Seuraavat X hyökkäystä KN +1 (tai +2, jos ampumahyökkäys)
+
+-Sidonta (X)
+Liikkuvuuspuolustusheitot haitalla, ei voi liikkua. Katkeaa kun sitoja luovuttaa, siirretään tai hahmo onnistuu 1a/liikkeen yhteydessä Väk tai Ket heitossa, jonka KN = X. Jokainen onnistuminen laskee X:ää heittäneen hahmon osalta ja nollissa sidonta purkautuu.
+-Kivetys (X)
+Peruspuolustuksen sijaan vain panssaripuolustus, mutta lopullinen vahinko aina yhden vähemmän. Ei voi liikkua tai toimia X aloitteen ajan, ellei onnistu aloitteen alussa kestävyyspuolustuksessa, jonka KN jäljellä oleva X.
+-Lamaannutus (X)
+Peruspuolustuksen sijaan pelkkä panssaripuolustus. Ei voi liikkua tai toimia X aloitteen ajan, ellei onnistu aloitteen alussa tahtopuolustuksessa, jonka KN jäljellä oleva X.
+
+-Myrkytys (X)
+Haitta aktiivisiin toimiin kohtauksen ajan. Taistelussa heitetään jokaisen kierroksen alussa kestävyyspuolustus, jonka KN jäljellä oleva X, pääseekö eroon.
+-Sytytys/Verenvuoto (X)
+Jokaisen uuden kierroksen alussa ottaa X vahinkoa. X ei laske ajan kanssa, vaan ainoastaan kun joku tekee 2a parannus-toiminnon (Oppineisuus), jonka kukin onnistuminen vähentää X:ää yhdellä. Parannusta voidaan tehdä useita kertoja.
+
+-Hurmaus (X)
+Ei voi hyökätä tai heikentää hurmaajaa. Kesto X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Vain toinen hahmo voi käynnistää puolustuksen Avustamalla (1a) Persoonallisuudellaan.
+-Säikäytys (X)
+Aktiiviset toimet haitalla pelon lähteen ollessa näköpiirissä. Ei voi liikkua lähemmäs pelon kohdetta. Kestää X kierrosta tai kunnes onnistuu Tahtopuolustuksessa, jonka KN jäljellä oleva X. Hahmon itse on käytettävä 1t toiminto käynnistääkseen puolustusheitto ja toinen hahmo voi avustaa siinä normaalisti Persoonallisuudella.
+
+
+=Taistelu ja viholliset=
+Vihollisilla on staattinen aloite ja nämä toimivat aina pelaajahahmojen jälkeen kullakin aloiterivillä. Pariton aloite on ensisijaisesti vapareiden tekemistä varten, pahikset ei siirrä aloitetta seuraavalle kierrokselle. Viholliset käyttävät yleensä ensin 1. hyökkäystään ja saatuaan efektin läpi tai olleessaan kykenemättömiä esim. liikkumaan riittävästi toista.
+
+Joukko samanlaisia vastustajia (vaikkapa villisikoja) toimivat normaalisti yhdessä samalla tavoin, mutta voivat vaikkapa hyökätessä valita eri kohteita tilanteen ja sattuman (voit heittää nopilla kohteet) mukaan. Jos vain osa voi tehdä reaktiona vaparin, voit joko käyttää sen kaikilta tai jakaa joukon kahdeksi aloiteriviksi, kumpi sopiikaan paremmin tilanteeseen.
+
+Alla listattuna maailmakirjan vihollisia taistelustatteineen. Haastetasoa voi käyttää ei-taisteluheittojen vaikeusasteena, esimerkiksi otuksen kimppuun hiipimiseen.
+
+
+Pedot:
+
+==Astraalikehrääjä==
+(1-4 ryhmä, kutsuu loput 10-15 jos uhrit täysin lamaannutettu)
+Haastetaso: KN2 (Koko ½)
+Aloite: 3
+Hyökkäys 1: Seititys 2a KN3 = 0 vahinkoa, Sidonta 2 (jos jo Sidottu, Kivetys 2)
+Hyökkäys 2: Purema 2a KN2 = 1 vahinko
+Puolustus: KN2 (Murskaava KN1, Tuli KN0, Maa KN1)
+KP: 4
+
+==Jättiläislepakko==
+(2-4 ryhmä, pesä yleensä n. 12, mutta vaihtelee)
+Haastetaso: KN2
+Aloite: 2
+Hyökkäys 1 (Lähitaistelusyöksy ylemmältä alueelta, ei anna vaparia): Läpilento 2a KN2 = 1 vahinko & Sokeutus 2
+Hyökkäys 2: Raatelu 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
+
+==Sokkotulimatto==
+(yksinäinen väijyttäjä)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Ahmaisu 2a KN3 = 1 vahinkoa & Sidonta 3
+Hyökkäys 2 (vain sidottuun kohteeseen): Rusentaminen 2a KN4 = 3 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Tuli KN1, Vesi KN2)
+KP: 7
+
+==Sokkotuliliaani==
+(yksinäinen väijyttäjä)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1 (voi hyökätä samalla alueella myös käsikähmänsä ulkopuolelle): Kietoutuminen 2a KN3 = 2 vahinkoa & Sidonta 2
+Hyökkäys 2 (vain sidottuun kohteeseen): Rusentaminen 2a KN4 = 3 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Tuli KN1, Vesi KN2)
+KP: 8
+
+==Villisika==
+(keräilee yksin, nukkuu n. 12 perheen kanssa)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1 (liikkuu käsikähmään samalla): Rynnistys 2a KN2 = 2 vahinko
+Hyökkäys 2 (jos ei voi liikkua): Riehuminen 2a KN2 = 1 vahinko
+Puolustus: KN2 (Murskaava KN1, Vesi KN0)
+KP: 5
+
+==Julmasika==
+(yksinäinen saalistaja)
+Haastetaso: KN4 (Koko 3)
+Aloite: 4
+Hyökkäys 1: Rynnistys 2a KN4 = 3 vahinkoa & Pusku
+Hyökkäys 2: Riehuminen 2a KN3 = 2 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Vesi KN2)
+KP: 12
+
+==Vasamahakija==
+(6-12 parvi)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Lävistyssyöksy 2a KN2 = 2 vahinkoa & Sidonta 2
+Hyökkäys 2: Pölytys(Maa) 2a KN3 (vain Liikkuvuusnopat) = 1 vahinko & Myrkytys 1
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1, Maa KN1)
+KP: 5
+
+==Leveäselkä==
+(rauhallinen kasvissyöjä)
+Haastetaso: KN4 (Koko 4)
+Aloite: 5
+Hyökkäys 1: Moukarointi 2a KN4 = 3 vahinkoa & Pökerrys 1
+Puolustus: KN5 (Murskaava KN4, Maa KN3, Vesi KN4)
+KP: 16
+
+==Jättiläistuhatjalkainen==
+(2-6 ryhmissä)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Myrkkypistin 2a KN2 = 1 vahinko & Lamaannutus 2
+Hyökkäys 2: Purenta 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Maa KN1)
+KP: 6
+
+==Kupariselkäkyy==
+(yksinäinen saalistaja)
+Haastetaso: KN3
+Aloite: 3
+Hyökkäys 1: Myrkkypurema 2a KN3 = 1 vahinko & Tajuton
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 5
+
+==Kupariharjainen vaanija==
+(yksinäinen saalistaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 5
+Hyökkäys 1: Sähkönokka (vain kerran kierroksessa) 2a KN3 = 3 vahinkoa & Pökerrys 1
+Hyökkäys 2: Sähköteleporttaus (kerran taistelussa, osuu kaikkiin matkalla tai puoleen käsikähmästä) 3a KNx = 2 vahinkoa & Pökerrys 1
+Hyökkäys 3: Kynnet 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN1)
+KP: 7
+
+==Koralliväen onkija==
+(yksinäinen saalistaja, pesässä Kutuja)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1 (vedessä): Pinnalle laukaisu (voi hyökätä viereiseltä alueelta antamatta vaparia) 2a KN3 = 1 vahinko & Pusku 2 (ylöspäin, jos osuu grotton kattoon +1 vahinko)
+Hyökkäys 2 (maalla): Loikka (voi liikkua viereiselle alueelle) 2a KN3 = 2 vahinkoa
+Hyökkäys 3: Myrkkypurema: 2a KN3 = 2 vahinkoa ja Myrkytys 2
+Hyökkäys 4: Häntäisku (koko käsikähmään) 2a(3a maalla) KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Tuli KN1)
+KP: 8
+
+==Koralliväen kutu==
+(n. 20 parvessa)
+Haastetaso: KN2 (Parvi, koko = määrä*½)
+Aloite: 3
+Hyökkäys 1: Puremat 2a KN3(KN2 kun määrä<10) = 2 vahinkoa (1 vahinko kun määrä<10) & Myrkytys X (määrä/4)
+Puolustus: KN2 (Leikkaava KN1, Tuli KN0)
+KP: 2 per yksilö
+
+==Kristallisammakko==
+(rauhallinen ruokailuton)
+Haastetaso: KN1 (Koko 0)
+Aloite: 2
+Toiminto 1: Piiloutuminen 2a KN2 havaita
+Toiminto 2: Pakeneminen 2a (mieluusti läheiseen veteen)
+Puolustus: KN2 (Murskaava KN0, Maa KN1)
+KP: 3
+
+==Duecadre==
+(yksinäinen saalistaja)
+Haastetaso: KN2 (Koko 2)
+Aloite: 3
+Hyökkäys 1: Kynsipotku 2a KN3 = 1 vahinko
+Hyökkäys 2: Läpäisevä nokka 2a KN2 (vain Liikkuvuusnopat) = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
+KP: 5
+
+==Nylkypiru==
+(yksinäinen saalistaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Rynnistys (läpi alueen, ei anna vapareita) 2a KN3 = 2 vahinkoa & Pusku 1
+Hyökkäys 2: Huidonta 2a KN2 = 2 vahinkoa & Verenvuoto 1
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 9
+
+==Kujilintu==
+(1-2 sekasyöjää)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Rynnistys 2a KN2 = 1 vahinko & Myrkytys 1
+Hyökkäys 2: Hirveä laulu (kerran kierroksessa kaikkiin alueella) 2a KN2 = 0 vahinkoa & Säikäytys 1
+Puolustus: KN3 (Leikkaava KN2, Murskaava KN2, Tuli KN2)
+KP: 5
+
+==Mutiseva käärme==
+(yksinäinen saalistaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 5
+Hyökkäys 1: Telepaattinen sarjatuli (kaikille alueella) 2a KN3 = 0 vahinkoa & Hurmaus 3
+Hyökkäys 2: Kita 2a KN3 = 3 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Tuli KN2)
+KP: 7
+
+==Obsidiaanikaivaja==
+(rauhallinen ruokailuton)
+Haastetaso: KN3 (Koko ½)
+Aloite: 3
+Hyökkäys 1: Obsidianiammus (etäisyys 2) 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Raateleva paiskaus 2a KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Maa KN3, Vesi KN2)
+KP: 9
+
+==Oranssi lieju==
+(yksinäinen saalistaja)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Paiskautuminen (liikkeen yhteydessä 2a KN3 = 2 vahinkoa & Pusku 2
+Hyökkäys 2: Päälle valuminen 2a KN3 = 3 vahinkoa & Laskee hyökkääjän kädessä olevan aseen vahinkoa yhdellä kunnes puhdistetaan esim. alkoholilla
+Puolustus: KN3 (Tuli KN2)
+KP: 6
+
+==Myrkkynuolisammakko==
+(yksinäinen saalis)
+Haastetaso: KN1 (Koko 0)
+Aloite: 3
+Hyökkäys 1: -
+Puolustus: KN2 (Leikkaava KN1, Maa KN1)
+KP: 1
+
+==Jättiläisrotta==
+(parvi 10-30 yksilöä)
+Haastetaso: KN2 (Parvi, koko = määrä*½)
+Aloite: 3
+Hyökkäys 1: Puremat 2a KN3 (KN2 kun määrä<10) = 1-3 vahinkoa (määrä/10)
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 2 per yksilö
+
+==Varjo==
+(ryhmä 3-5)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1 (mieluiten maagisempiin kohteisiin): Yllätyshyökkäys (vain taistelun alussa) 0t KN3 = 3 vahinkoa
+Hyökkäys 2: Raatelu 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (KN+2 magiaa vastaan, mutta ei voi hyökätä valossa)
+KP: 7
+
+==Laulava golemi==
+(yksinäinen tai vanha setti)
+Haastetaso: KN2
+Aloite: 2
+Hyökkäys 1: -
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 6
+
+==Rankalisko==
+(rauhallinen kasvissyöjä)
+Haastetaso: KN7 (Koko 3)
+Aloite: 2
+Hyökkäys 1: -
+Puolustus: KN10 (Vesi KN8)
+KP: 20
+
+==Tabibari==
+(laumassa elävä kasvissyöjä)
+Haastetaso: KN2 (Koko 2)
+Aloite: 3
+Hyökkäys 1: Murjonta 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Maa KN1)
+KP: 6
+
+==Vyderac toukka==
+(parvi 10-20 yksilöä)
+Haastetaso: KN2 (Parvi, koko = määrä*½)
+Aloite: 2
+Hyökkäys 1: Jäytäminen 2a KN3 (KN2 kun määrä<10) = 2 vahinkoa (1 vahinko kun määrä<10)
+Puolustus: KN2 (Leikkaava KN1, Tuli KN1)
+KP: 2 per yksilö
+
+==Vyderac matriarkka==
+(liikkumaton pesijä)
+Haastetaso: KN4 (Koko 5)
+Aloite: 5
+Hyökkäys 1: Jättisakset 2a KN4 = 3 vahinkoa
+Hyökkäys 2: Happosuihku (Etäisyys 2, kutsuu muita) 2a KN4 = 2 vahinkoa & Myrkytys 1
+Hyökkäys 3: Happoräjähdys (Itsetuho) 3a KN4 (kaikille alueella) = 5 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Tuli KN3, Maa KN4)
+KP: 11
+
+==Vyderac etsijä==
+(yksinäinen saalistaja)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Myrkkypölysingahdus (liikkuu ylhäältä alueelle ja pois) 2a KN2 (vain Liikkuvuusnopat) = 0 vahinkoa & Myrkytys 1 & Verenvuoto 2
+Puolustus: KN3 (Leikkaava KN2, Tuli KN2, Vesi KN2)
+KP: 5
+
+==Vyderac vilistäjä==
+(parvi 3-6 yksilöä)
+Haastetaso: KN2 (Koko 0)
+Aloite: 4
+Hyökkäys 1: Parveilu 2a KN2 = 1-2 vahinkoa (1 per 3 yksilöä)
+Hyökkäys 2: Myrkkypurema 2a KN3 = 1 vahinko & Myrkytys 2
+Puolustus: KN2 (Murskaava KN1, Vesi KN1)
+KP: 2 per yksilö
+
+==Vyderac imijä==
+(pareina haaskalle)
+Haastetaso: KN2
+Aloite: 3
+Hyökkäys 1: Imupiikki 2a KN2 = 4 vahinkoa
+Puolustus: KN2 (Murskaava KN1, Vesi KN2)
+KP: 6
+
+==Luuselkä wydarr==
+(4-11 perheryhmä)
+Haastetaso: KN2
+Aloite: 5
+Hyökkäys 1: Loikkaviilto (voi liikkua ilman vaparia samalla alueella) 2a KN2 = 2 vahinkoa
+Hyökkäys 2: Rieha 2a KN2 (osuu puoleen käsikähmästä) = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
+
+==Kristalliselkä wydarr==
+(kaivavat pareissa, 3-8 ryhmä)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Raatelu 2a KN3 (osuu puoleen käsikähmästä) = 2 vahinkoa
+Hyökkäys 2: Loikka (voi loikata toisen wydarrin selästä ilman vaparia viereisellekin alueella) 2a KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Vesi KN3)
+KP: 9
+
+==Viuh-lintu==
+(pariton määrä 3-13)
+Haastetaso: KN2
+Aloite: 4
+Hyökkäys 1: Päälle hyppy (Etäisyys 2) 2a KN3 = 2 vahinkoa
+Hyökkäys 3: Mobiili nokkaisu (voi liikkua käsikähmään samalla) 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Maa KN1)
+KP: 6
+
+
+Elementalit:
+
+==Maa-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Kraaterointi (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäsy 2: Maapiikki (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN1, Maa KN4)
+KP: 8
+
+==Tuli-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Inferno (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa ja Sytytys 1
+Hyökkäsy 2: Tuliammus (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Vesi KN1, Tuli KN4)
+KP: 8
+
+==Vesi-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Jäämyrsky (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäsy 2: Jääammus (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Maa KN1, Vesi KN4)
+KP: 8
+
+==Lima-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Mutapommi (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Hidastuminen 1
+Hyökkäsy 2: Limasuihku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN1)
+KP: 8
+
+==Magma-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Maanjäristys (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Pökerrys 1
+Hyökkäsy 2: Magmapiikki (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Vesi KN1)
+KP: 8
+
+==Höyry-elementali==
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Paineaalto (Aluehyökkäys koko alueelle) 3a KN3 = 1 vahinko & Pusku
+Hyökkäsy 2: Höyrysuihku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Maa KN1)
+KP: 8
+
+==Maapiru==
+(rauhallinen vaeltaja)
+Haastetaso: KN3 (Koko ½)
+Aloite: 3
+Toiminto 1: Maavalli/railo (luo vaikean maaston tai jakaa alueen kahdeksi) 2a
+Hyökkäys 1: Keilaus (Puoli käsikähmää, voi siirtyä alueen ilman vaparia) 2a KN3 = 2 vahinkoa & Kaato
+Hyökkäys 2: Maavyörymä (Aluehyökkäys koko alueelle) 3a KN3 = 2 vahinkoa
+Hyökkäys 3: Kova nyrkki 2a KN3 = 3 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Tuli KN3)
+KP: 9
+
+==Tulipiru==
+(räyhänhenki, n. 30 laumoissa)
+Haastetaso: KN2 (Koko ½)
+Aloite: 5
+Hyökkäys 1: Liekehtivä mukilointi (ei tappava) 2a KN2 = 1 vahinko
+Toiminto 1: Vetäytyminen ilmoihin 2a
+Hyökkäys 2: Tuliammus (Etäisyys 1) 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1, Tuli KN3)
+KP: 5
+
+==Vesipiru==
+(rauhallinen, 6-12 lauma usein muiden vesieläjien kanssa)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Veden jäädytys (koko alue) 3a KN2 = 1 vahinko
+Hyökkäys 2: Vesisuihku (Etäisyys 1) 2a KN2 = 1 vahinko ja Pusku
+Hyökkäys 3: Terävät kynnet 2a KN2 = 2 vahinkoa
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1, Tuli KN3)
+KP: 5
+
+==Limapiru==
+(kujeilija, 2-5 lauma)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Mutapaakku (Etäisyys 1) 2a KN2 = 2 vahinkoa
+Hyökkäys 2: Limakamppi 2a KN2 = 1 vahinko ja Kaato
+Hyökkäys 3: Tukahdutus (vain jos 2-4 pirua yhtyneet koko 2:ksi) 2a KN3 = 3 vahinkoa
+Puolustus: KN2 (Maa KN0)
+KP: 6
+
+==Magmapiru==
+(rauhallinen, 2-12 joukkue)
+Haastetaso: KN3 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Laavapaakku (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Järkäleen vyörytys (yhteistoiminto joukkueelta, aluehyökkäys) 2a KN3 = 3 vahinkoa ja Pusku
+Toiminto 1: Seinätys ja vetäytyminen (ei vapareita) 3a
+Puolustus: KN3 (Vesi KN1)
+KP: 7
+
+==Höyrypiru==
+(uhkapeluri, suuria ryhmiä)
+Haastetaso: KN3 (Koko ½)
+Aloite: 5
+Toiminto 1: Höyrystyminen (immuuni normaalille vahingolle) 2a
+Hyökkäys 1: Hämäysloitsu (Etäisyys 1) 2a KN3 = Hyökkää toverin kimppuun
+Puolustus: KN3 (Vesi KN1)
+KP: 6
+
+
+Yökirveen hiidet:
+
+==Yökirveen soturi==
+(älyllinen, 2-3 asumiskunta)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Kirves 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Aseeton 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Tuli KN2)
+KP: 7
+
+==Yökirveen terävalan tehnyt==
+(yksinäinen taistelija)
+Haastetaso: KN3 (Koko 2)
+Aloite: 6
+Hyökkäys 1: Teräaserynnäkkö (voi liikkua ennen hyökkäystä, vaparit normaalisti) 2a KN3 = 2 vahinkoa ja Pökerrys 1
+Puolustus: KN3 (Vesi KN2)
+KP: 8
+
+==Yökirveen luunsitoja==
+(heimon erakkoja, oma vesielementali)
+Haastetaso: KN3 (Koko 2)
+Aloite: 5
+Hyökkäys 1: Luunsirpaleet (koko alue) 3a KN3 = 2 vahinkoa
+Hyökkäys 2: Luunmurtuma 2a KN3 = 3 vahinkoa
+Puolustus: KN3 (Maa KN2)
+KP: 6
+
+
+Liskomiehet:
+
+==Gooa==
+(yksinäinen metsästäjä)
+Haastetaso: KN4
+Aloite: 5
+Hyökkäys 1: Asehyökkäys 2a KN4 = 3 vahinkoa
+Hyökkäys 2: Aseeton (jos vastustaja heikko) 2a KN4 = 1 vahinko & Kaato
+Puolustus: KN4 (Murskaava KN3, Tuli KN3)
+KP: 9
+
+==Kiru-heimon samooja==
+(metsästävät yksin tai pareissa)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Jousi (Etäisyys 2) 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Lähitaistelu 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Leikkaava KN2, Vesi KN2)
+KP: 6
+
+==Kiru-heimon shamaani==
+(rauhallinen vaeltaja)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Keihäs 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Salama (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 3: Maanjäristys (koko alue) 3a KN3 = 1 vahinko ja Kaato
+Puolustus: KN3 (Leikkaava KN2, Vesi KN2)
+KP: 7
+
+==Arva==
+(lihansyöjä, yleensä 4:n ryhmä)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Bola 2a KN3 = 1 vahinko & Sidonta 1
+Hyökkäys 2: Teräaseet 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Tuli KN2)
+KP: 8
+
+
+Fuegonautit:
+
+==Combustarino==
+(tappelijoita, 20-30 yksilön jengejä)
+Haastetaso: KN2 (Koko ½)
+Aloite: 4
+Hyökkäys 1: Liekkihyökkäys (Etäisyys 1, yleensä lentäen) 2a KN2 = 2 vahinkoa
+Hyökkäys 2: Tuliveitsi 2a KN2 = 2 vahinkoa
+Hyökkäys 3: Kuperkeikat 2a KN2 = 1 vahinko & Pökerrys 1
+Puolustus: KN2 (Leikkaava KN1, Vesi KN1)
+KP: 6
+
+==Obsidianiterävahti=
+(yksinäinen tuhoaja)
+Haastetaso: KN3 (Koko 2)
+Aloite: 4
+Hyökkäys 1: Rynnäkkö (Voi liikkua 1 alueen käsikähmään) 2a KN3 = 3 vahinkoa
+Hyökkäys 2: Asekäsi 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 9
+
+==Obsidianijättiläinen==
+(yksinäinen harvinaisuus)
+Haastetaso: KN4 (Koko 3)
+Aloite: 4
+Hyökkäys 1: Murskaava rynnäkkö (koko käsikähmä, vaparit jos poistuu) 2a KN4 = 3 vahinkoa
+Hyökkäys 2: Iskut 2a KN4 = 4 vahinkoa
+Puolustus: KN4 (Murskaava KN3, Vesi KN3)
+KP: 13
+
+==Salamanteritemppuilija==
+(4-12 tiiviitä ryhmiä)
+Haastetaso: KN3
+Aloite: 4
+Hyökkäys 1: Hellyyttävä illuusio (illuusio vain kerran per kohde) 2a KN3 = 0 vahinkoa & Hurmaus 3
+Hyökkäys 2: Kauhistuttava illuusio (illuusio vain kerran per kohde) 2a KN3 ) 0 vahinkoa & Säikäytys 2
+Hyökkäys 2: Tulisuihku 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 6
+
+==Salamanterisoturi==
+(4-12 tiiviitä joukkueita)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Keihäänheitto (Etäisyys 1) 2a KN3 = 2 vahinkoa
+Hyökkäys 2: Lähitaistelu 2a KN3 = 2 vahinkoa
+Puolustus: KN3 (Murskaava KN2, Vesi KN2)
+KP: 7
+
+
+Nereidit:
+
+==Nereidi==
+(pari ja mahdollisia eläinkumppaneita)
+Haastetaso: KN3
+Aloite: 5
+Hyökkäys 1: Vesipatsas (koko alue) 3a KN3 = 2 vahinkoa & Pusku
+Hyökkäys 2: Vesipiikku (Etäisyys 1) 2a KN3 = 3 vahinkoa
+Puolustus: KN3 (Maa KN2)
+KP: 6

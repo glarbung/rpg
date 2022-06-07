@@ -1,5 +1,7 @@
+Hahmonluonti:
+
 1. Ominaisuudet alkaa kaikki 1:stä (max.5)
 2. Valitse rotu ja lisää/vähennä pisteet (sekä maksimit)
 3. Lisää 12 pistettä ominaisuuksiin
-4. Valitse 3 erikoisuutta (plus ylimääräiset Oppineisuudesta ja rodusta)
+4. Valitse 3 erikoistaitoa/loitsua (plus ylimääräiset Oppineisuudesta ja rodusta)
 5. Kirjaa alkuvarusteet (1 haarniska, aseita ym. slottien mukaan)
