@@ -11,3 +11,6 @@
 
 4) Isot poolit räjähtää liikaa suhteessa, tehden pienellä poolilla heittämisestä vielä turhempaa
 = Vaihdetaan noppatyyppi d10:eihin.
+
+5) Riposte ja coveraus ei tarpeen, koska puolustaminen ilmaista
+= Poistetaan käytöstä. Riposte toimii omana erikoistaitonaan (kun käyttää aktiivista puolustusta tai jos liian heikko siten, myös onnistuneesta peruspuolustuksesta) jos joku haluaa sen ja Coverauksen voi sisällyttää kilpiloitsuun esim. siten että 1MP = täysi pooli ja onnistumisia saa jakaa liitolaisille samalla alueella.
