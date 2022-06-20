@@ -138,7 +138,7 @@ Kukin hyökkäys/loitsiminen, liikkuminen jne. maksaa tietyn määrän aloitetta
 
 -Ampuma/loitsuhyökkäys: 2a (normaalisti). Kohde aseen/hyökkäyksen etäisyydellä. Jos kanssasi käsikähmässä vihollisia, nämä voivat tehdä vapaa-iskun. Jos ammut lähitaistelussa kanssasi olevaa vastustajaa, tämä ei saa vaparia, mutta hyökkäys on haitalla.
 
--Liikkuminen: 1a = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 aloitetta. Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vapaa-iskun.
+-Liikkuminen: 1a = viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 2 aloitetta. Liikkuminen pois käsikähmästä, jossa omalla puolella ei ylivoima antaa vihollisille vapaa-iskun. Liikkuminen nykyisen alueen sisällä on ilmaista muun toiminnon yhteydessä, kunhan huomioi vaparit.
 
 -Vetäytyminen: Liikettä, joka ei anna vapaa-iskuja. 2a = korkeintaan viereiselle alueelle. Jos vaikeaa maastoa tai vaikea ylityskohta, voi vaatia heiton tai maksaa suoraan 3 aloitetta.
 
