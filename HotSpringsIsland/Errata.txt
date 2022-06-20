@@ -1,0 +1,13 @@
+=Havaintoja ja tällä hetkellä kokeilussa olevia ratkaisuja pelien pohjalta=
+
+1) Damaa on vaikea tehdä
+= Onnistuminen hyökkäyksessä onkin pohjalla jo 1 dmg (eli lisädama (aseen ym. päälle) lasketaan erotus KN:ään +1)
+
+2) Pelaajahahmoihin ei juuri tule damaa
+= Puolustaessa tasan KN:ään onnistuminen päästää läpi 1dmg tai pelkät efektit.
+
+3) Kompilikaatioita tulee liikaa
+= Kokeillaan dumpata ykköslaskut ja otetaan eri värinen 1d10 pooliin, josta 1 on komplikaatio ja 10 on lisäonnistuminen. Aluehyökkäyksessä k.o. noppa heitetään vain ensimmäiseen kohteeseen.
+
+4) Isot poolit räjähtää liikaa suhteessa, tehden pienellä poolilla heittämisestä vielä turhempaa
+= Vaihdetaan noppatyyppi d10:eihin.
