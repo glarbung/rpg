@@ -14,3 +14,6 @@
 
 5) Riposte ja coveraus ei tarpeen, koska puolustaminen ilmaista
 = Poistetaan käytöstä. Riposte toimii omana erikoistaitonaan (kun käyttää aktiivista puolustusta tai jos liian heikko siten, myös onnistuneesta peruspuolustuksesta) jos joku haluaa sen ja Coverauksen voi sisällyttää kilpiloitsuun esim. siten että 1MP = täysi pooli ja onnistumisia saa jakaa liitolaisille samalla alueella.
+
+6) Levelaus on liian hidasta
+= Tiputetaan varallisuustasonnousun raja puoleen, 50:n välein.
