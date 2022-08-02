@@ -36,7 +36,7 @@ Useampi erikoistaito voi vaikuttaa samaan heittoon tai toimintoon. Esimerkiksi m
 -Taisteluakrobatia: Voit mennä maihin tai nousta ilmaiseksi aina oman aktiivisen toiminnon (ei reaktion) yhteydessä.
 
 ==Lähitaistelu==
--Rynnäkkö: 2a. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä samalla toiminnolla +1N:llä.
+-Rynnäkkö: 2a. Voi liikkua ja tehdä lähitaisteluhyökkäyksen päätepisteessä viereisellä alueella samalla toiminnolla +1N:llä.
 -Rautamyrsky: 3a, lähitaisteluhyökkäys kahteen viholliseen samassa käsikähmässä tai -1MP, 3a, lähitaisteluhyökkäys kaikkiin vihollisiin samassa käsikähmässä
 -Petollinen isku: +1 vahinko, kun lähitaisteluhyökkäys edulla.
 -Aseeton mestari: Jos yksikin tyhjä käsi, poistaa haitan aseettoman taistelun käytöstä aseistettuja vastaan. Jos molemmat kädet tyhjät, aseeton hyökkäys +1 vahinko.
