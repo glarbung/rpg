@@ -23,10 +23,10 @@ Ilmoitettu seuraavasti: Mielipistehinta (-xMP, ei listattu jos ilmainen), Aloite
 
 ==Suojaloitsut==
 
--Kilpiloitsu: 11-reaktio. Suojaa loitsijaa tai valittua näkökentässä olevaa OPP/2 -poolilla.
+-Kilpiloitsu: 1a-reaktio. Suojaa loitsijaa tai valittua näkökentässä olevaa OPP/2 -poolilla.
 -Velhopanssari: 2a, antaa vaparin (Loitsi tämä etukäteen). Luo korkeintaan yhdelle panssaroimattomalle kohteelle kerrallaan kohteelle Rengaspanssaria vastaavan suojan (ei VÄK vaatimusta), jolla etu arkaanisia hyökkäysloitsuja vastaan puolustettaessa.
 -Suojakenttä: -1MP, 1a-reaktio. Suojaa loitsijaa ja tämän samalla alueella olevia liittolaisia OPP/2 -poolilla.
--Antimagic Field: -1MP, 3a. Vähentää valitulla alueella (kauimmillaan viereinen) Oppineisuus-heiton onnistumisten verran onnistumisia kaikista loitsuista tai lisää KN:ää niitä vastaan puolustamiseen kohtauksen ajan.
+-Antimagiakenttä: -1MP, 3a. Vähentää valitulla alueella (kauimmillaan viereinen) Oppineisuus-heiton onnistumisten verran onnistumisia kaikista loitsuista tai lisää KN:ää niitä vastaan puolustamiseen kohtauksen ajan.
 -Karkottava kehä: -1MP, 2a. Muuttaa osan tai kokonaisen alueen jolla olet vastenmieliseksi yhdelle vihollistyypille (esim. demonit, pedot, epäkuolleet, villit tms.). Puolustautuminen näiden hyökkäyksiltä edulla ja haluavat yleensä poistua alueelta.
 
 
@@ -34,7 +34,7 @@ Ilmoitettu seuraavasti: Mielipistehinta (-xMP, ei listattu jos ilmainen), Aloite
 
 -Ripeysloitsu: -1MP, Aktivoidaan heti aloitteiden heittämisen jälkeen, kestää kohtauksen. Kohde voi olla loitsija tai liittolainen, mutta loitsijalta voi olla vain yksi ripeysloitsu kerrallaan aktiivisena. Antaa +1 aloite/kierros ja käyttää Väistö-reaktiota lähitaisteluhyökkäyksiä vastaan.
 -Lentoloitsu: -1MP, 1a. Mahdollistaa lentämisen kohtauksen ajaksi. Voi liikkua myös ylöspäin, avoimilla taistelukentillä yhden zonen maan yläpuolella. Voi ohittaa joitakin vaikeita maastoja (esim. kuopat) ja siirtymiä kuin niitä ei olisikaan. Lentäessä puolustus (ei savet) tapahtuu disadvantagella.
--Hämiskiipeily: -1MP, 0t(muun toiminnon, esim. liikkeen yhteydessä). Mahdollistaa vaivattoman ja nopean kiipeämisen mitä tahansa ei-antimaagista pintaa pitkin. Ohittaa joitakin vaikeita maastoja (esim. korkeuserot) ja siirtymiä kuin niitä ei olisikaan. Liikkuminen mahdollista kolmella vapaalla raajalla ja paikallaan pysyminen kahdella.
+-Hämiskiipeily: -1MP, 0a(muun toiminnon, esim. liikkeen yhteydessä). Mahdollistaa vaivattoman ja nopean kiipeämisen mitä tahansa ei-antimaagista pintaa pitkin. Ohittaa joitakin vaikeita maastoja (esim. korkeuserot) ja siirtymiä kuin niitä ei olisikaan. Liikkuminen mahdollista kolmella vapaalla raajalla ja paikallaan pysyminen kahdella.
 -Näkymättömyys: -1MP, 1a. Näkymättömänä etu puolustukseen ei-aluehyökkäyksiä vastaan ja etu hyökkäyksiin niitä vastaan, jotka eivät aisti sijaintiasi muuten. Katkeaa kun hyökätty/osuttu.
 
 
