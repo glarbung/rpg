@@ -1,0 +1,15 @@
+Haunted West - things to addess in Errata:
+
+-p. 39 (Grit) states that "Burned Grit can be replaced if purchased with Experience (XP)", but there is no cost for replacing burned Grit on p. 312 (Myth-Making / XP Spends)
+
+-p. 46 (Actions in Conflict) uses aiming as an exmple prompt action, but on p. 48 Aiming is listed under Partial Actions with confirmatory text of "...for each partial action dedicated to it".
+
+-p. 122 (Step 9: Your Knowledge) lists additional 50 points to assign in Language and Culture. However, on p. 311 the number of assigned points for each is 70.
+
+-p. 124 (Gumption (GUMP) & Initiative (INIT)) does not say that the Trait division is rounded down, though one can infer it should be from the fact that Initiative calculation is said to be rounded down on p. 46 (Initiative).
+
+-p. 144 (Paragon Archetypes) lists that each Paragon archetype would provide Propensities (2 Points), but p. 268 (Step 6: Propensities) contradicts this somewhat with one point plus zero, one or two additional points per level of gameplay: Westerner, Grittier or Spaghettier. It seems likely that Paragon Archetypes assumes the standard Westerner level of gameplay, in which case it could be worth mentioning there. Also the order of levels of gameplay might be wrong on p. 268, as it implies that Grittier - which provides the smallest amount of Trait points in Paragon creation - would provide more Propensity points than Westerner.
+
+-p. 307 (The Code). We could not find mention of it, but assumed that Western Code starts at 10-10 for each pair on all characters, with modifications from Milestones before start of play. As it could also be free placement, this could be worth clarifying.
+
+-p. 310 (Sample Bonding Posse Events) Roll 5 - Range War, if fought and rolled 3 gives the "Bounty Peculiarity (2 points)". No such peculiarity exists so this should likely be Among the Willows instead.
