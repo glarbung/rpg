@@ -12,4 +12,6 @@ Haunted West - things to addess in Errata:
 
 -p. 307 (The Code). We could not find mention of it, but assumed that Western Code starts at 10-10 for each pair on all characters, with modifications from Milestones before start of play. As it could also be free placement, this could be worth clarifying.
 
+-p. 308 (The Code of the West Modifiers) likely has an error in some of the Jack modifier thresholds. Currently when pair values are either 7 & 13 or 5 & 15, one part of the pair gives a different Jack modifier than the other.
+
 -p. 310 (Sample Bonding Posse Events) Roll 5 - Range War, if fought and rolled 3 gives the "Bounty Peculiarity (2 points)". No such peculiarity exists so this should likely be Among the Willows instead.
