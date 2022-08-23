@@ -8,6 +8,8 @@ Haunted West - things to addess in Errata:
 
 -p. 124 (Gumption (GUMP) & Initiative (INIT)) does not say that the Trait division is rounded down, though one can infer it should be from the fact that Initiative calculation is said to be rounded down on p. 46 (Initiative).
 
+-p. 138 (5 - Shop Worker) lists +20% Apparel as an alternative for Long Arms in an isolated settlement. There is no other reference to an Apparel skill, but this could be meant as Scholar (Appraisal) instead.
+
 -p. 144 (Paragon Archetypes) lists that each Paragon archetype would provide Propensities (2 Points), but p. 268 (Step 6: Propensities) contradicts this somewhat with one point plus zero, one or two additional points per level of gameplay: Westerner, Grittier or Spaghettier. It seems likely that Paragon Archetypes assumes the standard Westerner level of gameplay, in which case it could be worth mentioning there. Also the order of levels of gameplay might be wrong on p. 268, as it implies that Grittier - which provides the smallest amount of Trait points in Paragon creation - would provide more Propensity points than Westerner.
 
 -p. 238 (The Resolute in the Old West) table has 13 entries for rolling on a d12. Likely the 7-8 entry should only be rolled on a 7 with the following entries moving down accordingly.
