@@ -4,6 +4,8 @@ Haunted West - things to addess in Errata:
 
 -p. 46 (Actions in Conflict) uses aiming as an exmple prompt action, but on p. 48 Aiming is listed under Partial Actions with confirmatory text of "...for each partial action dedicated to it".
 
+-p. 61 (Example Rebuttals and Rebuffs) has Helena using Expression in a Social Duel, but it's not marked as a Social Duel skill anywhere else.
+
 -p. 122 (Step 9: Your Knowledge) lists additional 50 points to assign in Language and Culture. However, on p. 311 the number of assigned points for each is 70.
 
 -p. 124 (Gumption (GUMP) & Initiative (INIT)) does not say that the Trait division is rounded down, though one can infer it should be from the fact that Initiative calculation is said to be rounded down on p. 46 (Initiative).
