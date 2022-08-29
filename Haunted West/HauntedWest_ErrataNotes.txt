@@ -1,10 +1,14 @@
 Haunted West - things to addess in Errata:
 
+-p. 38 (The River) states that Jacks can be flown for use "in other -trained- skills", which can be misleading as examples contradict interpretations that this refers to trained skills (like Medicine, not Long Arms) or the Trained*Talented skill rating level. If deemed useful, you could clarify that the limitation is to "known skills" instead, so no automatic successess in languages the character's never heard etc.
+
 -p. 39 (Grit) states that "Burned Grit can be replaced if purchased with Experience (XP)", but there is no cost for replacing burned Grit on p. 312 (Myth-Making / XP Spends)
 
 -p. 46 (Actions in Conflict) uses aiming as an exmple prompt action, but on p. 48 Aiming is listed under Partial Actions with confirmatory text of "...for each partial action dedicated to it".
 
 -p. 61 (Example Rebuttals and Rebuffs) has Helena using Expression in a Social Duel, but it's not marked as a Social Duel skill anywhere else. It seems likely that Expression should be a Social Duel skill as it's also listed as valid for use on p. 62 (Calling em' out / Gunslinger Duels).
+
+-p. 65 (Example Werewolf Terror Test) has the characters gaining a status condition from a Joker with the roll 77 over 40%. Since also the penalty stated at 5% differs from Pokerish -10% (p. 68), this seems like a mistake rather than a new rule where failed double digits on Terror tests would be considered Jokers.
 
 -p. 122 (Step 9: Your Knowledge) lists additional 50 points to assign in Language and Culture. However, on p. 311 the number of assigned points for each is 70.
 
