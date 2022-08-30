@@ -12,6 +12,8 @@ Haunted West - things to addess in Errata:
 
 -p. 65 (Example Werewolf Terror Test) has the characters gaining a status condition from a Joker with the roll 77 over 40%. Since also the penalty stated at 5% differs from Pokerish -10% (p. 68), this seems like a mistake rather than a new rule where failed double digits on Terror tests would be considered Jokers.
 
+-p. 73 (The Badlands - Basics) states that Stamina pool is calculated by (Reflex + Knowledge + Awareness) / 10, which would be the same calculation as used for Initiative. Likely the correct method is "Physique + Reflex + Knowledge + Resolve/10" as stated in Crafting Paragons - Secondary Traits (p. 125) and the Secondary Traits summary on the same page, as well as used in the pregenerated characters' stamina scores.
+
 -p. 122 (Step 9: Your Knowledge) lists additional 50 points to assign in Language and Culture. However, on p. 311 the number of assigned points for each is 70.
 
 -p. 124 (Gumption (GUMP) & Initiative (INIT)) does not say that the Trait division is rounded down, though one can infer it should be from the fact that Initiative calculation is said to be rounded down on p. 46 (Initiative).
