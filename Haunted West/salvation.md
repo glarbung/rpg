@@ -1,4 +1,4 @@
-* Town of Salvation
+# Town of Salvation
 
 [Toim. huom. on hakasuluissa - ja suomeksi]
 
