@@ -1,0 +1,42 @@
+[At character creation]
+
+Ar-Rahim ibn-Ghazi - Mystic
+
+First Come
+
+Icon: Judge - Revenge
+
+Str 4
+Agi 2
+Wit 3
+Emp 4
+(13)
+
+rep: 6-2 = 4 
+
+skills: (12)
+Command 2
+Mystic Powers 2
+Infiltration 1
+Dexterity 1
+----
+Melee Combat 1
+Observation 1
+Force 1
+Survival 1
+Medicurgy 1
+Science 1
+
+
+talents:
+(group) Friend in Every Port
+(icon) Judge
+(general) Nine lives
+(mystic - free) Clairvoyant
+
+Gear:
+Anonymous clothing
+Protective clothing
+Dura sword
+Thermostatic suit
+Transactor with fake identity
