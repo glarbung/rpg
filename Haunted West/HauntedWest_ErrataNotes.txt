@@ -12,15 +12,13 @@ Haunted West - things to addess in Errata:
 
 -p. 65 (Example Werewolf Terror Test) has the characters gaining a status condition from a Joker with the roll 77 over 40%. Since also the penalty stated at 5% differs from Pokerish -10% (p. 68), this seems like a mistake rather than a new rule where failed double digits on Terror tests would be considered Jokers.
 
--p. 73 (The Badlands - Basics) states that Stamina pool is calculated by (Reflex + Knowledge + Awareness) / 10, which would be the same calculation as used for Initiative. Likely the correct method is "Physique + Reflex + Knowledge + Resolve/10" as stated in Crafting Paragons - Secondary Traits (p. 125) and the Secondary Traits summary on the same page, as well as used in the pregenerated characters' stamina scores.
+-p. 73 (The Badlands - Basics) states that Stamina pool is calculated by (Reflex + Knowledge + Awareness) / 10, which would be the same calculation as used for Initiative. Likely the correct method is "Physique + Reflex + Knowledge + Resolve/10" as stated in Crafting Paragons - Secondary Traits (p. 125) and the Secondary Traits summary on the same page, as well as seemingly used in the pregenerated characters' stamina scores.
 
 -p. 122 (Step 9: Your Knowledge) lists additional 50 points to assign in Language and Culture. However, on p. 311 the number of assigned points for each is 70.
 
--p. 124 (Gumption (GUMP) & Initiative (INIT)) does not say that the Trait division is rounded down, though one can infer it should be from the fact that Initiative calculation is said to be rounded down on p. 46 (Initiative).
-
 -p. 138 (5 - Shop Worker) lists +20% Apparel as an alternative for Long Arms in an isolated settlement. There is no other reference to an Apparel skill, but this could be meant as Scholar (Appraisal) instead.
 
--p. 138 (10 - Military Service) Skilled Soldier gives an extra Jack on successful calls, whereas all the other skilled apperenticeship bonused are stated to trigger on a related skill call with no mention of success. Certainly this doesn't mean that non-soldier apperentices can flow Jacks down the river on failed rolls, but it could be safer to clarify that all Apperentice Skilled bonuses grant an extra Jack on a call of the relevant skill only when successful.
+-p. 138 (10 - Military Service) Skilled Soldier gives an extra Jack on successful calls, whereas all the other skilled apperenticeship bonuses are stated to trigger on a related skill call with no mention of success. Certainly this doesn't mean that non-soldier apperentices can flow Jacks down the river on failed rolls, but it could be safer to clarify that all Apperentice Skilled bonuses grant an extra Jack on a call of the relevant skill only when successful.
 
 -p. 144 (Paragon Archetypes) lists that each Paragon archetype would provide Propensities (2 Points), but p. 268 (Step 6: Propensities) contradicts this somewhat with one point plus zero, one or two additional points per level of gameplay: Westerner, Grittier or Spaghettier. It seems likely that Paragon Archetypes assumes the standard Westerner level of gameplay, in which case it could be worth mentioning there. Also the order of levels of gameplay might be wrong on p. 268, as it implies that Grittier - which provides the smallest amount of Trait points in Paragon creation - would provide more Propensity points than Westerner.
 
