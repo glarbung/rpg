@@ -24,6 +24,8 @@ Haunted West - things to addess in Errata:
 
 -p. 238 (The Resolute in the Old West) table has 13 entries for rolling on a d12. Likely the 7-8 entry should only be rolled on a 7 with the following entries moving down accordingly.
 
+-p. 283 (By George, I've Got It!) and p. 288 (I've Seen That Before!) might have mistakenly gotten the effect text from Weird Science's three Builder propensities that reduce construction times when their descriptions would seem to indicate reductions in research times.
+
 -p. 307 (The Code). We could not find mention of it, but assumed that Western Code starts at 10-10 for each pair on all characters, with modifications from Milestones before start of play. As it could also be free placement, this could be worth clarifying.
 
 -p. 308 (The Code of the West Modifiers) likely has an error in some of the Jack modifier thresholds. Currently when pair values are either 7 & 13 or 5 & 15, one part of the pair gives a different Jack modifier than the other.
