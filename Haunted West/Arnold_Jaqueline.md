@@ -1,7 +1,11 @@
 Hahmo: Director Arnold Jacqueline / John Dixon
+
 Pelaaja: Harri
+
 Sukupuoli: mies
+
 Etnisyys: (puoliksi) musta
+
 Ikä: n. 30v
 
 Synnyit 1830-luvun lopulla Louisianassa. Äitisi, Kitty, oli kotiorja merkittävälle plantaasiomistajien, kauppiaiden ja poliittikojen suvulle. Isäsi oli luonnollisesti suvun nuoren sukupolven vanhin mies, Whitaker Dixon. Väitetysti suku on alkuperäisen Jeremiah Dixonin jälkeläisiä, mutta se on todennäköisesti iso-isoisäsi keksimä sepite.
