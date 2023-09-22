@@ -1,6 +1,19 @@
-# Peli ideat
+# Peli-ideat
 
 - Santa Fen pankki ryöstetään [Venlan toive]
+- Dodge Cityn perustaminen ja rautatie (1971-1972)
+- "Hollow Earth" dinosaurukset Wyomingissä
+- Alien-aluksen haaksirikko (kyytiin ja uusi haaksirikko - syksy 1870 Eurooppaan - Ranska-Preussi -sota)
+	-> Cowboy-fanitus Lontoossa
+- Henkilö, joka uneksii kirjojen hahmoja todeksi (toinen David Valentine)
+- Haamuasema
+- Aurinkoa palvovat intiaanit syrjässä (asteekkien jälkeläiset?)
+- Perinteinen kaksintaistelu (miekoilla tai musketeilla) Davidille
+- Frontier psychiatrist
+- Sioux-kärhämät
+- Konfederaattien kulta ja paljon petturuutta (hyväpaharuma & blueberryn chihuahua)
+- Salapoliisikonferenssi
+- jokilaivakisa alas mississippiä
 
 # Piispan lainauksia
 
@@ -53,7 +66,7 @@ Leviticus 20
 Exodus 22
 [17] »Noitanaisen älä anna elää. 
 
-* Kuvauksia Veren ääriin -kirjasta
+# Kuvauksia Veren ääriin -kirjasta
 
 ”Pohjoisessa sade oli riepottanut ukkospilvistä mustia kärhiä kuin juomalasiin pudonnutta lampunnokea ja sateen rummutus kuului mailien päästä öisellä preerialla. He nousivat louhikkoisen solan läpi ja salama muovasi näkyviin kaukana vavahtavat vuoret ja helähti ympäröivissä kivissä ja sinisen tulen töyhdöt  tarttuivat hevosiin kuin hehkuvat henkiolennot joita ei saanut karistettua pois. Himmeät ukonvirvat kulkivat valjaiden metalliosilla, siniset ja nestemäiset valot soljuivat aseiden piippuja pitkin. Sekapäiset jänikset säntäilivät ja seisahtelivat sinisessä hehkussa ja korkealla kumisevilla jyrkänteillä istuivat kaurishaukat kyyristelivät höyhenissään tai räväyttivät keltaista silmää ukkoselle jalkojensa alla.
 
