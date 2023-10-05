@@ -1,6 +1,6 @@
 "Herra olkoon teidän kanssanne," kaikui Shrewtonin paljaassa puukirkossa. Piispa Anderson oli juuri aloittamassa saarnaansa kun ovi rysähti auki. Haulikkoa heiluteleva nuori nainen astui sisään kahden miehen saattelemana. Sheriffi nousi penkiltään estääkseen keskeytyksen, mutta naista seurannut, siististi pukeutunut vanhempi mies kehotti häntä istumaan takaisin alas niin hienoilla sanoilla, että hän ei tajunnut edes kieltäytyä.
 
-"Nimeni on Anna-Belle Serrat," nainen sanoi. "Tämä mies ei ole piispa. Hän on sotarikollinen nimeltään Anderson. Ja hän tappoi isämme..." Nainen nyökkäsi kohti lähes täysi-ikäistä veljeään, joka oli jäänyt kiväärin kanssa ovelle. Seurakunta kavahti, mutta ensimmäiset epäilevät mutinat alkoivat samantien. Piispa seisoi hiljaa katsoen syytäjäänsä silmiin.
+"Nimeni on Anna-Belle Serrat," nainen sanoi. "Tämä mies ei ole piispa. Hän on sotarikollinen nimeltään Anderson. Ja hän tappoi isämme..." Nainen nyökkäsi kohti lähes täysi-ikäistä veljeään, joka oli jäänyt kiväärin kanssa ovelle. Seurakunta kavahti, mutta ensimmäiset epäilevät mutinat alkoivat samantien. Piispa seisoi hiljaa katsoen syyttäjäänsä silmiin.
 
 Anna-Belle jatkoi: "Ja nyt olet myös tappattanut äitimme ja tämän kumppanit. Tiedämme, että he olivat sinun ja rikostoveriesi kintereillä."
 
