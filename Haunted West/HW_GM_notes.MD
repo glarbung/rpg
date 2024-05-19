@@ -3,17 +3,12 @@
 - Santa Fen pankki ryöstetään [Venlan toive]
 - Dodge Cityn perustaminen ja rautatie (1971-1972)
 - "Hollow Earth" dinosaurukset Wyomingissä
-- Alien-aluksen haaksirikko (kyytiin ja uusi haaksirikko - syksy 1870 Eurooppaan - Ranska-Preussi -sota)
-	-> Cowboy-fanitus Lontoossa
-- Henkilö, joka uneksii kirjojen hahmoja todeksi (toinen David Valentine)
 - Haamuasema
 - Aurinkoa palvovat intiaanit syrjässä (asteekkien jälkeläiset?)
 - Perinteinen kaksintaistelu (miekoilla tai musketeilla) Davidille
-- Frontier psychiatrist
-- Sioux-kärhämät
 - Konfederaattien kulta ja paljon petturuutta (hyväpaharuma & blueberryn chihuahua)
 - Salapoliisikonferenssi
-- jokilaivakisa alas mississippiä
+- kylä jolla yhteinen synkkä salaisuus (demoni, murhattu rangeri ja varastetut rahat tms)
 
 # Piispan lainauksia
 
